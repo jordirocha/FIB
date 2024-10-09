@@ -4,12 +4,13 @@ using namespace std;
 
 int main()
 {
-    int lines, x1, y1, x2, y2;
+    int lines;
     // Primero leemos la cantidad de lineas a leer
     cin >> lines;
 
     for (int i = 0; i < lines; i++)
     {
+        int x1, y1, x2, y2;
         cin >> x1 >> y1 >> x2 >> y2;
 
         // para la dirección N o S, usamos las coordenadas x de cada punt

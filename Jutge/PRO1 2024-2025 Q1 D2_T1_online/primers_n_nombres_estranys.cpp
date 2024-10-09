@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int n, copyN1, copyN2, pow = 0, sum = 0;
+    int n;
     // Declaramos el posible primer numero extraño
     int strangeNum = 1;
     // n va a ser la cantidad de numeros extraños a obtener
@@ -12,6 +12,7 @@ int main()
 
     for (int i = 1; i <= n; i++)
     {
+        int copyN1, copyN2, pow = 0, sum = 0;
         // dos variables que son copia del primer numero extraño
         copyN1 = copyN2 = strangeNum;
         // primer bucle usado para obtener el exponente para cada base del numero
@@ -44,7 +45,5 @@ int main()
             i--;
         // Continuamos con el siguiente posible numero estraño
         strangeNum++;
-        // Reiniciamos las variables de potencia y suma
-        pow = sum = 0;
     }
 }

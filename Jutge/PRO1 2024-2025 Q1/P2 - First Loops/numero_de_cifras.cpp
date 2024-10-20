@@ -4,23 +4,18 @@ using namespace std;
 
 int main()
 {
-    int a, b;
-    cin >> a >> b;
+    int a;
 
-    if (a == b)
+    cin >> a;
+    for (int i = 2; i <= 16; i++)
     {
-        cout << a << endl;
-    }
-    else
-    {
-        for (int i = a; i <= b; i++)
+        int digits = 0;
+        int decimal = a;
+        while (decimal > 0)
         {
-            cout << i;
-            if (i != b)
-            {
-                cout << ',';
-            }
+            decimal /= i;
+            digits++;
         }
-        cout << endl;
+        cout << "Base " << i << ": " << digits << " cifras." << endl;
     }
 }

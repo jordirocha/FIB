@@ -1,16 +1,15 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/jordy/Documents/FIB/Jutge/PRO1 2024-2025 Q1/P2 - First Loops",
-      "program": "c:/Users/jordy/Documents/FIB/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/jordi/Documents/FIB/Jutge/PRO1 2024-2025 Q1 D3_T1_online",
+      "program": "/home/jordi/Documents/FIB/Jutge/PRO1 2024-2025 Q1 D3_T1_online/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

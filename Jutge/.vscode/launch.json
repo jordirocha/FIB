@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/jordi/Documents/FIB/Jutge/PRO1 2024-2025 Q1/P4.2 - Sequence extension",
-      "program": "/home/jordi/Documents/FIB/Jutge/PRO1 2024-2025 Q1/P4.2 - Sequence extension/build/Debug/outDebug",
+      "cwd": "/home/jordi/Documents/FIB/Jutge/PRO1 2024-2025 Q1/P5 - Functions & Procedures",
+      "program": "/home/jordi/Documents/FIB/Jutge/PRO1 2024-2025 Q1/P5 - Functions & Procedures/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -7,14 +7,18 @@ using namespace std;
 
 void genome_test(char character, char nucleotide, int index, int &counter_code, int &position_code,
                  int &max_counter_code,
-                 int &max_position_code) {
-    if (character == nucleotide) {
+                 int &max_position_code)
+{
+    if (character == nucleotide)
+    {
         counter_code++;
-        if (counter_code == 1) {
+        if (counter_code == 1)
             position_code = index;
-        }
-    } else {
-        if (counter_code > max_counter_code) {
+    }
+    else
+    {
+        if (counter_code > max_counter_code)
+        {
             max_counter_code = counter_code;
             max_position_code = position_code;
         }
@@ -22,18 +26,19 @@ void genome_test(char character, char nucleotide, int index, int &counter_code, 
     }
 }
 
-void print_genome(char nucleotide, int counter, int position) {
-    if (counter > 0) {
+void print_genome(char nucleotide, int counter, int position)
+{
+    if (counter > 0)
         cout << "\"" << nucleotide << "\" = " << counter << "(" << position << ")";
-    } else {
+    else
         cout << "\"" << nucleotide << "\" = 0";
-    }
-    if (nucleotide != 'T') {
+
+    if (nucleotide != 'T')
         cout << ", ";
-    }
 }
 
-int main() {
+int main()
+{
     char ch;
     int index = 0;
 
@@ -49,8 +54,8 @@ int main() {
     int counter_t, position_t, max_counter_t, max_position_t;
     counter_t = position_t = max_counter_t = max_position_t = 0;
 
-
-    while (cin >> ch) {
+    while (cin >> ch)
+    {
         index++;
         genome_test(ch, 'A', index, counter_a, position_a,
                     max_counter_a, max_position_a);
@@ -61,7 +66,8 @@ int main() {
         genome_test(ch, 'T', index, counter_t, position_t,
                     max_counter_t, max_position_t);
 
-        if (ch == '.') {
+        if (ch == '.')
+        {
             index = 0;
 
             print_genome('A', max_counter_a, max_position_a);

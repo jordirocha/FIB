@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/dibuja_un_triangulo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/escribe_al_reves.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/nombre_de_pics_en_numeros_d_entrada.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/numero_de_palabras.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/resta_un_segundo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/words_between_two_words.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jordirocha&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jordirocha/FIB.git&quot;,
+    &quot;accountId&quot;: &quot;e82c8921-b5c7-4296-a11d-d814624509e9&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2oKtRwi1qNpbw1mwUiXqzLGJAtv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "C/C++ File.dibuja_un_triangulo.cpp.executor": "Run",
+    "C/C++ File.donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp.executor": "Run",
+    "C/C++ File.escribe_al_reves.cpp.executor": "Run",
+    "C/C++ File.nombre_de_pics_en_numeros_d_entrada.cpp.executor": "Run",
+    "C/C++ File.numero_de_palabras.cpp.executor": "Run",
+    "C/C++ File.primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp.executor": "Run",
+    "C/C++ File.repeticions_de_bases.cpp.executor": "Run",
+    "C/C++ File.resta_un_segundo.cpp.executor": "Run",
+    "C/C++ File.sembles_mes_jove.cpp.executor": "Run",
+    "C/C++ File.words_between_two_words.cpp.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.escribe_al_reves.cpp">
+    <configuration name="dibuja_un_triangulo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="dibuja_un_triangulo.cpp" CONFIG_NAME="dibuja_un_triangulo.cpp">
+      <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/dibuja_un_triangulo.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp" CONFIG_NAME="donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp">
+      <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="escribe_al_reves.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="escribe_al_reves.cpp" CONFIG_NAME="escribe_al_reves.cpp">
+      <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/escribe_al_reves.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nombre_de_pics_en_numeros_d_entrada.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="nombre_de_pics_en_numeros_d_entrada.cpp" CONFIG_NAME="nombre_de_pics_en_numeros_d_entrada.cpp">
+      <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/nombre_de_pics_en_numeros_d_entrada.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="numero_de_palabras.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="numero_de_palabras.cpp" CONFIG_NAME="numero_de_palabras.cpp">
+      <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/numero_de_palabras.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp" CONFIG_NAME="primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp">
+      <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="repeticions_de_bases.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="repeticions_de_bases.cpp" CONFIG_NAME="repeticions_de_bases.cpp">
+      <option name="sourceFile" value="PRO1 2024 Tardor - Mock Parcial (online)/repeticions_de_bases.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="resta_un_segundo.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="resta_un_segundo.cpp" CONFIG_NAME="resta_un_segundo.cpp">
+      <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/resta_un_segundo.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sembles_mes_jove.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="sembles_mes_jove.cpp" CONFIG_NAME="sembles_mes_jove.cpp">
+      <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/Alternatives/sembles_mes_jove.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="words_between_two_words.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="words_between_two_words.cpp" CONFIG_NAME="words_between_two_words.cpp">
+      <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/words_between_two_words.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="" />
+      <created>1730630091303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730630091303</updated>
+      <workItem from="1730630092440" duration="12090000" />
+      <workItem from="1730792803736" duration="3942000" />
+      <workItem from="1730833853869" duration="9365000" />
+      <workItem from="1730891052634" duration="14022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

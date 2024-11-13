@@ -18,23 +18,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/classificacio_de_caracters.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/escriviu_una_creu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/intercanvi.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/build/Debug/outDebug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/words_between_two_words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024 Tardor - Mock Parcial (online)/repeticions_de_bases.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024 Tardor - Mock Parcial (online)/repeticions_de_bases.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/build/Debug/outDebug" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/distancia_origen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/distancia_origen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/funcio_per_als_anys_de_traspas.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/funcio_per_als_anys_de_traspas.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dibuja_un_triangulo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/escribe_al_reves" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nombre_de_pics_en_numeros_d_entrada" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numero_de_palabras" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resta_un_segundo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sembles_mes_jove" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/words_between_two_words" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dates_valides" beforeDir="false" afterPath="$PROJECT_DIR$/dates_valides" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +55,42 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -81,11 +106,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "C/C++ File.classificacio_de_caracters.cpp.executor": "Run",
+    "C/C++ File.dates_valides.cpp.executor": "Run",
     "C/C++ File.dibuja_un_triangulo.cpp.executor": "Run",
     "C/C++ File.distancia_origen.cpp.executor": "Run",
     "C/C++ File.donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp.executor": "Run",
     "C/C++ File.escribe_al_reves.cpp.executor": "Run",
+    "C/C++ File.escriviu_una_creu.cpp.executor": "Run",
     "C/C++ File.funcio_per_als_anys_de_traspas.cpp.executor": "Run",
+    "C/C++ File.intercanvi.cpp.executor": "Run",
     "C/C++ File.nombre_de_pics_en_numeros_d_entrada.cpp.executor": "Run",
     "C/C++ File.numero_de_palabras.cpp.executor": "Run",
     "C/C++ File.primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp.executor": "Run",
@@ -109,7 +138,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.funcio_per_als_anys_de_traspas.cpp">
+  <component name="RunManager" selected="C/C++ File.escriviu_una_creu.cpp">
+    <configuration name="classificacio_de_caracters.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="classificacio_de_caracters.cpp" CONFIG_NAME="classificacio_de_caracters.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/classificacio_de_caracters.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="dates_valides.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="dates_valides.cpp" CONFIG_NAME="dates_valides.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" />
       <method v="2">
@@ -140,8 +175,20 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="escriviu_una_creu.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="escriviu_una_creu.cpp" CONFIG_NAME="escriviu_una_creu.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/escriviu_una_creu.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="funcio_per_als_anys_de_traspas.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="funcio_per_als_anys_de_traspas.cpp" CONFIG_NAME="funcio_per_als_anys_de_traspas.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/funcio_per_als_anys_de_traspas.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intercanvi.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="intercanvi.cpp" CONFIG_NAME="intercanvi.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/intercanvi.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -203,6 +250,7 @@
       <workItem from="1730891052634" duration="14022000" />
       <workItem from="1731081063851" duration="156000" />
       <workItem from="1731510669351" duration="2549000" />
+      <workItem from="1731527908411" duration="5484000" />
     </task>
     <servers />
   </component>

@@ -17,12 +17,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D5_T1_online/expressions_min_max.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P6 - Recursion/expressio_prefixada_1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/inversio_de_sequencies.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/invertint_paraules_2.cpp" afterDir="false" />
+    <list default="true" id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="new files">
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/com_la_suma_dels_demes_ii.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/es_un_palindrom.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/producte_escalar.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/regla_de_horner.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/regla_de_horner.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +41,12 @@
     &quot;assignee&quot;: &quot;jordirocha&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jordirocha/FIB.git&quot;,
-    &quot;accountId&quot;: &quot;e82c8921-b5c7-4296-a11d-d814624509e9&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jordirocha/FIB.git",
+    "accountId": "5c67cde3-4f9a-4b8b-8484-50694b5c3dad"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -110,6 +110,7 @@
     "C/C++ File.dibuja_un_triangulo.cpp.executor": "Run",
     "C/C++ File.distancia_origen.cpp.executor": "Run",
     "C/C++ File.donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp.executor": "Run",
+    "C/C++ File.es_un_palindrom.cpp.executor": "Run",
     "C/C++ File.escribe_al_reves.cpp.executor": "Run",
     "C/C++ File.escriviu_una_creu.cpp.executor": "Run",
     "C/C++ File.expressio_prefixada_1.cpp.executor": "Run",
@@ -120,6 +121,8 @@
     "C/C++ File.nombre_de_pics_en_numeros_d_entrada.cpp.executor": "Run",
     "C/C++ File.numero_de_palabras.cpp.executor": "Run",
     "C/C++ File.primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp.executor": "Run",
+    "C/C++ File.producte_escalar.cpp.executor": "Run",
+    "C/C++ File.regla_de_horner.cpp.executor": "Run",
     "C/C++ File.repeticions_de_bases.cpp.executor": "Run",
     "C/C++ File.resta_un_segundo.cpp.executor": "Run",
     "C/C++ File.sembles_mes_jove.cpp.executor": "Run",
@@ -147,7 +150,7 @@
       <recent name="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.invertint_paraules_2.cpp">
+  <component name="RunManager" selected="C/C++ File.es_un_palindrom.cpp">
     <configuration name="classificacio_de_caracters.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="classificacio_de_caracters.cpp" CONFIG_NAME="classificacio_de_caracters.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/classificacio_de_caracters.cpp" />
       <method v="2">
@@ -174,6 +177,12 @@
     </configuration>
     <configuration name="donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp" CONFIG_NAME="donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp">
       <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="es_un_palindrom.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="es_un_palindrom.cpp" CONFIG_NAME="es_un_palindrom.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1/P7 - Vectors/es_un_palindrom.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -238,6 +247,18 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="producte_escalar.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="producte_escalar.cpp" CONFIG_NAME="producte_escalar.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1/P7 - Vectors/producte_escalar.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="regla_de_horner.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="regla_de_horner.cpp" CONFIG_NAME="regla_de_horner.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1/P7 - Vectors/regla_de_horner.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="repeticions_de_bases.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="repeticions_de_bases.cpp" CONFIG_NAME="repeticions_de_bases.cpp">
       <option name="sourceFile" value="PRO1 2024 Tardor - Mock Parcial (online)/repeticions_de_bases.cpp" />
       <method v="2">
@@ -282,12 +303,25 @@
       <workItem from="1732709616849" duration="298000" />
       <workItem from="1732709920785" duration="2888000" />
       <workItem from="1732712815702" duration="771000" />
-      <workItem from="1732715704157" duration="10386000" />
+      <workItem from="1732715704157" duration="15418000" />
     </task>
+    <task id="LOCAL-00001" summary="new files">
+      <option name="closed" value="true" />
+      <created>1732730075993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732730075993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,12 +4,21 @@
 
 #include <iostream>
 #include <vector>
+#include <cmath>
+
 using namespace std;
 
-int avalua(const vector<int>& P, int x);
+int avalua(const vector<int> &P, int x) {
 
-int main()
-{
+  int result = 0;
+
+    for (int i = 0; i < P.size(); i++) {
+        result += P[i]*pow( x, i);
+    }
+    return result;
+}
+
+int main() {
     int n;
     while (cin >> n) {
         vector<int> P(n);

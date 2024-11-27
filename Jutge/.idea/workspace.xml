@@ -18,12 +18,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/classificacio_de_caracters.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/escriviu_una_creu.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/intercanvi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D5_T1_online/expressions_min_max.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P6 - Recursion/expressio_prefixada_1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/inversio_de_sequencies.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/invertint_paraules_2.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dates_valides" beforeDir="false" afterPath="$PROJECT_DIR$/dates_valides" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,8 +112,11 @@
     "C/C++ File.donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp.executor": "Run",
     "C/C++ File.escribe_al_reves.cpp.executor": "Run",
     "C/C++ File.escriviu_una_creu.cpp.executor": "Run",
+    "C/C++ File.expressio_prefixada_1.cpp.executor": "Run",
+    "C/C++ File.expressions_min_max.cpp.executor": "Run",
     "C/C++ File.funcio_per_als_anys_de_traspas.cpp.executor": "Run",
     "C/C++ File.intercanvi.cpp.executor": "Run",
+    "C/C++ File.invertint_paraules_2.cpp.executor": "Run",
     "C/C++ File.nombre_de_pics_en_numeros_d_entrada.cpp.executor": "Run",
     "C/C++ File.numero_de_palabras.cpp.executor": "Run",
     "C/C++ File.primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp.executor": "Run",
@@ -125,20 +127,27 @@
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/jordi/Documentos/FIB/Jutge/PRO1 2024-2025 Q1/P7 - Vectors",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.escriviu_una_creu.cpp">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.invertint_paraules_2.cpp">
     <configuration name="classificacio_de_caracters.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="classificacio_de_caracters.cpp" CONFIG_NAME="classificacio_de_caracters.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/classificacio_de_caracters.cpp" />
       <method v="2">
@@ -181,6 +190,18 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="expressio_prefixada_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="expressio_prefixada_1.cpp" CONFIG_NAME="expressio_prefixada_1.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1/P6 - Recursion/expressio_prefixada_1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="expressions_min_max.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="expressions_min_max.cpp" CONFIG_NAME="expressions_min_max.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1 D5_T1_online/expressions_min_max.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="funcio_per_als_anys_de_traspas.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="funcio_per_als_anys_de_traspas.cpp" CONFIG_NAME="funcio_per_als_anys_de_traspas.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/funcio_per_als_anys_de_traspas.cpp" />
       <method v="2">
@@ -189,6 +210,12 @@
     </configuration>
     <configuration name="intercanvi.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="intercanvi.cpp" CONFIG_NAME="intercanvi.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/intercanvi.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="invertint_paraules_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="invertint_paraules_2.cpp" CONFIG_NAME="invertint_paraules_2.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1/P7 - Vectors/invertint_paraules_2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -251,11 +278,26 @@
       <workItem from="1731081063851" duration="156000" />
       <workItem from="1731510669351" duration="2549000" />
       <workItem from="1731527908411" duration="5484000" />
+      <workItem from="1732639428070" duration="167000" />
+      <workItem from="1732709616849" duration="298000" />
+      <workItem from="1732709920785" duration="2888000" />
+      <workItem from="1732712815702" duration="771000" />
+      <workItem from="1732715704157" duration="10386000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/PRO1 2024-2025 Q1 D5_T1_online/expressions_min_max.cpp</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

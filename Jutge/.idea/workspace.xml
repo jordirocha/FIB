@@ -5,8 +5,9 @@
   </component>
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
-    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppParameterNameHintsOptions" type="string" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakeProjectFlavorService">
@@ -19,9 +20,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D6_T1_online/sequencia_doblement_estocastica.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes_2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/barquets_1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/camps.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/control_c401_b.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/cruz_recursiva.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/diagonals_creixents.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/es_la_solucio_d_un_sudoku.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/f010_b_els_alfils_amenacadors.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/files_i_columnes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/matriu_transposta.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/productes_de_matrius_quadrades.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/productes_de_matrius_qualssevol.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/rectangle_contenidor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres_amb_punts.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/com_la_suma_dels_demes_ii.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors/com_la_suma_dels_demes_ii.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D6_T1_online/sequencia_doblement_estocastica.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D6_T1_online/sequencia_doblement_estocastica.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classificacio_de_caracters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dates_valides" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/distancia_origen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/escriviu_una_creu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcio_per_als_anys_de_traspas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intercanvi" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,56 +127,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;C/C++ File.classificacio_de_caracters.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.dates_valides.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.dibuja_un_triangulo.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.distancia_origen.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.es_un_palindrom.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.escribe_al_reves.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.escriviu_una_creu.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.expressio_prefixada_1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.expressions_min_max.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.funcio_per_als_anys_de_traspas.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.intercanvi.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.invertint_paraules_2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.nombre_de_pics_en_numeros_d_entrada.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.numero_de_palabras.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.producte_escalar.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.regla_de_horner.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.repeticions_de_bases.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.resta_un_segundo.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.sembles_mes_jove.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.sequencia_doblement_estocastica.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.words_between_two_words.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jordi/Documentos/FIB/Jutge/PRO1 2024-2025 Q1/P7 - Vectors&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "C/C++ File.amenaces_alienigenes.cpp.executor": "Run",
+    "C/C++ File.classificacio_de_caracters.cpp.executor": "Run",
+    "C/C++ File.dates_valides.cpp.executor": "Run",
+    "C/C++ File.dibuja_un_triangulo.cpp.executor": "Run",
+    "C/C++ File.distancia_origen.cpp.executor": "Run",
+    "C/C++ File.donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp.executor": "Run",
+    "C/C++ File.es_un_palindrom.cpp.executor": "Run",
+    "C/C++ File.escribe_al_reves.cpp.executor": "Run",
+    "C/C++ File.escriviu_una_creu.cpp.executor": "Run",
+    "C/C++ File.expressio_prefixada_1.cpp.executor": "Run",
+    "C/C++ File.expressions_min_max.cpp.executor": "Run",
+    "C/C++ File.files_i_columnes.cpp.executor": "Run",
+    "C/C++ File.funcio_per_als_anys_de_traspas.cpp.executor": "Run",
+    "C/C++ File.intercanvi.cpp.executor": "Run",
+    "C/C++ File.invertint_paraules_2.cpp.executor": "Run",
+    "C/C++ File.matriu_transposta.cpp.executor": "Run",
+    "C/C++ File.nombre_de_pics_en_numeros_d_entrada.cpp.executor": "Run",
+    "C/C++ File.numero_de_palabras.cpp.executor": "Run",
+    "C/C++ File.primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp.executor": "Run",
+    "C/C++ File.producte_escalar.cpp.executor": "Run",
+    "C/C++ File.productes_de_matrius_quadrades.cpp.executor": "Run",
+    "C/C++ File.regla_de_horner.cpp.executor": "Run",
+    "C/C++ File.repeticions_de_bases.cpp.executor": "Run",
+    "C/C++ File.resta_un_segundo.cpp.executor": "Run",
+    "C/C++ File.sembles_mes_jove.cpp.executor": "Run",
+    "C/C++ File.sequencia_doblement_estocastica.cpp.executor": "Run",
+    "C/C++ File.words_between_two_words.cpp.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/jordy/Documents/GitHub/FIB/Jutge/PRO1 2024-2025 Q1 D7_T1_online",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jordy\Documents\GitHub\FIB\Jutge\PRO1 2024-2025 Q1 D7_T1_online" />
       <recent name="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.sequencia_doblement_estocastica.cpp">
+  <component name="RunManager" selected="C/C++ File.amenaces_alienigenes.cpp">
+    <configuration name="amenaces_alienigenes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="amenaces_alienigenes.cpp" CONFIG_NAME="amenaces_alienigenes.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1 D7_T1_online\amenaces_alienigenes.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="classificacio_de_caracters.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="classificacio_de_caracters.cpp" CONFIG_NAME="classificacio_de_caracters.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/classificacio_de_caracters.cpp" />
       <method v="2">
@@ -211,6 +249,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="files_i_columnes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="files_i_columnes.cpp" CONFIG_NAME="files_i_columnes.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1\P8 - Multidimensional Arrays\files_i_columnes.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="funcio_per_als_anys_de_traspas.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="funcio_per_als_anys_de_traspas.cpp" CONFIG_NAME="funcio_per_als_anys_de_traspas.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/funcio_per_als_anys_de_traspas.cpp" />
       <method v="2">
@@ -225,6 +269,12 @@
     </configuration>
     <configuration name="invertint_paraules_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="invertint_paraules_2.cpp" CONFIG_NAME="invertint_paraules_2.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P7 - Vectors/invertint_paraules_2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="matriu_transposta.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="matriu_transposta.cpp" CONFIG_NAME="matriu_transposta.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1\P8 - Multidimensional Arrays\matriu_transposta.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -249,6 +299,12 @@
     </configuration>
     <configuration name="producte_escalar.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="producte_escalar.cpp" CONFIG_NAME="producte_escalar.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1/P7 - Vectors/producte_escalar.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productes_de_matrius_quadrades.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="productes_de_matrius_quadrades.cpp" CONFIG_NAME="productes_de_matrius_quadrades.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1\P8 - Multidimensional Arrays\productes_de_matrius_quadrades.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -312,6 +368,16 @@
       <workItem from="1732715704157" duration="15418000" />
       <workItem from="1732737480442" duration="3035000" />
       <workItem from="1732740714629" duration="718000" />
+      <workItem from="1732744454491" duration="133000" />
+      <workItem from="1732744597487" duration="201000" />
+      <workItem from="1732745192602" duration="4400000" />
+      <workItem from="1732825718045" duration="2006000" />
+      <workItem from="1732828269390" duration="1349000" />
+      <workItem from="1732991725126" duration="3391000" />
+      <workItem from="1732995465648" duration="2737000" />
+      <workItem from="1733048881479" duration="445000" />
+      <workItem from="1733166081752" duration="12608000" />
+      <workItem from="1733229587868" duration="12530000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <option name="closed" value="true" />

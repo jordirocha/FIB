@@ -1,6 +1,3 @@
-//
-// Created by jordy on 02/12/2024.
-//
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -18,16 +15,38 @@ void readData(Matrix &matrix) {
     }
 }
 
+vector<int> getSpatialZonesData(const Matrix &matrix, int i, int j, int k) {
+    int sumOfAlienDensities = 0;
+    int maxDensityInSubsquare = -1;
+    Row dataOfCriticalZones(2);
+
+    int rowIndex = i;
+    for (int t = 0; t < k; t++) {
+        int columnIndex = j;
+        for (int m = 0; m < k; m++) {
+            sumOfAlienDensities += matrix[rowIndex][columnIndex];
+            if (matrix[rowIndex][columnIndex] > maxDensityInSubsquare)
+                maxDensityInSubsquare = matrix[rowIndex][columnIndex];
+            columnIndex++;
+        }
+        rowIndex++;
+    }
+
+    dataOfCriticalZones[0] = sumOfAlienDensities;
+    dataOfCriticalZones[1] = maxDensityInSubsquare;
+
+    return dataOfCriticalZones;
+}
+
 int main() {
     int n, m;
     bool loopContinues = true;
 
     cin >> n;
-
     loopContinues = (n != 0);
 
     while (loopContinues) {
-        int sumOfAlienDensities = -1, maxDensityInSubsquare = 0;
+        int maxSumOfAlienDensities = -1, maxDensityInSubsquare = 0;
         cin >> m;
 
         Matrix spatialZones(n, Row(m));
@@ -38,65 +57,33 @@ int main() {
 
         Matrix criticalZones(k, Row(k));
 
-        int column = 0;
-        int row = 0;
-
-        int initialRowPosition = 0;
-        int initialColumnPosition = 0;
-
+        int initialRowPosition = 0, initialColumnPosition = 0;
         Row coordinates(2);
+        Row dataOfCriticalZones(2);
 
         bool shouldContinue = true;
-
         while (shouldContinue) {
+            dataOfCriticalZones = getSpatialZonesData(spatialZones, initialRowPosition, initialColumnPosition, k);
 
-            row = initialRowPosition;
-            for (int i = 0; i < k; i++) {
-                column = initialColumnPosition;
-                for (int j = 0; j < k; j++) {
-                    criticalZones[i][j] = spatialZones[row][column];
-                    column++;
-                }
-                row++;
+            if (dataOfCriticalZones[0] > maxSumOfAlienDensities) {
+                maxSumOfAlienDensities = dataOfCriticalZones[0];
+                maxDensityInSubsquare = dataOfCriticalZones[1];
+                coordinates[0] = initialRowPosition;
+                coordinates[1] = initialColumnPosition;
             }
 
-            int xCoordinate = (row - 1) - (k - 1);
-            int yCoordinate = (column - 1) - (k - 1);
-
-            bool isEndOfVerticalTraversal = (column - 1) == (m - 1);
-            bool isEndOfHorizontalTraversal = isEndOfVerticalTraversal and (row - 1) == (n - 1);
-
-            if (isEndOfVerticalTraversal) {
+            if ((initialColumnPosition + (k - 1)) == (m - 1)) {
                 initialRowPosition++;
                 initialColumnPosition = 0;
             } else {
                 initialColumnPosition++;
             }
 
-            if (isEndOfHorizontalTraversal) shouldContinue = false;
-
-            int currentSumOfAlienDensities = 0;
-            int currentMaxDensityInSubsquare = criticalZones[0][0];
-
-            for (int i = 0; i < k; i++) {
-                for (int j = 0; j < k; j++) {
-                    currentSumOfAlienDensities += criticalZones[i][j];
-                    if (criticalZones[i][j] > currentMaxDensityInSubsquare) {
-                        currentMaxDensityInSubsquare = criticalZones[i][j];
-                    }
-                }
-            }
-
-            if (currentSumOfAlienDensities > sumOfAlienDensities) {
-                sumOfAlienDensities = currentSumOfAlienDensities;
-                maxDensityInSubsquare = currentMaxDensityInSubsquare;
-                coordinates[0] = xCoordinate;
-                coordinates[1] = yCoordinate;
-            }
+            if ((initialRowPosition + (k - 1)) == n) shouldContinue = false;
         }
 
         cout << "(" << coordinates[0] << "," << coordinates[1] << ")" << endl;
-        cout << sumOfAlienDensities << endl;
+        cout << maxSumOfAlienDensities << endl;
         cout << maxDensityInSubsquare << endl;
 
         cin >> n;

@@ -20,34 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes_2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/barquets_1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/camps.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/control_c401_b.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/cruz_recursiva.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/diagonals_creixents.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/es_la_solucio_d_un_sudoku.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/f010_b_els_alfils_amenacadors.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/files_i_columnes.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/matriu_transposta.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/productes_de_matrius_quadrades.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/productes_de_matrius_qualssevol.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/rectangle_contenidor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres_amb_punts.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D6_T1_online/sequencia_doblement_estocastica.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D6_T1_online/sequencia_doblement_estocastica.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classificacio_de_caracters" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dates_valides" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/distancia_origen" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/escriviu_una_creu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcio_per_als_anys_de_traspas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intercanvi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +44,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jordirocha/FIB.git&quot;,
-    &quot;accountId&quot;: &quot;5c67cde3-4f9a-4b8b-8484-50694b5c3dad&quot;
+    &quot;accountId&quot;: &quot;fd0dc8bc-1223-47d4-8c65-fa6992702312&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -172,7 +147,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -377,7 +352,12 @@
       <workItem from="1732995465648" duration="2737000" />
       <workItem from="1733048881479" duration="445000" />
       <workItem from="1733166081752" duration="12608000" />
-      <workItem from="1733229587868" duration="12530000" />
+      <workItem from="1733229587868" duration="12917000" />
+      <workItem from="1733311790369" duration="192000" />
+      <workItem from="1733311989689" duration="119000" />
+      <workItem from="1733312115695" duration="10000" />
+      <workItem from="1733312132245" duration="33000" />
+      <workItem from="1733312172475" duration="12106000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <option name="closed" value="true" />
@@ -387,7 +367,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732730075993</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new files">
+      <option name="closed" value="true" />
+      <created>1733256465808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733256465808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new files">
+      <option name="closed" value="true" />
+      <created>1733256493706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733256493706</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

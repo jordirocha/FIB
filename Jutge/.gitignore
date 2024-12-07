@@ -1,38 +1,47 @@
-# Created by https://www.toptal.com/developers/gitignore/api/c++
-# Edit at https://www.toptal.com/developers/gitignore?templates=c++
-
-### C++ ###
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Compiled object files
 *.o
 *.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
+# Compiled dynamic libraries
 *.so
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+# Compiled static libraries
 *.lib
+*.a
 
-# Executables
+# Executable files
 *.exe
 *.out
 *.app
 
-# End of https://www.toptal.com/developers/gitignore/api/c++
+# Debug files
+*.dSYM/
+*.pdb
+
+# Temporary files
+*.tmp
+*.log
+*.temp
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other
+*.swp
+*~

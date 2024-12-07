@@ -20,9 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes_2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres_2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/buscant_una_a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/control_c202_f.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/divisors_en_ordre.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/i_esim_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/i_esim_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/moviments_en_el_pla.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/paraules_consecutives_repetides.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/paraules_entre_altres_dues.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/parentesis.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/primalitat.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/primera_posicio.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/segona_paraula_maxima.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +105,49 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -105,6 +163,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Archivo C/C++.amenaces_alienigenes.cpp.executor": "Run",
+    "Archivo C/C++.amenaces_alienigenes_3.cpp.executor": "Run",
     "C/C++ File.amenaces_alienigenes.cpp.executor": "Run",
     "C/C++ File.classificacio_de_caracters.cpp.executor": "Run",
     "C/C++ File.dates_valides.cpp.executor": "Run",
@@ -131,6 +191,7 @@
     "C/C++ File.resta_un_segundo.cpp.executor": "Run",
     "C/C++ File.sembles_mes_jove.cpp.executor": "Run",
     "C/C++ File.sequencia_doblement_estocastica.cpp.executor": "Run",
+    "C/C++ File.sopa_de_lletres.cpp.executor": "Run",
     "C/C++ File.words_between_two_words.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -147,17 +208,30 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jordy\Documents\GitHub\FIB\Jutge\PRO1 2024-2025 Q1 D7_T1_online" />
+      <recent name="C:\Users\jordy\Documents\GitHub\FIB\Jutge\PRO1 2024-2025 Q1\P8 - Multidimensional Arrays" />
       <recent name="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.amenaces_alienigenes.cpp">
+  <component name="RunManager" selected="Archivo C/C++.amenaces_alienigenes.cpp">
+    <configuration name="amenaces_alienigenes_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="amenaces_alienigenes_2.cpp" CONFIG_NAME="amenaces_alienigenes_2.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1 D7_T1_online\amenaces_alienigenes_2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="amenaces_alienigenes_3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="amenaces_alienigenes_3.cpp" CONFIG_NAME="amenaces_alienigenes_3.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1 D7_T1_online\amenaces_alienigenes_3.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="amenaces_alienigenes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="amenaces_alienigenes.cpp" CONFIG_NAME="amenaces_alienigenes.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1 D7_T1_online\amenaces_alienigenes.cpp" />
       <method v="2">
@@ -314,6 +388,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sopa_de_lletres.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="sopa_de_lletres.cpp" CONFIG_NAME="sopa_de_lletres.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1\P8 - Multidimensional Arrays\sopa_de_lletres.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="words_between_two_words.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="words_between_two_words.cpp" CONFIG_NAME="words_between_two_words.cpp">
       <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/words_between_two_words.cpp" />
       <method v="2">
@@ -357,7 +437,13 @@
       <workItem from="1733311989689" duration="119000" />
       <workItem from="1733312115695" duration="10000" />
       <workItem from="1733312132245" duration="33000" />
-      <workItem from="1733312172475" duration="12106000" />
+      <workItem from="1733312172475" duration="36078000" />
+      <workItem from="1733477345951" duration="683000" />
+      <workItem from="1733478045306" duration="27000" />
+      <workItem from="1733478078941" duration="2084000" />
+      <workItem from="1733480657939" duration="16719000" />
+      <workItem from="1733568838010" duration="749000" />
+      <workItem from="1733573430216" duration="9740000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <option name="closed" value="true" />
@@ -383,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733256493706</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new files">
+      <option name="closed" value="true" />
+      <created>1733324546095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733324546095</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

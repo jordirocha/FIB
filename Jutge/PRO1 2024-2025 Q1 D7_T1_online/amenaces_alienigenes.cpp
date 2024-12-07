@@ -4,7 +4,6 @@ using namespace std;
 typedef vector<int> Row;
 typedef vector<Row> Matrix;
 
-
 void readData(Matrix &matrix) {
     int rows = matrix.size();
     int columns = matrix[0].size();
@@ -15,77 +14,47 @@ void readData(Matrix &matrix) {
     }
 }
 
-vector<int> getSpatialZonesData(const Matrix &matrix, int i, int j, int k) {
-    int sumOfAlienDensities = 0;
-    int maxDensityInSubsquare = -1;
-    Row dataOfCriticalZones(2);
-
-    int rowIndex = i;
-    for (int t = 0; t < k; t++) {
-        int columnIndex = j;
-        for (int m = 0; m < k; m++) {
-            sumOfAlienDensities += matrix[rowIndex][columnIndex];
-            if (matrix[rowIndex][columnIndex] > maxDensityInSubsquare)
-                maxDensityInSubsquare = matrix[rowIndex][columnIndex];
-            columnIndex++;
+vector<int> getSpatialZonesData(const Matrix &matrix, int i, int j, int const k) {
+    int maxColumn = j + k, maxRow = i + k, sumOfAlienDensities = 0, maxDensityInSubSquare = -1;
+    for (int l = i; l < maxRow; l++) {
+        for (int m = j; m < maxColumn; m++) {
+            sumOfAlienDensities += matrix[l][m];
+            if (matrix[l][m] > maxDensityInSubSquare) maxDensityInSubSquare = matrix[l][m];
         }
-        rowIndex++;
     }
-
-    dataOfCriticalZones[0] = sumOfAlienDensities;
-    dataOfCriticalZones[1] = maxDensityInSubsquare;
-
-    return dataOfCriticalZones;
+    vector<int> results({sumOfAlienDensities, maxDensityInSubSquare});
+    return results;
 }
 
 int main() {
     int n, m;
-    bool loopContinues = true;
-
     cin >> n;
-    loopContinues = (n != 0);
-
+    bool loopContinues = (n != 0);
     while (loopContinues) {
-        int maxSumOfAlienDensities = -1, maxDensityInSubsquare = 0;
         cin >> m;
-
+        int maxSumOfAlienDensities = -1, maxDensityInSubSquare = 0;
         Matrix spatialZones(n, Row(m));
         readData(spatialZones);
-
         int k;
         cin >> k;
-
         Matrix criticalZones(k, Row(k));
-
-        int initialRowPosition = 0, initialColumnPosition = 0;
-        Row coordinates(2);
+        int x = 0, y = 0;
         Row dataOfCriticalZones(2);
 
-        bool shouldContinue = true;
-        while (shouldContinue) {
-            dataOfCriticalZones = getSpatialZonesData(spatialZones, initialRowPosition, initialColumnPosition, k);
-
-            if (dataOfCriticalZones[0] > maxSumOfAlienDensities) {
-                maxSumOfAlienDensities = dataOfCriticalZones[0];
-                maxDensityInSubsquare = dataOfCriticalZones[1];
-                coordinates[0] = initialRowPosition;
-                coordinates[1] = initialColumnPosition;
+        for (int i = 0; (i + k) <= n; i++) {
+            for (int j = 0; (j + k) <= m; j++) {
+                dataOfCriticalZones = getSpatialZonesData(spatialZones, i, j, k);
+                if (dataOfCriticalZones[0] > maxSumOfAlienDensities) {
+                    maxSumOfAlienDensities = dataOfCriticalZones[0];
+                    maxDensityInSubSquare = dataOfCriticalZones[1];
+                    x = i;
+                    y = j;
+                }
             }
-
-            if ((initialColumnPosition + (k - 1)) == (m - 1)) {
-                initialRowPosition++;
-                initialColumnPosition = 0;
-            } else {
-                initialColumnPosition++;
-            }
-
-            if ((initialRowPosition + (k - 1)) == n) shouldContinue = false;
         }
 
-        cout << "(" << coordinates[0] << "," << coordinates[1] << ")" << endl;
-        cout << maxSumOfAlienDensities << endl;
-        cout << maxDensityInSubsquare << endl;
-
+        cout << "(" << x << "," << y << ")" << endl;
+        cout << maxSumOfAlienDensities << endl << maxDensityInSubSquare << endl;
         cin >> n;
         loopContinues = (n != 0);
     }

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jordy\\Documents\\GitHub\\FIB\\Jutge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jordy\\Documents\\GitHub\\FIB\\Jutge\\PRO1 2024-2025 Q1 D7_T1_online\\amenaces_alienigenes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRO1 2024-2025 Q1 D7_T1_online\\amenaces_alienigenes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jordy\\Documents\\GitHub\\FIB\\Jutge\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\jordy\\Documents\\GitHub\\FIB\\Jutge\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\jordy\\Documents\\GitHub\\FIB\\Jutge\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-11T14:32:01.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "amenaces_alienigenes.cpp",
+              "DocumentMoniker": "C:\\Users\\jordy\\Documents\\GitHub\\FIB\\Jutge\\PRO1 2024-2025 Q1 D7_T1_online\\amenaces_alienigenes.cpp",
+              "RelativeDocumentMoniker": "PRO1 2024-2025 Q1 D7_T1_online\\amenaces_alienigenes.cpp",
+              "ToolTip": "C:\\Users\\jordy\\Documents\\GitHub\\FIB\\Jutge\\PRO1 2024-2025 Q1 D7_T1_online\\amenaces_alienigenes.cpp",
+              "RelativeToolTip": "PRO1 2024-2025 Q1 D7_T1_online\\amenaces_alienigenes.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T14:31:19.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

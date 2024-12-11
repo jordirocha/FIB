@@ -8,7 +8,6 @@
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppParameterNameHintsOptions" type="string" />
-    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
@@ -20,24 +19,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1734c369-aadd-477a-bbf7-0a4ea9a7a6a4" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres_2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D8_T1_online/suma_fruites.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Jutge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/buscant_una_a.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/control_c202_f.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/divisors_en_ordre.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/i_esim_1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/i_esim_3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/moviments_en_el_pla.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/paraules_consecutives_repetides.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/paraules_entre_altres_dues.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/parentesis.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/primalitat.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/primera_posicio.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D2_T1_online/segona_paraula_maxima.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Jutge/v17/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Jutge/v17/.wsuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Jutge/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Jutge/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/.idea/Exercicis de Consolidacio per al Parcial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/.idea/runConfigurations/_template__of_CppFileRunConfiguration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicis de Consolidacio per al Parcial/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes_2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1 2024-2025 Q1/P8 - Multidimensional Arrays/sopa_de_lletres.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +162,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Archivo C/C++.amenaces_alienigenes.cpp.executor": "Run",
     "Archivo C/C++.amenaces_alienigenes_3.cpp.executor": "Run",
+    "Archivo C/C++.suma_fruites.cpp.executor": "Run",
     "C/C++ File.amenaces_alienigenes.cpp.executor": "Run",
     "C/C++ File.classificacio_de_caracters.cpp.executor": "Run",
     "C/C++ File.dates_valides.cpp.executor": "Run",
@@ -219,7 +217,7 @@
       <recent name="$PROJECT_DIR$/PRO1 2024-2025 Q1/P7 - Vectors" />
     </key>
   </component>
-  <component name="RunManager" selected="Archivo C/C++.amenaces_alienigenes.cpp">
+  <component name="RunManager" selected="Archivo C/C++.suma_fruites.cpp">
     <configuration name="amenaces_alienigenes_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="amenaces_alienigenes_2.cpp" CONFIG_NAME="amenaces_alienigenes_2.cpp">
       <option name="sourceFile" value="PRO1 2024-2025 Q1 D7_T1_online\amenaces_alienigenes_2.cpp" />
       <method v="2">
@@ -394,6 +392,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="suma_fruites.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="suma_fruites.cpp" CONFIG_NAME="suma_fruites.cpp">
+      <option name="sourceFile" value="PRO1 2024-2025 Q1 D8_T1_online\suma_fruites.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="words_between_two_words.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Jutge" TARGET_NAME="words_between_two_words.cpp" CONFIG_NAME="words_between_two_words.cpp">
       <option name="sourceFile" value="Exercicis de Consolidacio per al Parcial/words_between_two_words.cpp" />
       <method v="2">
@@ -444,6 +448,13 @@
       <workItem from="1733480657939" duration="16719000" />
       <workItem from="1733568838010" duration="749000" />
       <workItem from="1733573430216" duration="9740000" />
+      <workItem from="1733587727429" duration="2826000" />
+      <workItem from="1733590582975" duration="94000" />
+      <workItem from="1733598498047" duration="2229000" />
+      <workItem from="1733603316606" duration="1575000" />
+      <workItem from="1733842024300" duration="131000" />
+      <workItem from="1733927918974" duration="198000" />
+      <workItem from="1733928170280" duration="4731000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <option name="closed" value="true" />

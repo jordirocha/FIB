@@ -1,77 +1,20 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
-int main()
-{
-    int x, y, z, t;
-    cin >> x >> y >> z >> t;
+int main() {
+    int a1, a2, b1, b2;
 
-    int Mx, My, Lz, Lt;
+    cin >> a1 >> a2 >> b1 >> b2;
 
-    if (y - x > t - z)
-    {
-        Mx = x;
-        My = y;
-        Lz = z;
-        Lt = t;
-    }
-    else
-    {
-        Mx = z;
-        My = t;
-        Lz = x;
-        Lt = y;
-    }
 
-    if (Lz >= Mx && Lz <= My)
-    {
-        if (Lt >= Mx && Lt <= My)
-        {
-            cout << "[" << Lz << "," << Lt << "]" << endl;
-        }
-        else if (Lt >= My)
-        {
-            cout << "[" << Lz << "," << My << "]" << endl;
-        }
-    }
-    else
-    {
-        if (Lt >= Mx && Lt <= My)
-        {
-            cout << "[" << Mx << "," << Lt << "]" << endl;
-        }
-        else if (Lt >= My)
-        {
-            cout << "[" << Mx << "," << My << "]" << endl;
-        }
-        else
-        {
-            cout << "[]" << endl;
-        }
-    }
+    if (b1 >= a1 and b1 <= a2) {
+        if (b2 >= a1 and b2 <= a2) cout << "[" << b1 << "," << b2 << "]" << endl;
+        else if (b2 > a1 and b2 > a2) cout << "[" << b1 << "," << a2 << "]" << endl;
+    } else if (a1 >= b1 and a1 <= b2) {
+        if (a2 >= b1 and a2 <= b2)cout << "[" << a1 << "," << a2 << "]" << endl;
+        else if (a2 > b1 and a2 > b2) cout << "[" << a1 << "," << b2 << "]" << endl;
+    } else
+        cout << "[]" << endl;
 
-    // if (x >= z && x <= t)
-    // {
-    //     if (y >= z && y <= t)
-    //     {
-    //         cout << "[" << x << "," << y << "]" << endl;
-    //     }
-    //     else
-    //     {
-    //         cout << "[" << x << "," << t << "]" << endl;
-    //     }
-    // }
-    // else
-    // {
-    //     if (y >= z && y <= t)
-    //     {
-    //         cout << "[" << z << "," << t << "]" << endl;
-    //     }
-    //     else
-    //     {
-    //         cout << "[]" << endl;
-    //     }
-    // }
 }

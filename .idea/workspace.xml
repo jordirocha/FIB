@@ -14,13 +14,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/intervals_2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FIB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FIB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
+      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/assignació_2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/llegiu_un_nombre_racional_1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/anys_de_traspas.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/anys_de_traspas.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/intervals_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/intervals_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024 Tardor - Mock Parcial (online)/repeticions_de_bases.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D2_T1_online/primers_n_nombres_estranys.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D2_T1_online/sentit_de_moviment.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D3_T1_online/almenys_5_nombres_abca.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D4_T1_online/sumes_de_sequencies_autodelimitades.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D5_T1_online/expressions_min_max.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D6_T1_online/sequencia_doblement_estocastica.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D8_T1_online/suma_fruites.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/factorial_iteratiu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/names.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +157,24 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -160,8 +188,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.anys_de_traspas.cpp.executor": "Run",
+    "C/C++ File.dates_valides.cpp.executor": "Run",
     "C/C++ File.intervals_1.cpp.executor": "Debug",
     "C/C++ File.intervals_2.cpp.executor": "Debug",
+    "C/C++ File.llegiu_un_nombre_racional_1.cpp.executor": "Run",
+    "C/C++ File.suma_d_un_segon.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -186,15 +217,15 @@
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.anys_de_traspas.cpp">
+  <component name="RunManager" selected="C/C++ File.suma_d_un_segon.cpp">
     <configuration name="anys_de_traspas.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="anys_de_traspas.cpp" CONFIG_NAME="anys_de_traspas.cpp">
       <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\anys_de_traspas.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intervals_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="intervals_1.cpp" CONFIG_NAME="intervals_1.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\intervals_1.cpp" />
+    <configuration name="dates_valides.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="dates_valides.cpp" CONFIG_NAME="dates_valides.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P5 - Functions &amp; Procedures\dates_valides.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -205,11 +236,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="llegiu_un_nombre_racional_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="llegiu_un_nombre_racional_1.cpp" CONFIG_NAME="llegiu_un_nombre_racional_1.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P5 - Functions &amp; Procedures\llegiu_un_nombre_racional_1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="suma_d_un_segon.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="suma_d_un_segon.cpp" CONFIG_NAME="suma_d_un_segon.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\suma_d_un_segon.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.suma_d_un_segon.cpp" />
+        <item itemvalue="C/C++ File.llegiu_un_nombre_racional_1.cpp" />
+        <item itemvalue="C/C++ File.dates_valides.cpp" />
         <item itemvalue="C/C++ File.anys_de_traspas.cpp" />
         <item itemvalue="C/C++ File.intervals_2.cpp" />
-        <item itemvalue="C/C++ File.intervals_1.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -225,12 +270,28 @@
       <workItem from="1730833340584" duration="37000" />
       <workItem from="1739211843860" duration="539000" />
       <workItem from="1739212400668" duration="6696000" />
-      <workItem from="1739283092268" duration="10669000" />
+      <workItem from="1739283092268" duration="11891000" />
+      <workItem from="1739439141189" duration="810000" />
+      <workItem from="1739439982442" duration="9710000" />
+      <workItem from="1739800420733" duration="3316000" />
     </task>
+    <task id="LOCAL-00001" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1739296786799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739296786799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New files added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

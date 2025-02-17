@@ -1,59 +1,33 @@
+/*
+Function that returns if a date is valid
+*/
+
 #include <iostream>
-#include <cmath>
 
 using namespace std;
 
-bool es_any_de_traspas(int any) {
-    bool result = false;
 
-    if (any % 4 == 0) {
-        if (any % 100 == 0) {
-            if (any % 400 == 0) {
-                return true;
-            }
-        } else {
-            return true;
-        }
-    }
+bool es_data_valida(int d, int m, int y) {
+    bool valid = true;
 
-    return result;
-}
+    // Invalid cases because day or moth not in valid range of any day or month
+    if (d <= 0 or m <= 0 or d > 31 or m > 12)
+        valid = false;
 
-bool es_data_valida(int d, int m, int a) {
-    bool is_valid = true;
+    // Case of months of 30 day
+    else if ((m == 4 or m == 6 or m == 9 or m == 11) and d > 30)
+        valid = false;
 
-    if (es_any_de_traspas(a)) {
-        if ((m == 2) and (d > 29 || d <= 0)) {
-            is_valid = false;
-        }
+    // Case of February
+    else if (m == 2 and ((d == 29 and not (y%4 == 0 and not (y%100 == 0 and (y/100)%4 != 0))) or d > 29))
+        valid = false;
 
-        if (d <= 0 || d >= 32) {
-            is_valid = false;
-        }
-
-        if (m <= 0 || m >= 13) {
-            is_valid = false;
-        }
-    } else {
-        if ((m == 2) and (d > 28 || d <= 0)) {
-            is_valid = false;
-        }
-
-        if (d <= 0 || d >= 32) {
-            is_valid = false;
-        }
-    }
-
-    if((m==4 || m==11 || m==6 || m==9) and d > 30) is_valid = false;
-    if((m==1 || m==3 || m==5 || m==7|| m==8|| m==10|| m==12) and d > 31) is_valid = false;
-
-    return is_valid;
+    return valid;
 }
 
 int main() {
-    cout.setf(ios::fixed);
-    cout.precision(3);
+    int d, m, y;
+    cin >> d >> m >> y;
 
-    cout << es_data_valida(30, 4, 5636) << endl;
+    cout << es_data_valida(d, m, y) << endl;
 }
-

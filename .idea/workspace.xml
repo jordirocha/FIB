@@ -14,24 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/assignació_2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/llegiu_un_nombre_racional_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024 Tardor - Mock Parcial (online)/repeticions_de_bases.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D2_T1_online/primers_n_nombres_estranys.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D2_T1_online/sentit_de_moviment.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D3_T1_online/almenys_5_nombres_abca.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D4_T1_online/sumes_de_sequencies_autodelimitades.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D5_T1_online/expressions_min_max.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D6_T1_online/sequencia_doblement_estocastica.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1 D8_T1_online/suma_fruites.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/factorial_iteratiu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/names.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -273,7 +256,7 @@
       <workItem from="1739283092268" duration="11891000" />
       <workItem from="1739439141189" duration="810000" />
       <workItem from="1739439982442" duration="9710000" />
-      <workItem from="1739800420733" duration="3316000" />
+      <workItem from="1739800420733" duration="3648000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -283,7 +266,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739296786799</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1739804028221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739804028221</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1739804083058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739804083058</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

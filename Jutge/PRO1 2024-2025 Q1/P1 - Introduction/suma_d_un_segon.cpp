@@ -10,11 +10,18 @@ using namespace std;
 
 int main() {
     vector<std::string> foo = {
-        "distancia_entre_dos_punts.cpp", "rellotge.cpp", "sumar_i_restar_un_segon.cpp", "estudiants.cpp", "racionals_1.cpp", "racionals_4.cpp", "f008b._suma_de_fraccions.cpp", "cercles_1.cpp", "rectangles_1.cpp", "rectangles_2.cpp", "jutge_1.cpp", "f001a._alumnes_de_la_fips.cpp", "f002b._vectors_comprimits.cpp", "point_inside_a_rectangle.cpp", "parvulari.cpp", "paraules_repetides.cpp", "vectors_normalitzats.cpp", "missatge_ocult.cpp"
+        "calcul_d_arrels_i_de_quadrats.cpp", "trigonometria.cpp", "distancia_a_l_origen.cpp",
+        "funcio_per_la_suma_del_minim_i_el_maxim_de_tres_enters.cpp", "maxim_de_quatre_enters.cpp",
+        "funcio_per_als_anys_de_traspas.cpp", "dates_valides.cpp", "intercanvi.cpp", "factorial_iteratiu.cpp",
+        "descomposicio_horaria_2.cpp", "capicues.cpp", "comparant_fraccions.cpp", "classificacio_de_caracters_2.cpp",
+        "escriviu_una_creu.cpp", "llegiu_un_nombre_racional_1.cpp", "nombres_perfectes.cpp", "factor_mes_frequent.cpp",
+        "seguent_primer.cpp", "codi_cesar.cpp", "sequencies_similars_2.cpp",
+        "posicions_d_un_maxim_a_dues_sequencies.cpp"
     };
 
     for (int i = 0; i < foo.size(); i++) {
         std::ofstream outfile(foo[i]);
+        outfile << "my text here!" << std::endl;
         outfile.close();
     }
 

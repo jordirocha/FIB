@@ -15,15 +15,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/control_c101_a.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/temperatures.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/descomposicio_horaria_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/descomposicio_horaria_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/quants_segons_son.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/quants_segons_son.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/calcul_d_arrels_i_de_quadrats.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/calcul_d_arrels_i_de_quadrats.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/capicues.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/capicues.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/classificacio_de_caracters_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/classificacio_de_caracters_2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/codi_cesar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/codi_cesar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/comparant_fraccions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/comparant_fraccions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/dates_valides.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/dates_valides.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/descomposicio_horaria_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/descomposicio_horaria_2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/distancia_a_l_origen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/distancia_a_l_origen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/escriviu_una_creu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/escriviu_una_creu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/factor_mes_frequent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/factor_mes_frequent.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/factorial_iteratiu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/factorial_iteratiu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/funcio_per_als_anys_de_traspas.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/funcio_per_als_anys_de_traspas.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/funcio_per_la_suma_del_minim_i_el_maxim_de_tres_enters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/funcio_per_la_suma_del_minim_i_el_maxim_de_tres_enters.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/intercanvi.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/intercanvi.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/llegiu_un_nombre_racional_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/llegiu_un_nombre_racional_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/maxim_de_quatre_enters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/maxim_de_quatre_enters.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/nombres_perfectes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/nombres_perfectes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/posicions_d_un_maxim_a_dues_sequencies.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/posicions_d_un_maxim_a_dues_sequencies.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/seguent_primer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/seguent_primer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/sequencies_similars_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/sequencies_similars_2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/trigonometria.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/trigonometria.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/anys_de_traspas.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/anys_de_traspas.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/classificacio_de_caracters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/classificacio_de_caracters.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/majusiminus.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/majuscules_i_minuscules.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/escriviu_una_creu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/escriviu_una_creu.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/llegiu_un_nombre_racional_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/llegiu_un_nombre_racional_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/calcul_d_arrels_i_de_quadrats" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,6 +199,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.anys_de_traspas.cpp.executor": "Run",
+    "C/C++ File.capicues.cpp.executor": "Run",
+    "C/C++ File.classificacio_de_caracters.cpp.executor": "Run",
     "C/C++ File.control_c101_a.cpp.executor": "Run",
     "C/C++ File.dates_valides.cpp.executor": "Run",
     "C/C++ File.descomposicio_horaria_1.cpp.executor": "Run",
@@ -188,8 +208,10 @@
     "C/C++ File.intervals_1.cpp.executor": "Debug",
     "C/C++ File.intervals_2.cpp.executor": "Debug",
     "C/C++ File.llegiu_un_nombre_racional_1.cpp.executor": "Run",
+    "C/C++ File.majuscules_i_minuscules.cpp.executor": "Run",
     "C/C++ File.quants_segons_son.cpp.executor": "Run",
     "C/C++ File.suma_d_un_segon.cpp.executor": "Run",
+    "C/C++ File.temperatures.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -205,7 +227,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -214,15 +236,27 @@
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.temperatures.cpp">
-    <configuration name="control_c101_a.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c101_a.cpp" CONFIG_NAME="control_c101_a.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\control_c101_a.cpp" />
+  <component name="RunManager" selected="C/C++ File.capicues.cpp">
+    <configuration name="anys_de_traspas.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="anys_de_traspas.cpp" CONFIG_NAME="anys_de_traspas.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\anys_de_traspas.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="descomposicio_horaria_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="descomposicio_horaria_1.cpp" CONFIG_NAME="descomposicio_horaria_1.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\descomposicio_horaria_1.cpp" />
+    <configuration name="capicues.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="capicues.cpp" CONFIG_NAME="capicues.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\capicues.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classificacio_de_caracters.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="classificacio_de_caracters.cpp" CONFIG_NAME="classificacio_de_caracters.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\classificacio_de_caracters.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="majuscules_i_minuscules.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="majuscules_i_minuscules.cpp" CONFIG_NAME="majuscules_i_minuscules.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\majuscules_i_minuscules.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -247,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.suma_d_un_segon.cpp" />
+        <item itemvalue="C/C++ File.majuscules_i_minuscules.cpp" />
+        <item itemvalue="C/C++ File.classificacio_de_caracters.cpp" />
         <item itemvalue="C/C++ File.temperatures.cpp" />
         <item itemvalue="C/C++ File.quants_segons_son.cpp" />
-        <item itemvalue="C/C++ File.descomposicio_horaria_1.cpp" />
-        <item itemvalue="C/C++ File.control_c101_a.cpp" />
-        <item itemvalue="C/C++ File.suma_d_un_segon.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +306,8 @@
       <workItem from="1739439982442" duration="9710000" />
       <workItem from="1739800420733" duration="3893000" />
       <workItem from="1739817120897" duration="1506000" />
-      <workItem from="1739887855530" duration="4651000" />
+      <workItem from="1739887855530" duration="5419000" />
+      <workItem from="1739898985752" duration="8707000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -306,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739804330735</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1739893277300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739893277300</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,17 +358,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New files added" />
     <option name="LAST_COMMIT_MESSAGE" value="New files added" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/intervals_1.cpp</url>
-          <line>10</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

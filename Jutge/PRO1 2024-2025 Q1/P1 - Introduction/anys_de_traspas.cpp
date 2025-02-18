@@ -2,17 +2,20 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
     int year;
     cin >> year;
 
-    if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
-    {
-        cout << "YES" << endl;
+    int lastTwoDigits = year % 100;
+    bool leapYear;
+
+    if (lastTwoDigits == 0) {
+        int firstTwoDigits = year / 100;
+        leapYear = (firstTwoDigits % 4 == 0);
+    } else {
+        leapYear = (year % 4 == 0);
     }
-    else
-    {
-        cout << "NO" << endl;
-    }
+
+    if (leapYear) cout << "YES" << endl;
+    else cout << "NO" << endl;
 }

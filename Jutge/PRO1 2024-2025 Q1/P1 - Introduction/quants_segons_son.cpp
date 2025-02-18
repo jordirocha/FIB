@@ -2,45 +2,15 @@
 
 using namespace std;
 
-int main()
-{
-    int h, m, s;
+int main() {
+    int a, d, h, m, s;
+    cin >> a >> d >> h >> m >> s;
 
-    cin >> h >> m >> s;
+    a = a * 365 * 86400;
+    d = d * 24 * 3600;
+    h = h * 3600;
+    m = m * 60;
 
-    s++;
-
-    if (s == 60)
-    {
-        s = 0;
-        m++;
-    }
-
-    if (m == 60)
-    {
-        m = 0;
-        h++;
-    }
-
-    if (h == 24)
-    {
-        h = 0;
-        m = 0;
-        s = 0;
-    }
-
-    if (h >= 0 && h <= 9)
-        cout << "0";
-
-    cout << h << ":";
-
-    if (m >= 0 && m <= 9)
-        cout << "0";
-
-    cout << m << ":";
-
-    if (s >= 0 && s <= 9)
-        cout << "0";
-
-    cout << s << endl;
+    int seconds = a + d + h + m + s;
+    cout << seconds << endl;
 }

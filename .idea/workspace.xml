@@ -14,7 +14,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added" />
+    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
+      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/control_c101_a.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/temperatures.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/descomposicio_horaria_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/descomposicio_horaria_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/quants_segons_son.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/quants_segons_son.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/escriviu_una_creu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/escriviu_una_creu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/llegiu_un_nombre_racional_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/llegiu_un_nombre_racional_1.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,10 +181,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.anys_de_traspas.cpp.executor": "Run",
+    "C/C++ File.control_c101_a.cpp.executor": "Run",
     "C/C++ File.dates_valides.cpp.executor": "Run",
+    "C/C++ File.descomposicio_horaria_1.cpp.executor": "Run",
+    "C/C++ File.escriviu_una_creu.cpp.executor": "Run",
     "C/C++ File.intervals_1.cpp.executor": "Debug",
     "C/C++ File.intervals_2.cpp.executor": "Debug",
     "C/C++ File.llegiu_un_nombre_racional_1.cpp.executor": "Run",
+    "C/C++ File.quants_segons_son.cpp.executor": "Run",
     "C/C++ File.suma_d_un_segon.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -200,27 +214,21 @@
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.suma_d_un_segon.cpp">
-    <configuration name="anys_de_traspas.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="anys_de_traspas.cpp" CONFIG_NAME="anys_de_traspas.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\anys_de_traspas.cpp" />
+  <component name="RunManager" selected="C/C++ File.temperatures.cpp">
+    <configuration name="control_c101_a.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c101_a.cpp" CONFIG_NAME="control_c101_a.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\control_c101_a.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dates_valides.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="dates_valides.cpp" CONFIG_NAME="dates_valides.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P5 - Functions &amp; Procedures\dates_valides.cpp" />
+    <configuration name="descomposicio_horaria_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="descomposicio_horaria_1.cpp" CONFIG_NAME="descomposicio_horaria_1.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\descomposicio_horaria_1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="intervals_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="intervals_2.cpp" CONFIG_NAME="intervals_2.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\intervals_2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="llegiu_un_nombre_racional_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="llegiu_un_nombre_racional_1.cpp" CONFIG_NAME="llegiu_un_nombre_racional_1.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P5 - Functions &amp; Procedures\llegiu_un_nombre_racional_1.cpp" />
+    <configuration name="quants_segons_son.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="quants_segons_son.cpp" CONFIG_NAME="quants_segons_son.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\quants_segons_son.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -231,13 +239,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="temperatures.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="temperatures.cpp" CONFIG_NAME="temperatures.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\temperatures.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.temperatures.cpp" />
+        <item itemvalue="C/C++ File.quants_segons_son.cpp" />
+        <item itemvalue="C/C++ File.descomposicio_horaria_1.cpp" />
+        <item itemvalue="C/C++ File.control_c101_a.cpp" />
         <item itemvalue="C/C++ File.suma_d_un_segon.cpp" />
-        <item itemvalue="C/C++ File.llegiu_un_nombre_racional_1.cpp" />
-        <item itemvalue="C/C++ File.dates_valides.cpp" />
-        <item itemvalue="C/C++ File.anys_de_traspas.cpp" />
-        <item itemvalue="C/C++ File.intervals_2.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +270,9 @@
       <workItem from="1739283092268" duration="11891000" />
       <workItem from="1739439141189" duration="810000" />
       <workItem from="1739439982442" duration="9710000" />
-      <workItem from="1739800420733" duration="3648000" />
+      <workItem from="1739800420733" duration="3893000" />
+      <workItem from="1739817120897" duration="1506000" />
+      <workItem from="1739887855530" duration="4651000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -282,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739804083058</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1739804330735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739804330735</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

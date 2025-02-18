@@ -1,16 +1,18 @@
+//
+// Created by jordy on 18/02/2025.
+//
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-    int h, m, s, n;
+    int seconds;
+    cin >> seconds;
 
-    cin >> n;
+    int s = seconds % 60;
+    int m = (seconds / 60) % 60;
+    int h = seconds / 3600;
 
-    h = (n / 60) / 60;
-    m = (n / 60) % 60;
-    s = n % 60;
-
-    cout << h << " " << m << " " << s << endl;
+    cout << h << ' ' << m << ' ' << s << endl;
 }

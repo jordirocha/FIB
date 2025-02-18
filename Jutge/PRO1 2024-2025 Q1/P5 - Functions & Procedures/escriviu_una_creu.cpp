@@ -7,12 +7,11 @@ void cross(int n, char c) {
     bool first = true;
 
     for (int i = 0; i < n; i++) {
-
-       if (first) {
-           first = false;
-       }else {
-           cout << endl;
-       }
+        if (first) {
+            first = false;
+        } else {
+            cout << endl;
+        }
 
         for (int j = 0; j < n; j++) {
             if (i != (center - 1)) {
@@ -25,8 +24,9 @@ void cross(int n, char c) {
                 cout << c;
             }
         }
-
     }
+
+    cout << endl;
 }
 
 

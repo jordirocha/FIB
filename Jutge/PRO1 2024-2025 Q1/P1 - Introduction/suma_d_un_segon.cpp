@@ -4,54 +4,52 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-using namespace std;
-
-int main() {
-
-
-     vector<std::string> foo = {
-         "calcul_d_arrels_i_de_quadrats.cpp", "trigonometria.cpp", "distancia_a_l_origen.cpp",
-         "funcio_per_la_suma_del_minim_i_el_maxim_de_tres_enters.cpp", "maxim_de_quatre_enters.cpp",
-         "funcio_per_als_anys_de_traspas.cpp", "dates_valides.cpp", "intercanvi.cpp", "factorial_iteratiu.cpp",
-         "descomposicio_horaria_2.cpp", "capicues.cpp", "comparant_fraccions.cpp", "classificacio_de_caracters_2.cpp",
-         "escriviu_una_creu.cpp", "llegiu_un_nombre_racional_1.cpp", "nombres_perfectes.cpp", "factor_mes_frequent.cpp",
-         "seguent_primer.cpp", "codi_cesar.cpp", "sequencies_similars_2.cpp",
-         "posicions_d_un_maxim_a_dues_sequencies.cpp"
-     };
-
-     for (int i = 0; i < foo.size(); i++) {
-         std::ofstream outfile(foo[i]);
-
-         const char *longString = R""""(
-#include <iostream>
 
 using namespace std;
 
 int main() {
-int a,b,c;
-cin>>a>>b>>c;
-cout<<a+b+c<<endl;
+    int h, m, s;
+    cin >> h >> m >> s;
+
+    int seconds = h * 3600 + m * 60 + s + 1;
+    seconds %= 86400;
+
+    s = seconds % 60;
+    m = (seconds / 60) % 60;
+    h = seconds / 3600;
+
+    cout << (h / 10) << (h % 10) << ":";
+    cout << (m / 10) << (m % 10) << ":";
+    cout << (s / 10) << (s % 10) << endl;
 }
 
-)"""";
-
-
-         outfile << longString << std::endl;
-         outfile.close();
-     }
-
-//    int h, m, s;
-//    cin >> h >> m >> s;
+// vector<std::string> foo = {
+//     "insercio_en_taules_ordenada.cpp", "garbell_d_eratosthenes_c.cpp", "diferencia_de_taules.cpp",
+//     "interseccio_de_taules.cpp", "fusio_de_taules.cpp", "f013_b_codificacio_de_godel.cpp", "claus_i_parentesis.cpp",
+//     "f010_a_llistats_d_almunnes.cpp", "f005_b_nines_russes.cpp", "f013_a_matagalls_montserrat.cpp",
+//     "torneig_de_tennis.cpp", "salta_salta.cpp", "rius_digitals.cpp", "anagrames.cpp", "quadrat_magic.cpp",
+//     "quants_de_diferents.cpp", "pangrames.cpp", "taulell_magic.cpp", "l_escalabat_d_or.cpp", "molts_en_ratala.cpp",
+//     "robots_2.cpp", "othello.cpp", "foc.cpp", "escriptura_de_nombres_amb_letres.cpp", "la_sequencia_perduda.cpp",
+//     "mutacions_de_virus.cpp", "dibuixant_parallelepipedes.cpp", "primers_palindromics.cpp", "poquer.cpp"
 //
-//    int seconds = h * 3600 + m * 60 + s + 1;
-//    seconds %= 86400;
+// };
 //
-//    s = seconds % 60;
-//    m = (seconds / 60) % 60;
-//    h = seconds / 3600;
+// for (int i = 0; i < foo.size(); i++) {
+//     std::ofstream outfile(foo[i]);
 //
-//    cout << (h / 10) << (h % 10) << ":";
-//    cout << (m / 10) << (m % 10) << ":";
-//    cout << (s / 10) << (s % 10) << endl;
-}
-
+//     const char *longString = R""""(
+// #include <iostream>
+//
+// using namespace std;
+//
+// int main() {
+// int a,b,c;
+// cin>>a>>b>>c;
+// cout<<a+b+c<<endl;
+// }
+//
+// )"""";
+//
+//     outfile << longString << std::endl;
+//     outfile.close();
+// }

@@ -18,34 +18,28 @@ int main() {
     return 0;
 }
 
+int gcd(int a, int b) {
+    while (b != 0) {
+        int r = a % b;
+        a = b;
+        b = r; // Guarantees b < a (loop termination)
+    }
+    return a;
+}
+
 void read_rational(int &num, int &den) {
     string rational, numerator, denominator;
     cin >> rational;
 
     int i;
     for (i = 0; i < rational.length() and rational[i] != '/'; i++) numerator += rational[i];
-
-    int j;
-    for (j = i + 1; j < rational.length(); j++) denominator += rational[j];
+    for (int j = i++; j < rational.length(); j++) denominator += rational[j];
 
     num = stoi(numerator);
     den = stoi(denominator);
-    int copyNum = num, copyDen = den;
-    bool isReducible = true;
 
-    if (num > den) {
-        int aux = num;
-        copyNum = den;
-        copyDen = aux;
-    }
+    int divisor = gcd(num, den);
 
-    int divisor = copyNum;
-    while (isReducible and divisor > 0) {
-        if (copyNum % divisor == 0 and copyDen % divisor == 0) {
-            num = num / divisor;
-            den = den / divisor;
-            isReducible = false;
-        }
-        divisor--;
-    }
+    num /= divisor;
+    den /= divisor;
 }

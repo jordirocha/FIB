@@ -7,7 +7,6 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -16,13 +15,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/sequencies_similars_2.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/calcul_d_arrels_i_de_quadrats.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/calcul_d_arrels_i_de_quadrats.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/llegiu_un_nombre_racional_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P5 - Functions &amp; Procedures/llegiu_un_nombre_racional_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capicues.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/suma_d_un_segon.exe" beforeDir="false" afterPath="$PROJECT_DIR$/suma_d_un_segon.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/FileContentIndex/d263d264-4002-4e7e-bfc8-da8f567543a2.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/.wsuo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/DocumentLayout.backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/ipch/AutoPCH/a9f1861b3f68c8ef/AMENACES_ALIENIGENES.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/ProjectSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/escriviu_una_creu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/escriviu_una_creu.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/factor_mes_frequent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/factor_mes_frequent.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/nombres_perfectes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/nombres_perfectes.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +77,12 @@
     &quot;C/C++ File.dates_valides.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.descomposicio_horaria_1.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.escriviu_una_creu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.factor_mes_frequent.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.intervals_1.cpp.executor&quot;: &quot;Debug&quot;,
     &quot;C/C++ File.intervals_2.cpp.executor&quot;: &quot;Debug&quot;,
     &quot;C/C++ File.llegiu_un_nombre_racional_1.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.majuscules_i_minuscules.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nombres_perfectes.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.quants_segons_son.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.sequencies_similars_2.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.suma_d_un_segon.cpp.executor&quot;: &quot;Run&quot;,
@@ -100,7 +111,7 @@
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.suma_d_un_segon.cpp">
+  <component name="RunManager" selected="C/C++ File.factor_mes_frequent.cpp">
     <configuration name="anys_de_traspas.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="anys_de_traspas.cpp" CONFIG_NAME="anys_de_traspas.cpp">
       <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\anys_de_traspas.cpp" />
       <method v="2">
@@ -119,6 +130,18 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="escriviu_una_creu.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="escriviu_una_creu.cpp" CONFIG_NAME="escriviu_una_creu.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\escriviu_una_creu.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factor_mes_frequent.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="factor_mes_frequent.cpp" CONFIG_NAME="factor_mes_frequent.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\factor_mes_frequent.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="llegiu_un_nombre_racional_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="llegiu_un_nombre_racional_1.cpp" CONFIG_NAME="llegiu_un_nombre_racional_1.cpp">
       <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P5 - Functions &amp; Procedures\llegiu_un_nombre_racional_1.cpp" />
       <method v="2">
@@ -127,6 +150,12 @@
     </configuration>
     <configuration name="majuscules_i_minuscules.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="majuscules_i_minuscules.cpp" CONFIG_NAME="majuscules_i_minuscules.cpp">
       <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P1 - Introduction\majuscules_i_minuscules.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nombres_perfectes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="nombres_perfectes.cpp" CONFIG_NAME="nombres_perfectes.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\nombres_perfectes.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -180,7 +209,9 @@
       <workItem from="1739898985752" duration="9185000" />
       <workItem from="1739952328774" duration="125000" />
       <workItem from="1739967223713" duration="6311000" />
-      <workItem from="1739996573842" duration="3627000" />
+      <workItem from="1739996573842" duration="4378000" />
+      <workItem from="1740000994257" duration="4279000" />
+      <workItem from="1740051901544" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -230,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739908440698</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1740000379288</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740000379288</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -6,30 +6,41 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
     int counter = 0;
     string str;
     bool begin = false, end = false, is_bye = false;
 
-    while (!is_bye) {
+    while (!is_bye)
+    {
         cin >> str;
 
-        if (str == "principi") {
+        if (str == "principi")
+        {
             begin = true;
-        } else if (str == "final") {
+        }
+        else if (str == "final")
+        {
             end = true;
-        }else if (begin and !end) {
+        }
+        else if (begin and !end)
+        {
             counter++;
         }
 
-        if (str == "bye" or str == "adeu") {
+        if (str == "bye" or str == "adeu")
+        {
             is_bye = true;
         }
     }
 
-    if (begin and end) {
+    if (begin and end)
+    {
         cout << counter << endl;
-    } else {
+    }
+    else
+    {
         cout << "sequencia incorrecta" << endl;
     }
 }

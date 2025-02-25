@@ -9,6 +9,7 @@
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="12" type="long" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
@@ -20,29 +21,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/assignacio_2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/cap_avall.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/control_c201_a.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/control_c201_c.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/control_c202_b.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/control_c202_d.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/Exercicis de Consolidacio per al Parcial/words_between_two_words.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/Exercicis de Consolidacio per al Parcial/words_between_two_words.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/llegiu_un_nombre_racional_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/llegiu_un_nombre_racional_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/codi_cesar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/codi_cesar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/factor_mes_frequent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/factor_mes_frequent.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/posicions_d_un_maxim_a_dues_sequencies.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/posicions_d_un_maxim_a_dues_sequencies.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/control_c202_e.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/control_c202_e.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/control_c101_a.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/control_c101_a.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/descomposicio_horaria_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/descomposicio_horaria_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/suma_d_un_segon.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/temperatures.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/temperatures.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/nombres_harmonics_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/nombres_harmonics_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/numero_de_cifras.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/numero_de_cifras.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/numero_del_reves.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P2 - First Loops/numero_del_reves.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/escriviu_una_creu.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factor_mes_frequent.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nombres_perfectes.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/suma_d_un_segon.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/seguent_primer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Funcions/seguent_primer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/quantes_xifres.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/quantes_xifres.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/suma_de_digits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/suma_de_digits.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Tuples/distancia_entre_dos_punts.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Tuples/distancia_entre_dos_punts.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Tuples/estudiants.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Tuples/estudiants.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Tuples/rellotge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Tuples/rellotge.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Tuples/sumar_i_restar_un_segon.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Tuples/sumar_i_restar_un_segon.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posicions_d_un_maxim_a_dues_sequencies.exe" beforeDir="false" afterPath="$PROJECT_DIR$/posicions_d_un_maxim_a_dues_sequencies.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +58,16 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Jutge/PRO1 2024-2025 Q1/P1 - Introduction/quants_segons_son.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -86,6 +86,7 @@
     "C/C++ File.cap_avall.cpp.executor": "Run",
     "C/C++ File.capicues.cpp.executor": "Run",
     "C/C++ File.classificacio_de_caracters.cpp.executor": "Run",
+    "C/C++ File.codi_cesar.cpp.executor": "Run",
     "C/C++ File.control_c101_a.cpp.executor": "Run",
     "C/C++ File.control_c201_a.cpp.executor": "Run",
     "C/C++ File.control_c201_c.cpp.executor": "Run",
@@ -93,7 +94,9 @@
     "C/C++ File.control_c202_d.cpp.executor": "Run",
     "C/C++ File.dates_valides.cpp.executor": "Run",
     "C/C++ File.descomposicio_horaria_1.cpp.executor": "Run",
+    "C/C++ File.distancia_entre_dos_punts.cpp.executor": "Run",
     "C/C++ File.escriviu_una_creu.cpp.executor": "Run",
+    "C/C++ File.estudiants.cpp.executor": "Run",
     "C/C++ File.factor_mes_frequent.cpp.executor": "Run",
     "C/C++ File.intervals_1.cpp.executor": "Debug",
     "C/C++ File.intervals_2.cpp.executor": "Debug",
@@ -104,9 +107,14 @@
     "C/C++ File.numero_de_cifras.cpp.executor": "Run",
     "C/C++ File.numero_del_reves.cpp.executor": "Run",
     "C/C++ File.posicions_d_un_maxim_a_dues_sequencies.cpp.executor": "Run",
+    "C/C++ File.quantes_xifres.cpp.executor": "Run",
     "C/C++ File.quants_segons_son.cpp.executor": "Run",
+    "C/C++ File.rellotge.cpp.executor": "Run",
+    "C/C++ File.seguent_primer.cpp.executor": "Run",
     "C/C++ File.sequencies_similars_2.cpp.executor": "Run",
     "C/C++ File.suma_d_un_segon.cpp.executor": "Run",
+    "C/C++ File.suma_de_digits.cpp.executor": "Run",
+    "C/C++ File.sumar_i_restar_un_segon.cpp.executor": "Run",
     "C/C++ File.temperatures.cpp.executor": "Run",
     "C/C++ File.words_between_two_words.cpp.executor": "Profiler",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -135,7 +143,7 @@
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.posicions_d_un_maxim_a_dues_sequencies.cpp">
+  <component name="RunManager" selected="C/C++ File.quantes_xifres.cpp">
     <configuration name="assignacio_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="assignacio_2.cpp" CONFIG_NAME="assignacio_2.cpp">
       <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\assignacio_2.cpp" />
       <method v="2">
@@ -144,6 +152,12 @@
     </configuration>
     <configuration name="cap_avall.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="cap_avall.cpp" CONFIG_NAME="cap_avall.cpp">
       <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\cap_avall.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codi_cesar.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="codi_cesar.cpp" CONFIG_NAME="codi_cesar.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\codi_cesar.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -172,6 +186,24 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="distancia_entre_dos_punts.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="distancia_entre_dos_punts.cpp" CONFIG_NAME="distancia_entre_dos_punts.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\distancia_entre_dos_punts.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="estudiants.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="estudiants.cpp" CONFIG_NAME="estudiants.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\estudiants.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factor_mes_frequent.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="factor_mes_frequent.cpp" CONFIG_NAME="factor_mes_frequent.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\factor_mes_frequent.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="numero_de_cifras.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="numero_de_cifras.cpp" CONFIG_NAME="numero_de_cifras.cpp">
       <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\numero_de_cifras.cpp" />
       <method v="2">
@@ -186,6 +218,36 @@
     </configuration>
     <configuration name="posicions_d_un_maxim_a_dues_sequencies.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="posicions_d_un_maxim_a_dues_sequencies.cpp" CONFIG_NAME="posicions_d_un_maxim_a_dues_sequencies.cpp">
       <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\posicions_d_un_maxim_a_dues_sequencies.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quantes_xifres.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="quantes_xifres.cpp" CONFIG_NAME="quantes_xifres.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\quantes_xifres.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rellotge.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="rellotge.cpp" CONFIG_NAME="rellotge.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\rellotge.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seguent_primer.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="seguent_primer.cpp" CONFIG_NAME="seguent_primer.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\seguent_primer.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="suma_de_digits.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="suma_de_digits.cpp" CONFIG_NAME="suma_de_digits.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\suma_de_digits.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sumar_i_restar_un_segon.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="sumar_i_restar_un_segon.cpp" CONFIG_NAME="sumar_i_restar_un_segon.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\sumar_i_restar_un_segon.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -230,7 +292,8 @@
       <workItem from="1740090449582" duration="1873000" />
       <workItem from="1740145665119" duration="2922000" />
       <workItem from="1740337725592" duration="8557000" />
-      <workItem from="1740399563015" duration="4949000" />
+      <workItem from="1740399563015" duration="9304000" />
+      <workItem from="1740491419351" duration="23736000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -296,7 +359,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740053049608</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1740404549991</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740404549991</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1740404572805</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740404572805</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

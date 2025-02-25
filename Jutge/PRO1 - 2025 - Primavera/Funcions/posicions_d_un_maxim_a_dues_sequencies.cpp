@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 using namespace std;
@@ -28,7 +27,7 @@ void findInSequence(const int max)
     {
         if (m == max)
         {
-            cout << " " << current << endl;
+            cout << ' ' << current << endl;
             cont = false;
         }
         current++;
@@ -43,6 +42,6 @@ int main()
 {
     int max, lpos;
     infoSequencia(max, lpos);
-    cout << max << " " << lpos;
+    cout << max << ' ' << lpos;
     findInSequence(max);
 }

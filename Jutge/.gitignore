@@ -1,7 +1,6 @@
 # Compiled object files
 *.o
 *.obj
-
 # Compiled dynamic libraries
 *.so
 *.dylib

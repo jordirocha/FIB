@@ -1,3 +1,8 @@
+//
+// El programa imprime un numero escrito al revés
+// Input: un numero natural
+// Output: numero al revés
+//
 #include <iostream>
 
 using namespace std;

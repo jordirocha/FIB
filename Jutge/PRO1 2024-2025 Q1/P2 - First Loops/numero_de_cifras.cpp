@@ -1,3 +1,8 @@
+//
+// El programa lee un numero natural e imprime cuantas cifras son necesarias desde la base 2 a 16
+// Input: un numero natural
+// Output: cifras necesarias en diferentes bases
+//
 #include <iostream>
 
 using namespace std;

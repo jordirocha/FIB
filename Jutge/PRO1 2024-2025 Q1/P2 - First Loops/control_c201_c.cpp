@@ -1,5 +1,8 @@
 //
-// Created by jordy on 20/02/2025.
+// El programa imprime cuantos elementos son multiples de un numero entero
+// estrictamente positivo
+// Input: un numero entero estrictamente positivo
+// Output: cantidad de elementos multiples
 //
 #include <iostream>
 
@@ -12,12 +15,8 @@ int main()
     cin >> a;
 
     while (cin >> b)
-    {
-        if (b == 0)
+        if (b % a == 0)
             multiples++;
-        else if (b % a == 0)
-            multiples++;
-    }
 
     cout << multiples << endl;
 }

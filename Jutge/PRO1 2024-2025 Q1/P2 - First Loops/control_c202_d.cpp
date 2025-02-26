@@ -1,5 +1,7 @@
 //
-// Created by jordy on 21/02/2025.
+// El programa imprime la suma de los cubos entre a y b, siendo estos numeros enteros
+// Input: dos numeros que a <= b
+// Output: la suma de los cubos
 //
 #include <iostream>
 
@@ -8,17 +10,11 @@ using namespace std;
 int main()
 {
     int a, b;
-
     while (cin >> a >> b)
     {
         int suma = 0;
-
-        if (a <= b)
-            suma = a * a * a;
-
-        for (int i = a + 1; i <= b; i++)
+        for (int i = a; i <= b; i++)
             suma += i * i * i;
-
         cout << "suma dels cubs entre " << a << " i " << b << ": " << suma << endl;
     }
 }

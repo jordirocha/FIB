@@ -1,5 +1,9 @@
+//
+// El programa obtiene el numero harmonico de un numero natural
+// Input: un numero natural
+// Output: su numero harmonico
+//
 #include <iostream>
-
 using namespace std;
 
 int main()

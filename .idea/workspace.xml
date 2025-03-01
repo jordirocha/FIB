@@ -20,43 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
+      <change afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 3/algun_nombre_capicua.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/control_c202_e.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/control_c202_e.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/la_sequencia_de_collatz.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/la_sequencia_de_collatz.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/nombres_harmonics_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/nombres_harmonics_2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/octagons_facilets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/octagons_facilets.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/rectangles_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/rectangles_2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/suma_de_digits_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/suma_de_digits_2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/tauler_d_escacs_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/tauler_d_escacs_2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/triangle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Iteracions/triangle.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/buscant_una_a.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/buscant_una_a.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/control_c202_f.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/control_c202_f.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/divisors_en_ordre.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/divisors_en_ordre.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/i_esim_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/i_esim_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/i_esim_3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/i_esim_3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/moviments_en_el_pla.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/moviments_en_el_pla.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/paraules_consecutives_repetides.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/paraules_consecutives_repetides.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/paraules_entre_altres_dues.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/paraules_entre_altres_dues.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/parentesis.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/parentesis.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/primalitat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/primalitat.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/primera_posicio.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/primera_posicio.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignacio_2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap_avall.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codi_cesar.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c201_c.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c202_b.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c202_d.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/distancia_entre_dos_punts.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudiants.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factor_mes_frequent.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numero_de_cifras.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numero_del_reves.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/posicions_d_un_maxim_a_dues_sequencies.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quantes_xifres.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rellotge.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seguent_primer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/suma_de_digits.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumar_i_restar_un_segon.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 3/felicitat_i_tristesa_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1 - 2025 - Primavera/Seqüències 3/felicitat_i_tristesa_1.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +71,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.algun_nombre_capicua.cpp.executor": "Run",
     "C/C++ File.anys_de_traspas.cpp.executor": "Run",
     "C/C++ File.assignacio_2.cpp.executor": "Run",
     "C/C++ File.buscant_una_a.cpp.executor": "Run",
@@ -127,6 +94,7 @@
     "C/C++ File.estudiants.cpp.executor": "Run",
     "C/C++ File.f008b._suma_de_fraccions.cpp.executor": "Run",
     "C/C++ File.factor_mes_frequent.cpp.executor": "Run",
+    "C/C++ File.felicitat_i_tristesa_1.cpp.executor": "Debug",
     "C/C++ File.i_esim_1.cpp.executor": "Run",
     "C/C++ File.i_esim_3.cpp.executor": "Run",
     "C/C++ File.intervals_1.cpp.executor": "Debug",
@@ -188,7 +156,13 @@
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.divisors_en_ordre.cpp">
+  <component name="RunManager" selected="C/C++ File.algun_nombre_capicua.cpp">
+    <configuration name="algun_nombre_capicua.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="algun_nombre_capicua.cpp" CONFIG_NAME="algun_nombre_capicua.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 3\algun_nombre_capicua.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="assignacio_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="assignacio_2.cpp" CONFIG_NAME="assignacio_2.cpp">
       <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\assignacio_2.cpp" />
       <method v="2">
@@ -249,6 +223,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="felicitat_i_tristesa_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="felicitat_i_tristesa_1.cpp" CONFIG_NAME="felicitat_i_tristesa_1.cpp">
+      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 3\felicitat_i_tristesa_1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="i_esim_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="i_esim_1.cpp" CONFIG_NAME="i_esim_1.cpp">
       <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 1\i_esim_1.cpp" />
       <method v="2">
@@ -305,12 +285,6 @@
     </configuration>
     <configuration name="paraules_entre_altres_dues.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="paraules_entre_altres_dues.cpp" CONFIG_NAME="paraules_entre_altres_dues.cpp">
       <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 1\paraules_entre_altres_dues.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="parentesis.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="parentesis.cpp" CONFIG_NAME="parentesis.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 1\parentesis.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -389,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.algun_nombre_capicua.cpp" />
         <item itemvalue="C/C++ File.nombres_harmonics_1.cpp" />
         <item itemvalue="C/C++ File.control_c202_e.cpp" />
         <item itemvalue="C/C++ File.suma_de_digits_2.cpp" />
         <item itemvalue="C/C++ File.paraules_entre_altres_dues.cpp" />
-        <item itemvalue="C/C++ File.parentesis.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -435,6 +409,7 @@
       <workItem from="1740656035095" duration="4854000" />
       <workItem from="1740753583872" duration="9259000" />
       <workItem from="1740768547980" duration="10638000" />
+      <workItem from="1740831009091" duration="3968000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -556,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740661474752</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1740831062219</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740831062219</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

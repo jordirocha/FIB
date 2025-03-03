@@ -18,18 +18,14 @@ bool is_sandwich(int n)
     if (n < 100)
         return false;
 
-    int reverse = 0;
     int d = n % 10;
     int e = (n / 10) % 10;
     bool isEquale = true;
-
-    reverse = reverse * 10 + (n % 10); // <= 9
     n = n / 10;
 
     while (n >= 10 and isEquale and d != e)
     {
         int temp = (n % 10);
-        reverse = reverse * 10 + temp;
         if (e != temp)
             isEquale = false;
         n = n / 10;

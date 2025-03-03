@@ -18,5 +18,6 @@ int main()
     while (cin >> str)
     {
         // if (str == "principi ")
+        cout << str << endl;
     }
 }

@@ -1,74 +1,62 @@
-
-#include <cmath>
+//
+// Programa que obtiene el factor primer mas frecuente de un numero natural y cuantas veces parece
+// Input: un número natural mayor igual a 2
+// Output: descomposición del número con el factor más pequeño
+//
 #include <iostream>
-#include <math.h>
 
 using namespace std;
 
-void factorizar(int n, int &f, int &q)
+//
+// Mira si un número es primo, sí o no
+// Pre: número natural
+// Post: devuelve cierto si lo es, en caso contrario falso
+//
+bool es_primo(int x)
 {
-    // int f = -1, q = 1000;
-    q = -1;
-    int d = 2;
-    int currentFactor = 0;
-    bool firstFactor = false;
-    int counter = 0;
-    while (n != 1)
+    if (x < 2)
+        return false;
+    for (int d = 2; d * d <= x; ++d)
+        if (x % d == 0)
+            return false;
+    return true;
+}
+
+void factor(int n, int &f, int &q)
+{
+    if (not es_primo(n))
     {
-        bool isFactor = false;
-        if (n % d == 0)
+        q = -1;
+        int divisors = 0;
+        while (n % 2 == 0)
         {
-            // cout << "factor: " << d << endl;
-            currentFactor = d;
-            isFactor = true;
-            // firstFactor = true;
-            counter++;
-            n /= d;
+            divisors++;
+            n = n / 2;
         }
-        else
+        if (divisors > 0)
         {
-            // cout << "no factor: " << d << endl;
-            // if (counter > 0)
-            // {
-            //     // cout << currentFactor << " " << counter << endl;
-            //     cout << counter << endl;
-            // }
-            ++d;
+            f = 2;
+            q = divisors;
         }
-
-        // if (currentFactor != d)
-        // {
-        // cout << currentFactor;
-        // cout << "diferente a " << d << endl;
-        if (counter > 0)
+        for (int i = 3; i * i <= n; i += 2)
         {
-            if (not firstFactor)
+            divisors = 0;
+            while (n % i == 0)
             {
-                f = currentFactor;
-                q = counter;
-                firstFactor = true;
+                n = n / i;
+                divisors++;
             }
-
-            // cout << "entro aqui porque el factor " << currentFactor << endl;
-            // cout << "esta elevad a  " << counter << endl;
-            // cout << "y el siguiente factor es  " << d << endl;
-            // if (currentFactor > f and counter > q)
-            if (currentFactor <= f)
+            if (divisors > 0 and divisors > q)
             {
-                f = currentFactor;
-                q += counter;
-
-                cout << f << " " << q << endl;
+                f = i;
+                q = divisors;
             }
-            counter = 0;
         }
-
-        // }
-        // else
-        // {
-        // cout << currentFactor;
-        // cout << "igual a " << d << endl;
-        // }
+    }
+    else
+    {
+        f = n;
+        q = 1;
     }
 }
 
@@ -78,8 +66,7 @@ int main()
     while (cin >> n)
     {
         int f = -1, q = 1000;
-        factorizar(n, f, q);
-        // factor(n, f, q);
+        factor(n, f, q);
         cout << f << ' ' << q << endl;
     }
     return 0;

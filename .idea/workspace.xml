@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P10 - Fundamental Algorithms &amp; Advanced Exercises/garbell_d_eratostenes.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/inversio_de_sequencies.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/inversio_de_sequencies.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_24/millor_carta.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_24/millor_carta.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_24/nombres_entrepa.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_24/nombres_entrepa.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,92 +63,92 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.algun_nombre_capicua.cpp.executor": "Run",
-    "C/C++ File.anys_de_traspas.cpp.executor": "Run",
-    "C/C++ File.assignacio_2.cpp.executor": "Run",
-    "C/C++ File.buscant_una_a.cpp.executor": "Run",
-    "C/C++ File.cap_avall.cpp.executor": "Run",
-    "C/C++ File.capicues.cpp.executor": "Run",
-    "C/C++ File.classificacio_de_caracters.cpp.executor": "Run",
-    "C/C++ File.codi_cesar.cpp.executor": "Run",
-    "C/C++ File.control_c101_a.cpp.executor": "Run",
-    "C/C++ File.control_c201_a.cpp.executor": "Run",
-    "C/C++ File.control_c201_c.cpp.executor": "Run",
-    "C/C++ File.control_c202_b.cpp.executor": "Run",
-    "C/C++ File.control_c202_d.cpp.executor": "Run",
-    "C/C++ File.control_c202_e.cpp.executor": "Run",
-    "C/C++ File.control_c202_f.cpp.executor": "Run",
-    "C/C++ File.dates_valides.cpp.executor": "Run",
-    "C/C++ File.descomposicio_horaria_1.cpp.executor": "Run",
-    "C/C++ File.distancia_entre_dos_punts.cpp.executor": "Run",
-    "C/C++ File.divisors_en_ordre.cpp.executor": "Run",
-    "C/C++ File.escriviu_una_creu.cpp.executor": "Run",
-    "C/C++ File.estudiants.cpp.executor": "Run",
-    "C/C++ File.f008b._suma_de_fraccions.cpp.executor": "Run",
-    "C/C++ File.factor_mes_frequent.cpp.executor": "Run",
-    "C/C++ File.felicitat_i_tristesa_1.cpp.executor": "Debug",
-    "C/C++ File.garbell_d_eratostenes.cpp.executor": "Run",
-    "C/C++ File.i_esim_1.cpp.executor": "Run",
-    "C/C++ File.i_esim_3.cpp.executor": "Run",
-    "C/C++ File.intervals_1.cpp.executor": "Debug",
-    "C/C++ File.intervals_2.cpp.executor": "Debug",
-    "C/C++ File.inversio_de_sequencies.cpp.executor": "Run",
-    "C/C++ File.la_pica_d_estats.cpp.executor": "Run",
-    "C/C++ File.la_sequencia_de_collatz.cpp.executor": "Run",
-    "C/C++ File.llegiu_un_nombre_racional_1.cpp (1).executor": "Run",
-    "C/C++ File.llegiu_un_nombre_racional_1.cpp.executor": "Run",
-    "C/C++ File.majuscules_i_minuscules.cpp.executor": "Run",
-    "C/C++ File.moviments_en_el_pla.cpp.executor": "Run",
-    "C/C++ File.nombres_harmonics_1.cpp.executor": "Run",
-    "C/C++ File.nombres_harmonics_2.cpp.executor": "Run",
-    "C/C++ File.nombres_perfectes.cpp.executor": "Run",
-    "C/C++ File.numero_de_cifras.cpp.executor": "Run",
-    "C/C++ File.numero_del_reves.cpp.executor": "Run",
-    "C/C++ File.paraules_consecutives_repetides.cpp.executor": "Run",
-    "C/C++ File.paraules_entre_altres_dues.cpp.executor": "Profiler",
-    "C/C++ File.parentesis.cpp.executor": "Run",
-    "C/C++ File.posicions_d_un_maxim_a_dues_sequencies.cpp.executor": "Run",
-    "C/C++ File.primalitat.cpp.executor": "Run",
-    "C/C++ File.primera_posicio.cpp.executor": "Run",
-    "C/C++ File.quantes_xifres.cpp.executor": "Run",
-    "C/C++ File.quants_segons_son.cpp.executor": "Run",
-    "C/C++ File.racionals_1.cpp.executor": "Run",
-    "C/C++ File.rectangles_2.cpp.executor": "Run",
-    "C/C++ File.rellotge.cpp.executor": "Run",
-    "C/C++ File.seguent_primer.cpp.executor": "Run",
-    "C/C++ File.sequencies_similars_2.cpp.executor": "Run",
-    "C/C++ File.suma_d_un_segon.cpp.executor": "Run",
-    "C/C++ File.suma_de_digits.cpp.executor": "Run",
-    "C/C++ File.suma_de_digits_2.cpp.executor": "Run",
-    "C/C++ File.sumar_i_restar_un_segon.cpp.executor": "Run",
-    "C/C++ File.tauler_d_escacs_2.cpp.executor": "Run",
-    "C/C++ File.temperatures.cpp.executor": "Run",
-    "C/C++ File.triangle.cpp.executor": "Run",
-    "C/C++ File.trigonometria.cpp.executor": "Run",
-    "C/C++ File.words_between_two_words.cpp.executor": "Profiler",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.advertisement.text.has.clang-format": "true",
-    "cf.advertisement.text.overridden": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1 2024-2025 Q1/P1 - Introduction",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.algun_nombre_capicua.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.anys_de_traspas.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.assignacio_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.buscant_una_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.cap_avall.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.capicues.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.classificacio_de_caracters.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.codi_cesar.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c101_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c201_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c201_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c202_b.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c202_d.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c202_e.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c202_f.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.dates_valides.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.descomposicio_horaria_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.distancia_entre_dos_punts.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.divisors_en_ordre.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.escriviu_una_creu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.estudiants.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.f008b._suma_de_fraccions.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.factor_mes_frequent.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.felicitat_i_tristesa_1.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.garbell_d_eratostenes.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.i_esim_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.i_esim_3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.intervals_1.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.intervals_2.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.inversio_de_sequencies.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.la_pica_d_estats.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.la_sequencia_de_collatz.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.llegiu_un_nombre_racional_1.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.llegiu_un_nombre_racional_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.majuscules_i_minuscules.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.moviments_en_el_pla.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nombres_harmonics_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nombres_harmonics_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nombres_perfectes.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.numero_de_cifras.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.numero_del_reves.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.paraules_consecutives_repetides.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.paraules_entre_altres_dues.cpp.executor&quot;: &quot;Profiler&quot;,
+    &quot;C/C++ File.parentesis.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.posicions_d_un_maxim_a_dues_sequencies.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.primalitat.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.primera_posicio.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.quantes_xifres.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.quants_segons_son.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.racionals_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.rectangles_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.rellotge.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.seguent_primer.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sequencies_similars_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.suma_d_un_segon.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.suma_de_digits.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.suma_de_digits_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sumar_i_restar_un_segon.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.tauler_d_escacs_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.temperatures.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.triangle.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.trigonometria.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.words_between_two_words.cpp.executor&quot;: &quot;Profiler&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1 2024-2025 Q1/P1 - Introduction&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
@@ -427,7 +427,8 @@
       <workItem from="1740768547980" duration="10638000" />
       <workItem from="1740831009091" duration="3968000" />
       <workItem from="1740859412578" duration="13939000" />
-      <workItem from="1741005532010" duration="4248000" />
+      <workItem from="1741005532010" duration="4289000" />
+      <workItem from="1741110797581" duration="2620000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -565,7 +566,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741005738519</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1741014204379</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741014204379</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

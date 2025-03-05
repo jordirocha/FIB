@@ -15,6 +15,7 @@ int main()
     cin >> x;
 
     int lastDigits = x % 1000;
+
     cout << "nombres que acaben igual que " << x << ":" << endl;
     while (cin >> x)
     {

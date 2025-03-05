@@ -12,20 +12,17 @@ using namespace std;
 int main()
 {
     string str;
-    int counter = -1;
-    bool final = false, start = false;
-    while (not final and cin >> str)
+    int counter = 0;
+    bool start = false;
+    while (cin >> str and str != "final")
     {
         if (str == "principi")
             start = true;
-        if (str == "final" and start)
-        {
-            cout << counter << endl;
-            final = true;
-        }
-        if (start and not final)
+        else if (start)
             counter++;
     }
-    if (not start or (start and not final))
+    if (start and str == "final")
+        cout << counter << endl;
+    else
         cout << "sequencia incorrecta" << endl;
 }

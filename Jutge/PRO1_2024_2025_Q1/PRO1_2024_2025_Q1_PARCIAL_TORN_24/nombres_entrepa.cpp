@@ -6,9 +6,7 @@
 // Output: cierto si el numero es bocadillo, en caso contrario falso
 //
 #include <iostream>
-
 using namespace std;
-
 /**
  * @pre  n >= 0
  * @post retorna cert si n és un número entrepà, fals en cas contrari
@@ -17,30 +15,18 @@ bool is_sandwich(int n)
 {
     if (n < 100)
         return false;
-
     int d = n % 10;
-    int e = (n / 10) % 10;
-    bool isEquale = true;
     n = n / 10;
-
-    while (n >= 10 and isEquale and d != e)
+    int e = n % 10;
+    bool allEqual = true;
+    while (n >= 10 and allEqual and d != e)
     {
         int temp = (n % 10);
         if (e != temp)
-            isEquale = false;
+            allEqual = false;
         n = n / 10;
     }
-
-    if (isEquale and d == n)
+    if (allEqual and d == n)
         return true;
-
     return false;
-}
-
-int main()
-{
-    int num;
-
-    while (cin >> num)
-        cout << is_sandwich(num) << endl;
 }

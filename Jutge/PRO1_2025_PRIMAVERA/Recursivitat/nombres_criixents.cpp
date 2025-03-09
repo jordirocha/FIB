@@ -1,12 +1,22 @@
-
 #include <iostream>
-
 using namespace std;
 
-int main() {
-int a,b,c;
-cin>>a>>b>>c;
-cout<<a+b+c<<endl;
+bool max(int a, int b) { return a >= b; }
+
+bool es_creixent(int n)
+{
+  bool isGreater;
+  if(n < 10)
+    isGreater = true;
+  else
+    isGreater = max(n % 10, (n / 10) % 10) and es_creixent(n / 10);
+  return isGreater;
 }
 
-
+int main()
+{
+  int n;
+  while(cin >> n)
+    cout << (es_creixent(n) ? "true" : "false") << endl;
+  return 0;
+}

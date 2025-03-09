@@ -4,44 +4,44 @@ using namespace std;
 
 void infoSequencia(int &max, int &lpos)
 {
-    int current, currentLpos = 1;
-    cin >> current;
-    while (current != 0)
+  int current, currentLpos = 1;
+  cin >> current;
+  while(current != 0)
     {
-        if (current >= max)
+      if(current >= max)
         {
-            max = current;
-            lpos = currentLpos;
+          max = current;
+          lpos = currentLpos;
         }
-        currentLpos++;
-        cin >> current;
+      currentLpos++;
+      cin >> current;
     }
 }
 
 void findInSequence(const int max)
 {
-    int m, current = 1;
-    bool cont = true;
-    cin >> m;
-    while (m != 0 and cont)
+  int m, current = 1;
+  bool cont = true;
+  cin >> m;
+  while(m != 0 and cont)
     {
-        if (m == max)
+      if(m == max)
         {
-            cout << ' ' << current << endl;
-            cont = false;
+          cout << ' ' << current << endl;
+          cont = false;
         }
-        current++;
-        cin >> m;
+      current++;
+      cin >> m;
     }
 
-    if (cont)
-        cout << " -" << endl;
+  if(cont)
+    cout << " -" << endl;
 }
 
 int main()
 {
-    int max, lpos;
-    infoSequencia(max, lpos);
-    cout << max << ' ' << lpos;
-    findInSequence(max);
+  int max, lpos;
+  infoSequencia(max, lpos);
+  cout << max << ' ' << lpos;
+  findInSequence(max);
 }

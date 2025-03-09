@@ -1,66 +1,67 @@
-
 #include <iostream>
-
 using namespace std;
 
-// void toBinary(int x)
-// {
-//
-//     if (x == 1)
-//     {
-//         cout << 1;
-// //        return 1;
-//     }
-//
-//
-// //    int cociente = toBinary(x / 2);
-//     toBinary(x / 2);
-//     // cout << cociente << endl;
-// //    return cociente;
-// }
+char format(int a)
+{
+  if(a == 10)
+    return 'A';
+  else if(a == 11)
+    return 'B';
+  else if(a == 12)
+    return 'C';
+  else if(a == 13)
+    return 'D';
+  else if(a == 14)
+    return 'E';
+  else if(a == 15)
+    return 'F';
+
+  return a + '0';
+}
+
+void toHex(int x)
+{
+  if(x > 0)
+    {
+      toHex(x / 16);
+      cout << format(x % 16);
+    }
+}
+
+void toOctal(int x)
+{
+  if(x > 0)
+    {
+      toOctal(x / 8);
+      cout << x % 8;
+    }
+}
 
 void toBinary(int x)
 {
-    int residuo;
-    if (x == 1)
+  if(x > 0)
     {
-        // residuo = 1;
-        cout << "1";
+      toBinary(x / 2);
+      cout << x % 2;
     }
-    else if (x == 2)
-    {
-        cout << "0";
-        cout << "1";
-        // residuo = 1;
-    }
-    else if (x == 3)
-    {
-        cout << "1";
-        cout << "1";
-    }
-    else
-    {
-        cout << (x % 2) << endl;
-        toBinary(x / 2);
-    }
-
-    //    int cociente = toBinary(x / 2);
-    // cout << cociente << endl;
-    //    return cociente;
-
-    // return residuo;
 }
 
 int main()
 {
-    int a;
-    while (cin >> a)
+  int a;
+  while(cin >> a)
     {
-        toBinary(a);
-        // while (a > 0)
-        // {
-        //     cout << a % 2 << endl;
-        //     a = a / 2;
-        // }
+      if(a == 0)
+        cout << "0 = 0, 0, 0" << endl;
+      else
+        {
+          cout << a << " = ";
+          toBinary(a);
+          cout << ", ";
+          toOctal(a);
+          cout << ", ";
+          toHex(a);
+          cout << endl;
+        }
     }
 }

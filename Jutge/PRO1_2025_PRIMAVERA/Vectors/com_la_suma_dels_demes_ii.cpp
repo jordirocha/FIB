@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-bool sumaIgualaOtros(vector<int> &v)
+bool sumaIgualaOtros(vector<int>& v)
 {
     int size = v.size();
     for (int j = 0; j < size; j++)

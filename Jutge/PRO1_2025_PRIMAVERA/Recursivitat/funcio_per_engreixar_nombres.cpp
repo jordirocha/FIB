@@ -1,12 +1,11 @@
-
 #include <iostream>
-
 using namespace std;
 
-int main() {
-int a,b,c;
-cin>>a>>b>>c;
-cout<<a+b+c<<endl;
+int engreixa(int x);
+
+int main()
+{
+  int x;
+  while(cin >> x)
+    cout << engreixa(x) << endl;
 }
-
-

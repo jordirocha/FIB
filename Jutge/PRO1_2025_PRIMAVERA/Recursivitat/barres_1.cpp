@@ -3,10 +3,15 @@
 
 using namespace std;
 
-int main() {
-int a,b,c;
-cin>>a>>b>>c;
-cout<<a+b+c<<endl;
+void print(int x)
+{
+  // if() {}
 }
 
-
+int main()
+{
+  int a, power = 1;
+  cin >> a;
+  for(int i = 0; i < a; i++) power *= 2;
+  print(--power);
+}

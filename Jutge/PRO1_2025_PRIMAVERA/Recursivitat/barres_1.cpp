@@ -1,25 +1,17 @@
+
 #include <iostream>
-#include <string>
+
 using namespace std;
 
-void barres(int lines)
+void print(int x)
 {
-  if(lines > 0)
-    {
-      cout << "*" << endl;
-      // cout << lines << endl;
-      barres(--lines);
-    }
-  else { cout << "caso base" << endl; }
+  // if() {}
 }
 
 int main()
 {
-  int n;
-  cin >> n;
-  int lines = 1;
-  for(int i = 0; i < n; i++) lines *= 2;
-  --lines;
-  // cout << (lines) << endl;
-  barres(lines);
+  int a, power = 1;
+  cin >> a;
+  for(int i = 0; i < a; i++) power *= 2;
+  print(--power);
 }

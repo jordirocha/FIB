@@ -1,57 +1,20 @@
-
 #include <iostream>
-
 using namespace std;
-
 int main()
 {
-    char c;
-    char d;
-    bool firstPart = false;
-    bool endSequence = false;
-    bool haveH = false;
-    bool haveOl = false;
-    cin >> c;
-    while (not endSequence and c != '.')
+  char h = '_', o = '_', l = '_', a = '_';
+  bool endSequence = false;
+  cin >> a;
+  while(a != '.' && !endSequence)
     {
-        cin >> d;
-        if (d == '.')
-            endSequence = true;
-        else
-        {
-            if (firstPart and c == 'l' and d == 'a')
-            {
-                cout << "hola" << endl;
-                endSequence = true;
-            }
-            else if (not haveH and (c != 'h' or c == 'h') and d == 'h')
-            {
-                haveH = true;
-            }
-            else if (haveH)
-            {
-                if (not haveOl and (c == 'o' and d == 'l'))
-                {
-                    haveOl = true;
-                }
-                else if (haveOl and c == 'o')
-                {
-                    cout << "hola" << endl;
-                    endSequence = true;
-                }
-                else
-                {
-                    haveH = haveOl = false;
-                }
-            }
-            else
-            {
-                firstPart = (c == 'h' and d == 'o');
-                cin >> c;
-            }
-        }
+      endSequence = (h == 'h' && o == 'o' && l == 'l' && a == 'a');
+      h = o;
+      o = l;
+      l = a;
+      cin >> a;
     }
-
-    if (not firstPart and not haveH)
-        cout << "adeu" << endl;
+  if(endSequence)
+    cout << "hola" << endl;
+  else
+    cout << "adeu" << endl;
 }

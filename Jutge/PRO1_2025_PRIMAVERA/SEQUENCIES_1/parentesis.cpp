@@ -9,19 +9,18 @@ using namespace std;
 
 int main()
 {
+  char parentesis;
+  int abierto = 0, cerrado = 0;
 
-    char parentesis;
-    int abierto = 0, cerrado = 0;
-
-    while (cin >> parentesis)
+  while(cin >> parentesis)
     {
-        if (parentesis == '(')
-            abierto++;
-        else
-            cerrado++;
+      if(parentesis == '(')
+        abierto++;
+      else
+        cerrado++;
     }
-    if (abierto == cerrado)
-        cout << "si" << endl;
-    else
-        cout << "no" << endl;
+  if(abierto == cerrado)
+    cout << "si" << endl;
+  else
+    cout << "no" << endl;
 }

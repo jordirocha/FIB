@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_02_2025_21_30_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_02_2025_21_30__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.clang-format" beforeDir="false" afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/barres_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/barres_1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/canvis_de_base.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/canvis_de_base.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/garbell_d_eratostenes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/garbell_d_eratostenes.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +49,11 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1 - 2025 - Primavera/Funcions/factor_mes_frequent.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1 - 2025 - Primavera/Funcions/factor_mes_frequent.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/divisors_en_ordre.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/paraules_entre_altres_dues.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1 - 2025 - Primavera/Seqüències 1/paraules_entre_altres_dues.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/canvis_de_base.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/nombres_criixents.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/nombres_criixents.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/primers_perfectes.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/jordy/CLionProjects/FIB/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/primers_perfectes.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -70,6 +69,7 @@
     "C/C++ File.algun_nombre_capicua.cpp.executor": "Run",
     "C/C++ File.anys_de_traspas.cpp.executor": "Run",
     "C/C++ File.assignacio_2.cpp.executor": "Run",
+    "C/C++ File.barres_1.cpp.executor": "Run",
     "C/C++ File.buscant_una_a.cpp.executor": "Run",
     "C/C++ File.canvis_de_base.cpp.executor": "Run",
     "C/C++ File.cap_avall.cpp.executor": "Run",
@@ -157,7 +157,7 @@
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.canvis_de_base.cpp">
+  <component name="RunManager" selected="C/C++ File.barres_1.cpp">
     <configuration name="algun_nombre_capicua.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="algun_nombre_capicua.cpp" CONFIG_NAME="algun_nombre_capicua.cpp">
       <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 3\algun_nombre_capicua.cpp" />
       <method v="2">
@@ -166,6 +166,12 @@
     </configuration>
     <configuration name="assignacio_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="assignacio_2.cpp" CONFIG_NAME="assignacio_2.cpp">
       <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\assignacio_2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="barres_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="barres_1.cpp" CONFIG_NAME="barres_1.cpp">
+      <option name="sourceFile" value="Jutge\PRO1_2025_PRIMAVERA\Recursivitat\barres_1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -262,12 +268,6 @@
     </configuration>
     <configuration name="moviments_en_el_pla.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="moviments_en_el_pla.cpp" CONFIG_NAME="moviments_en_el_pla.cpp">
       <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 1\moviments_en_el_pla.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nombres_harmonics_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="nombres_harmonics_1.cpp" CONFIG_NAME="nombres_harmonics_1.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\nombres_harmonics_1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -382,11 +382,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.barres_1.cpp" />
         <item itemvalue="C/C++ File.canvis_de_base.cpp" />
         <item itemvalue="C/C++ File.garbell_d_eratostenes.cpp" />
         <item itemvalue="C/C++ File.paraules_entre_altres_dues.cpp" />
         <item itemvalue="C/C++ File.algun_nombre_capicua.cpp" />
-        <item itemvalue="C/C++ File.nombres_harmonics_1.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -433,6 +433,7 @@
       <workItem from="1741005532010" duration="4289000" />
       <workItem from="1741110797581" duration="2822000" />
       <workItem from="1741295104671" duration="3962000" />
+      <workItem from="1741523747095" duration="3443000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -586,7 +587,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741118806625</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1741523874011</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1741523874011</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

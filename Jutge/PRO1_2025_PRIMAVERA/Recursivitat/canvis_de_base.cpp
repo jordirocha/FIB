@@ -3,18 +3,12 @@ using namespace std;
 
 char format(int a)
 {
-  if(a == 10)
-    return 'A';
-  else if(a == 11)
-    return 'B';
-  else if(a == 12)
-    return 'C';
-  else if(a == 13)
-    return 'D';
-  else if(a == 14)
-    return 'E';
-  else if(a == 15)
-    return 'F';
+  if(a == 10) return 'A';
+  if(a == 11) return 'B';
+  if(a == 12) return 'C';
+  if(a == 13) return 'D';
+  if(a == 14) return 'E';
+  if(a == 15) return 'F';
 
   return a + '0';
 }

@@ -8,36 +8,44 @@
 using namespace std;
 int main()
 {
-    int n;
-    while (cin >> n)
+  int n;
+  while(cin >> n)
     {
-        int d;
-        if (n > 4)
+      int d;
+      int copyd = -1;
+      //        if (n > 4)
+      //        {
+      cout << "divisors de " << n << ": " << 1;
+      for(d = 2; d * d <= n; d++)
         {
-            cout << "divisors de " << n << ": " << 1;
-            for (d = 2; d * d <= n; d++)
+          if(n % d == 0)
             {
-                if (n % d == 0)
-                    cout << " " << d;
+              cout << " " << d;
+              copyd = d;
             }
-            for (int i = d - 1; i >= 1; i--)
-            {
-                if (n % i == 0)
-                    cout << " " << n / i;
-            }
-            cout << endl;
         }
-        else
+      if(n != 1 and n != 2 and n != 4)
         {
-            cout << "divisors de " << n << ": ";
-            if (n == 1)
-                cout << 1 << endl;
-            else if (n == 2)
-                cout << 1 << " " << 2 << endl;
-            else if (n == 3)
-                cout << 1 << " " << 3 << endl;
-            else
-                cout << 1 << " " << 2 << " " << 4 << endl;
+          for(int i = copyd; i > 1; i--)
+            {
+              if(n % i == 0) cout << " " << n / i;
+            }
+          cout << " " << n << endl;
         }
+      else { cout << " " << n << endl; }
+
+      //        }
+      //        else
+      //        {
+      //            cout << "divisors de " << n << ": ";
+      //            if (n == 1)
+      //                cout << 1 << endl;
+      //            else if (n == 2)
+      //                cout << 1 << " " << 2 << endl;
+      //            else if (n == 3)
+      //                cout << 1 << " " << 3 << endl;
+      //            else
+      //                cout << 1 << " " << 2 << " " << 4 << endl;
+      //        }
     }
 }

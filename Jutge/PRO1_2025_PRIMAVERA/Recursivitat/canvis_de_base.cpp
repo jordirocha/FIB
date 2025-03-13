@@ -13,30 +13,15 @@ char format(int a)
   return a + '0';
 }
 
-void toHex(int x)
+void toBase(int n, int b)
 {
-  if(x > 0)
+  if(n > 0)
     {
-      toHex(x / 16);
-      cout << format(x % 16);
-    }
-}
-
-void toOctal(int x)
-{
-  if(x > 0)
-    {
-      toOctal(x / 8);
-      cout << x % 8;
-    }
-}
-
-void toBinary(int x)
-{
-  if(x > 0)
-    {
-      toBinary(x / 2);
-      cout << x % 2;
+      toBase(n / b, b);
+      if(b == 16)
+        cout << format(n % b);
+      else
+        cout << n % b;
     }
 }
 
@@ -50,11 +35,11 @@ int main()
       else
         {
           cout << a << " = ";
-          toBinary(a);
+          toBase(a, 2);
           cout << ", ";
-          toOctal(a);
+          toBase(a, 8);
           cout << ", ";
-          toHex(a);
+          toBase(a, 16);
           cout << endl;
         }
     }

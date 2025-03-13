@@ -1,25 +1,25 @@
-//
-//
-// Input:
-// Output:
-//
 #include <iostream>
-
 using namespace std;
-
 int main()
 {
-  char parentesis;
-  int abierto = 0, cerrado = 0;
+  char ch;
+  int open = 0;
+  bool read = true;
 
-  while(cin >> parentesis)
+  while(cin >> ch and read)
     {
-      if(parentesis == '(')
-        abierto++;
+      if(ch == '(')
+        open++;
       else
-        cerrado++;
+        {
+          if(open > 0)
+            open--;
+          else
+            read = false;
+        }
     }
-  if(abierto == cerrado)
+
+  if(read and open == 0)
     cout << "si" << endl;
   else
     cout << "no" << endl;

@@ -6,5 +6,3 @@ VersionControlSupport=kdevgit
 
 [SourceFormatter]
 UseDefault=false
-text/x-c++hdr=kdevcustomscript||kdev_format_source
-text/x-c++src=kdevcustomscript||kdev_format_source

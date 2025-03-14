@@ -6,11 +6,15 @@
 #include <iostream>
 
 using namespace std;
+void printX(int start, int end)
+{
+  for(int t = start; t < end; t++) { cout << "X"; }
+}
 
 void print(int lines, int adds)
 {
   for(int j = 0; j < lines; j++) { cout << " "; }
-  for(int t = 0; t < adds; t++) { cout << "X"; }
+  printX(0, adds);
 }
 
 int main()
@@ -32,7 +36,7 @@ int main()
 
       for(int z = 0; z < linesMiddle; z++)
         {
-          for(int y = 0; y < adds - 2; y++) { cout << "X"; }
+          printX(0, adds - 2);
           cout << endl;
         }
       adds = adds - 2;

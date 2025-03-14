@@ -6,23 +6,47 @@
 #include <iostream>
 
 using namespace std;
+void printX(int start, int end)
+{
+  for(int t = start; t < end; t++) { cout << "X"; }
+}
+
+void print(int lines, int adds)
+{
+  for(int j = 0; j < lines; j++) { cout << " "; }
+  printX(0, adds);
+}
 
 int main()
 {
-    int a;
-    cin >> a;
-    for (int i = 0; i < a; i++)
+  int input;
+
+  while(cin >> input)
     {
-        int separator = ((a - 1) - i);
-        for (int j = 0; j < a; j++)
+      int adds = input;
+      int lines;
+      int linesMiddle = adds - 2;
+      for(int i = input; i > 0; i--)
         {
-            if (j == separator)
-                cout << '/';
-            else if (j < separator)
-                cout << '+';
-            else
-                cout << '*';
+          lines = i - 1;
+          print(lines, adds);
+          cout << endl;
+          adds += 2;
         }
-        cout << endl;
+
+      for(int z = 0; z < linesMiddle; z++)
+        {
+          printX(0, adds - 2);
+          cout << endl;
+        }
+      adds = adds - 2;
+      for(int i = 0; i < input; i++)
+        {
+          lines = i;
+          print(lines, adds);
+          cout << endl;
+          adds -= 2;
+        }
+      cout << endl;
     }
 }

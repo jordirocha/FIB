@@ -3,24 +3,20 @@ using namespace std;
 
 int engreixa(int x)
 {
-  int firstDigit;
-  if(x < 10) { firstDigit = x; }
+  int first;
+  if(x < 10)
+    first = x;
   else
     {
-      // cout << "val actual: " << x << endl;
-      firstDigit = engreixa(x / 10);
-      cout << "val actual: " << x << endl;
-      cout << "val de firstDigit " << firstDigit << endl;
-
-      int lastDigit = x % 10;
-      int preLastDigit = (x / 10) % 10;
-
-      if(preLastDigit >= lastDigit)
-        {
-          firstDigit = firstDigit * 10 + preLastDigit;
-        }
+      first = engreixa(x / 10);
+      int last = x % 10;
+      int prev = first % 10;
+      if(prev >= last)
+        first = first * 10 + prev;
+      else
+        first = first * 10 + last;
     }
-  return firstDigit;
+  return first;
 }
 
 int main()
@@ -28,5 +24,3 @@ int main()
   int x;
   while(cin >> x) cout << engreixa(x) << endl;
 }
-
-//P75149 P31111 P12061 P89872 P23001

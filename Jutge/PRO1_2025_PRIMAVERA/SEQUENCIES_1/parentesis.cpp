@@ -4,22 +4,16 @@ int main()
 {
   char ch;
   int open = 0;
-  bool read = true;
-
-  while(cin >> ch and read)
+  bool isCorrect = true;
+  while(isCorrect and cin >> ch)
     {
       if(ch == '(')
         open++;
       else
-        {
-          if(open > 0)
-            open--;
-          else
-            read = false;
-        }
+        open--;
+      isCorrect = (open >= 0);
     }
-
-  if(read and open == 0)
+  if(open == 0)
     cout << "si" << endl;
   else
     cout << "no" << endl;

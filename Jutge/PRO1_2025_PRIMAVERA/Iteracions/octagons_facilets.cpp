@@ -6,46 +6,35 @@
 #include <iostream>
 
 using namespace std;
-void printX(int start, int end)
+void printChar(int n, char ch)
 {
-  for(int t = start; t < end; t++) { cout << "X"; }
+  for(int i = 0; i < n; i++) cout << ch;
 }
 
-void print(int lines, int adds)
+void print(int blankSpace, int x)
 {
-  for(int j = 0; j < lines; j++) { cout << " "; }
-  printX(0, adds);
+  printChar(blankSpace, ' ');
+  printChar(x, 'X');
+  cout << endl;
 }
 
 int main()
 {
   int input;
-
   while(cin >> input)
     {
-      int adds = input;
-      int lines;
-      int linesMiddle = adds - 2;
+      int x = input;
       for(int i = input; i > 0; i--)
         {
-          lines = i - 1;
-          print(lines, adds);
-          cout << endl;
-          adds += 2;
+          print(i - 1, x);
+          x += 2;
         }
-
-      for(int z = 0; z < linesMiddle; z++)
+      x = x - 2;
+      for(int j = 0; j < input - 2; j++) print(0, x);
+      for(int k = 0; k < input; k++)
         {
-          printX(0, adds - 2);
-          cout << endl;
-        }
-      adds = adds - 2;
-      for(int i = 0; i < input; i++)
-        {
-          lines = i;
-          print(lines, adds);
-          cout << endl;
-          adds -= 2;
+          print(k, x);
+          x -= 2;
         }
       cout << endl;
     }

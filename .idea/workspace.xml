@@ -19,15 +19,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_1/enumera_nombres_bicolor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_1/ma_de_poker.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_24/enumera_nombres_entrepa.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_2/enumera_nombres_entrepa.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_24/millor_carta.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_2/millor_carta.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_24/nombres_entrepa.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_2/nombres_entrepa.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_24/repeticions_de_cartes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_2/repeticions_de_cartes.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,6 +249,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
@@ -319,7 +312,7 @@
       <workItem from="1741994028481" duration="2447000" />
       <workItem from="1741996506054" duration="18000" />
       <workItem from="1742158191589" duration="394000" />
-      <workItem from="1742158594991" duration="77000" />
+      <workItem from="1742158594991" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -521,7 +514,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742158214250</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1742158872034</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1742158872034</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

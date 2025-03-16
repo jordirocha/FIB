@@ -9,7 +9,6 @@
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="8" type="long" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
-    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
   </component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
@@ -20,20 +19,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/octagons_facilets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/octagons_facilets.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/funcio_per_engreixar_nombres.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/funcio_per_engreixar_nombres.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/parentesis.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/parentesis.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/segona_paraula_maxima.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/segona_paraula_maxima.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/digits_centrals.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/digits_centrals.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/barres_1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvis_de_base.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/digits_centrals.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divisors_en_ordre.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcio_per_engreixar_nombres.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/segona_paraula_maxima.exe" beforeDir="false" />
-    </list>
+    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -263,8 +249,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -272,245 +259,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
-  </component>
-  <component name="RunManager" selected="C/C++ File.parentesis.cpp">
-    <configuration name="assignacio_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="assignacio_2.cpp" CONFIG_NAME="assignacio_2.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\assignacio_2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codi_cesar.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="codi_cesar.cpp" CONFIG_NAME="codi_cesar.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\codi_cesar.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="control_c202_b.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c202_b.cpp" CONFIG_NAME="control_c202_b.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\control_c202_b.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="control_c202_d.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c202_d.cpp" CONFIG_NAME="control_c202_d.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\control_c202_d.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="digits_centrals.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="digits_centrals.cpp" CONFIG_NAME="digits_centrals.cpp">
-      <option name="sourceFile" value="Jutge\PRO1_2025_PRIMAVERA\SEQUENCIES_2\digits_centrals.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="distancia_entre_dos_punts.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="distancia_entre_dos_punts.cpp" CONFIG_NAME="distancia_entre_dos_punts.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\distancia_entre_dos_punts.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="divisors_en_ordre.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="divisors_en_ordre.cpp" CONFIG_NAME="divisors_en_ordre.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 1\divisors_en_ordre.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="estudiants.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="estudiants.cpp" CONFIG_NAME="estudiants.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\estudiants.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="f008b._suma_de_fraccions.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="f008b._suma_de_fraccions.cpp" CONFIG_NAME="f008b._suma_de_fraccions.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\f008b._suma_de_fraccions.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="factor_mes_frequent.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="factor_mes_frequent.cpp" CONFIG_NAME="factor_mes_frequent.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\factor_mes_frequent.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="felicitat_i_tristesa_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="felicitat_i_tristesa_1.cpp" CONFIG_NAME="felicitat_i_tristesa_1.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 3\felicitat_i_tristesa_1.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="funcio_per_engreixar_nombres.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="funcio_per_engreixar_nombres.cpp" CONFIG_NAME="funcio_per_engreixar_nombres.cpp">
-      <option name="sourceFile" value="Jutge\PRO1_2025_PRIMAVERA\Recursivitat\funcio_per_engreixar_nombres.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="i_esim_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="i_esim_1.cpp" CONFIG_NAME="i_esim_1.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 1\i_esim_1.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="inversio_de_sequencies.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="inversio_de_sequencies.cpp" CONFIG_NAME="inversio_de_sequencies.cpp">
-      <option name="sourceFile" value="Jutge\PRO1_2025_PRIMAVERA\Vectors\inversio_de_sequencies.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="la_pica_d_estats.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="la_pica_d_estats.cpp" CONFIG_NAME="la_pica_d_estats.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P5 - Functions &amp; Procedures\la_pica_d_estats.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="la_sequencia_de_collatz.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="la_sequencia_de_collatz.cpp" CONFIG_NAME="la_sequencia_de_collatz.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\la_sequencia_de_collatz.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="moviments_en_el_pla.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="moviments_en_el_pla.cpp" CONFIG_NAME="moviments_en_el_pla.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 1\moviments_en_el_pla.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nombres_harmonics_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="nombres_harmonics_2.cpp" CONFIG_NAME="nombres_harmonics_2.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\nombres_harmonics_2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="numero_de_cifras.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="numero_de_cifras.cpp" CONFIG_NAME="numero_de_cifras.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\numero_de_cifras.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="numero_del_reves.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="numero_del_reves.cpp" CONFIG_NAME="numero_del_reves.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 2024-2025 Q1\P2 - First Loops\numero_del_reves.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="octagons_facilets.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="octagons_facilets.cpp" CONFIG_NAME="octagons_facilets.cpp">
-      <option name="sourceFile" value="Jutge\PRO1_2025_PRIMAVERA\Iteracions\octagons_facilets.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="octagons_facilets.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="octagons_facilets.cpp" CONFIG_NAME="octagons_facilets.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\octagons_facilets.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="paraules_consecutives_repetides.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="paraules_consecutives_repetides.cpp" CONFIG_NAME="paraules_consecutives_repetides.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 1\paraules_consecutives_repetides.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="parentesis.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="parentesis.cpp" CONFIG_NAME="parentesis.cpp">
-      <option name="sourceFile" value="Jutge\PRO1_2025_PRIMAVERA\SEQUENCIES_1\parentesis.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="posicions_d_un_maxim_a_dues_sequencies.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="posicions_d_un_maxim_a_dues_sequencies.cpp" CONFIG_NAME="posicions_d_un_maxim_a_dues_sequencies.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\posicions_d_un_maxim_a_dues_sequencies.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="primera_posicio.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="primera_posicio.cpp" CONFIG_NAME="primera_posicio.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Seqüències 1\primera_posicio.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="quantes_xifres.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="quantes_xifres.cpp" CONFIG_NAME="quantes_xifres.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\quantes_xifres.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="racionals_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="racionals_1.cpp" CONFIG_NAME="racionals_1.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\racionals_1.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="rectangles_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="rectangles_2.cpp" CONFIG_NAME="rectangles_2.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\rectangles_2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="rellotge.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="rellotge.cpp" CONFIG_NAME="rellotge.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\rellotge.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="segona_paraula_maxima.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="segona_paraula_maxima.cpp" CONFIG_NAME="segona_paraula_maxima.cpp">
-      <option name="sourceFile" value="Jutge\PRO1_2025_PRIMAVERA\SEQUENCIES_1\segona_paraula_maxima.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="segona_paraula_maxima.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="segona_paraula_maxima.cpp" CONFIG_NAME="segona_paraula_maxima.cpp">
-      <option name="sourceFile" value="Jutge\PRO1_2024_2025_Q1\P4.1 - Sequence basics\segona_paraula_maxima.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="seguent_primer.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="seguent_primer.cpp" CONFIG_NAME="seguent_primer.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\seguent_primer.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="suma_de_digits.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="suma_de_digits.cpp" CONFIG_NAME="suma_de_digits.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\suma_de_digits.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sumar_i_restar_un_segon.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="sumar_i_restar_un_segon.cpp" CONFIG_NAME="sumar_i_restar_un_segon.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Tuples\sumar_i_restar_un_segon.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tauler_d_escacs_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="tauler_d_escacs_2.cpp" CONFIG_NAME="tauler_d_escacs_2.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\tauler_d_escacs_2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="triangle.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="triangle.cpp" CONFIG_NAME="triangle.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Iteracions\triangle.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="trigonometria.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="trigonometria.cpp" CONFIG_NAME="trigonometria.cpp">
-      <option name="sourceFile" value="Jutge\PRO1 - 2025 - Primavera\Funcions\trigonometria.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="C/C++ File.parentesis.cpp" />
-        <item itemvalue="C/C++ File.digits_centrals.cpp" />
-        <item itemvalue="C/C++ File.octagons_facilets.cpp (1)" />
-        <item itemvalue="C/C++ File.funcio_per_engreixar_nombres.cpp" />
-        <item itemvalue="C/C++ File.segona_paraula_maxima.cpp (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -562,6 +310,9 @@
       <workItem from="1741971428050" duration="13847000" />
       <workItem from="1741992845143" duration="633000" />
       <workItem from="1741994028481" duration="2447000" />
+      <workItem from="1741996506054" duration="18000" />
+      <workItem from="1742158191589" duration="394000" />
+      <workItem from="1742158594991" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -747,7 +498,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741971450932</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1741996514972</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1741996514972</updated>
+    </task>
+    <task id="LOCAL-00025" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1742158214250</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1742158214250</updated>
+    </task>
+    <task id="LOCAL-00026" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1742158872034</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1742158872034</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

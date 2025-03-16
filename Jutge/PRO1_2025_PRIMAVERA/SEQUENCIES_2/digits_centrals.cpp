@@ -4,7 +4,6 @@ using namespace std;
 
 int central(int n, int l)
 {
-  if(n < 10) return n;
   int c = l / 2;
   for(int j = 0; j < c; j++) n /= 10;
   return n % 10;
@@ -18,47 +17,38 @@ int digits(int n)
 
 int main()
 {
-  int n, a, b, c;
-  int i = 0;
-  bool start = false;
-  // bool validAna = true, validBer = true;
+  int n, a, b, c, i = 0;
+  bool start = false, validAna = true, validBer = true;
   cin >> n;
-  // while(i < 2*n)
-  //   {
-  //     if
-  //   }
-  // while(validAna and validBer and i < n * 2 and cin >> a >> b)
-  //   {
-  //     if(not firstCentral)
-  //       {
-  //         c = central(a, digits(a));
-  //         firstCentral = true;
-  //       }
-  //
-  //     int digAna = digits(a);
-  //
-  //     if(digAna % 2 == 0) { validAna = false; }
-  //     else
-  //       {
-  //         int cAna = central(a, digAna);
-  //         if(c != cAna) { validAna = false; }
-  //       }
-  //
-  //     int digBer = digits(b);
-  //     if(validAna)
-  //       {
-  //         if(digBer % 2 == 0) { validBer = false; }
-  //         else
-  //           {
-  //             int cBer = central(b, digBer);
-  //             if(c != cBer) { validBer = false; }
-  //           }
-  //       }
-  //
-  //     i += 2;
-  //   }
-  //
-  // if(validAna == validBer) { cout << '=' << endl; }
-  // else if(not validAna) { cout << 'B' << endl; }
-  // else { cout << 'A' << endl; }
+  while(validAna and validBer and cin >> a >> b and i < 2 * n)
+    {
+      if(not start)
+        {
+          c = central(a, digits(a));
+          start = true;
+        }
+      int dAna = digits(a);
+      int dBer = digits(b);
+      validAna = (dAna % 2 != 0);
+      if(validAna)
+        {
+          int cAna = central(a, dAna);
+          validAna = c == cAna;
+        }
+
+      if(validAna)
+        {
+          validBer = dBer % 2 != 0;
+          if(validBer)
+            {
+              int cBer = central(b, dBer);
+              validBer = c == cBer;
+            }
+        }
+
+      i += 2;
+    }
+  if(validAna == validBer) { cout << '=' << endl; }
+  else if(not validAna) { cout << 'B' << endl; }
+  else { cout << 'A' << endl; }
 }

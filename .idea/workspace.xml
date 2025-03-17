@@ -7,7 +7,7 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="8" type="long" />
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="11" type="long" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
   </component>
   <component name="CMakeProjectFlavorService">
@@ -19,7 +19,334 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added" />
+    <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
+      <change afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/ITERACIONS/generant_trenes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FIB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.kdev4/FIB.kdev4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIB.kdev4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/FileContentIndex/2a6e48ac-699a-41c2-b703-25dfc5651645.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/.wsuo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/ipch/AutoPCH/5e1b373887c86039/ASSIGNACIÓ_2.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/ipch/AutoPCH/a9639b4dc0f7d94c/ANYS_DE_TRASPAS.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/Jutge/v17/ipch/AutoPCH/c32b0a77f0ab2f5f/ARRODONIMENTS.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/ProjectSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/ALTERNATIVES/maxim_comu_divisor_recursiu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/ALTERNATIVES/multiples_de_tres.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/ALTERNATIVES/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/ALTERNATIVES/primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/ITERACIONS/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/ITERACIONS/sumar_1_als_digits_parells.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/ITERACIONS/sumar_1_als_digits_parells.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/Alternatives/sembles_mes_jove.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/dibuja_un_triangulo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/donats_quatre_enters_comprovar_que_dos_son_iguals_i_dos_son_diferents.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/donats_tres_nombres_comprova_si_algun_d_ells_es_igual_al_promig_dels_altres_dos.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/escribe_al_reves.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/nombre_de_pics_en_numeros_d_entrada.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/nombres_doblegats.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/numero_de_palabras.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/resta_un_segundo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/words_between_two_words.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/anys_de_traspas.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/arrodoniments.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/assignació_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/classificacio_de_caracters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/comparacio_de_paraules.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/control_c101_a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/descomposicio_horaria_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/divisio_entera_i_residu_de_dos_naturals.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/elementos.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/intervals_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/intervals_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/majuscules_i_minuscules.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/quants_segons_son.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/suma_d_un_segon.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P1 - Introduction/temperatures.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P10 - Fundamental Algorithms &amp; Advanced Exercises/garbell_d_eratostenes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/P2 - First Loops.kdev4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/assignacio_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/calcul_d_arees.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/cap_avall.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/comptant_as_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/control_c201_a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/control_c201_c.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/control_c202_b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/control_c202_d.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/mitjana.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/nombres_en_un_interval.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/nombres_harmonics_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/numero_de_cifras.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/numero_del_reves.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/numero_del_reves_en_binari.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/numero_del_reves_en_hexadecimal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P2 - First Loops/suma_de_quadrats.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P4.1 - Sequence basics/comptant_as_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P4.1 - Sequence basics/comptant_as_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P4.1 - Sequence basics/segona_paraula_maxima.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P4.2 - Sequence extension/digits_centrals.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P4.2 - Sequence extension/hola_adeu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P4.2 - Sequence extension/la_pica_d_estats_c.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P4.2 - Sequence extension/línies_ordenades_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P4.2 - Sequence extension/línies_ordenades_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P4.2 - Sequence extension/mesures_estadistiques.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/buscant_una_a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/calcul_d_arrels_i_de_quadrats.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/classificacio_de_caracters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/control_c202_f.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/dates_valides.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/distancia_origen.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/divisors_en_ordre.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/escriviu_una_creu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/factorial_iteratiu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/funcio_per_als_anys_de_traspas.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/funcio_per_la_suma_del_minim_i_el_maxim_de_tres_enters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/i_esim_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/i_esim_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/intercanvi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/llegiu_un_nombre_racional_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/maxim_de_quatre_enters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/moviments_en_el_pla.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/paraules_consecutives_repetides.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/paraules_entre_altres_dues.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/parentesis.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/primalitat.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/primera_posicio.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/segona_paraula_maxima.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/sequencies_similars_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P5 - Functions &amp; Procedures/trigonometria.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P6 - Recursion/expressio_prefixada_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P7 - Vectors/com_la_suma_dels_demes_ii.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P7 - Vectors/es_un_palindrom.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P7 - Vectors/inversio_de_sequencies.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P7 - Vectors/invertint_paraules_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P7 - Vectors/producte_escalar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P7 - Vectors/regla_de_horner.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/barquets_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/camps.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/control_c401_b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/cruz_recursiva.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/diagonals_creixents.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/es_la_solucio_d_un_sudoku.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/f010_b_els_alfils_amenacadors.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/files_i_columnes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/matriu_transposta.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/productes_de_matrius_quadrades.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/productes_de_matrius_qualssevol.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/rectangle_contenidor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/sopa_de_lletres.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/sopa_de_lletres_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/P8 - Multidimensional Arrays/sopa_de_lletres_amb_punts.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1 2024 Tardor - Mock Parcial (online)/repeticions_de_bases.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1 2024-2025 Q1 D2_T1_online/primers_n_nombres_estranys.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1 2024-2025 Q1 D2_T1_online/sentit_de_moviment.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1 2024-2025 Q1 D3_T1_online/almenys_5_nombres_abca.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1 2024-2025 Q1 D4_T1_online/sumes_de_sequencies_autodelimitades.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1 2024-2025 Q1 D5_T1_online/expressions_min_max.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1 2024-2025 Q1 D6_T1_online/sequencia_doblement_estocastica.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1 2024-2025 Q1 D7_T1_online/amenaces_alienigenes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1 2024-2025 Q1 D8_T1_online/suma_fruites.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_1/enumera_nombres_bicolor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_1/ma_de_poker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_1/n_poker_consecutiu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_1/nombres_bicolor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_2/enumera_nombres_entrepa.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_2/millor_carta.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_2/nombres_entrepa.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2024_2025_Q1/PRO1_2024_2025_Q1_PARCIAL_TORN_2/repeticions_de_cartes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/anagrames.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/cerca_dicotomica.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/claus_i_parentesis.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/diferencia_de_taules.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/el_joc_de_la_vida_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/escrivint_nombres_amb_lletres.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/f006_b_distancia_de_manhattan.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/f009_a_recorrent_matrius.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/garbell_d_eratostenes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/insercio_en_taula_ordenada.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/mediateca_digital_ii.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/molts_en_ratlla.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/ordenacio_per_insercio.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/p0014_valls_numeriques.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/paraules_mes_frequents.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/posicio_del_maxim.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/quadrat_magic.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/rius_digitals.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Algorismes/salta_salta.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/anagrames.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/claus_i_parentesis.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/dibuixant_parallelepipedes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/diferencia_de_taules.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/escriptura_de_nombres_amb_letres.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/f005_b_nines_russes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/f010_a_llistats_d_almunnes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/f013_a_matagalls_montserrat.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/f013_b_codificacio_de_godel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/foc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/fusio_de_taules.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/garbell_d_eratosthenes_c.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/insercio_en_taules_ordenada.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/interseccio_de_taules.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/l_escalabat_d_or.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/la_sequencia_perduda.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/molts_en_ratala.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/mutacions_de_virus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/othello.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/pangrames.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/poquer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/primers_palindromics.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/quadrat_magic.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/quants_de_diferents.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/rius_digitals.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/robots_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/salta_salta.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/taulell_magic.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Avançats/torneig_de_tennis.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/calcul_d_arrels_i_de_quadrats.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/capicues.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/classificacio_de_caracters_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/codi_cesar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/comparant_fraccions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/dates_valides.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/descomposicio_horaria_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/distancia_a_l_origen.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/escriviu_una_creu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/factor_mes_frequent.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/factorial_iteratiu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/funcio_per_als_anys_de_traspas.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/funcio_per_la_suma_del_minim_i_el_maxim_de_tres_enters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/intercanvi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/llegiu_un_nombre_racional_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/maxim_de_quatre_enters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/nombres_perfectes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/posicions_d_un_maxim_a_dues_sequencies.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/seguent_primer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/sequencies_similars_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Funcions/trigonometria.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/control_c202_e.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/la_sequencia_de_collatz.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/nombres_harmonics_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/octagons_facilets.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/potencies.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/quantes_xifres.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/rectangles_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/suma_de_digits.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/suma_de_digits_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/tauler_d_escacs_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/tauler_d_escacs_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Iteracions/triangle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/camps.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/control_c401b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/cruz_recursiva.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/diagonals_creixents.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/es_la_solucio_d_un_sudoku.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/f010_b_els_alfils_amenacadors.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/files_i_columnes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/matriu_transposta.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/productes_de_matrius_quadrades.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/productes_de_matrius_qualssevol.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/rectangle_contenidor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/sopa_de_lletres.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Matrius/sopa_de_lletres_amb_punts.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/barres_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/barres_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/canvis_de_base.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/expressio_prefixada_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/factorial_recursiu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/funcio_per_engreixar_nombres.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/girant_una_llista_de_paraules_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/girant_una_llista_de_paraules_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/girant_una_llista_de_paraules_6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/nombre_de_digits_recursiu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/nombres_criixents.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/primers_perfectes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/procediment_per_al_digit_maxim_i_minim.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Recursivitat/reduccio_de_digits.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/buscant_una_a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/comptant_as_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/control_c202_f.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/digits_centrals.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/divisors_en_ordre.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/i_esim_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/i_esim_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/moviments_en_el_pla.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/paraules_consecutives_repetides.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/paraules_entre_altres_dues.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/parentesis.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/primalitat.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/primera_posicio.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/segona_paraula_maxima.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/digits_centrals" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/digits_centrals.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/hola_adeu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/la_pica_d_estats.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/linies_ordenades_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/linies_ordenades_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/maxim_de_cada_sequencia.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/mesures_estadistiques.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_2/parells_creixents.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/algun_nombre_capicua.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/felicitat_i_tristesa_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/nombre_de_pics_en_numeros_d_entrada.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/primer_submot_repetit_de_mida_3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/quantes_frases_hi_ha_despres_d_una_pregunta_i_amb_mes_a_s_que_b_s.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/quantes_frases_hi_ha_despres_d_una_pregunta_i_amb_mes_a_s_que_b_s.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/repeticions_de_bases.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_3/totes_creixents.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/cercles_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/distancia_entre_dos_punts.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/estudiants.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/f001a._alumnes_de_la_fips.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/f002b._vectors_comprimits.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/f008b._suma_de_fraccions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/jutge_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/missatge_ocult.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/paraules_repetides.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/parvulari.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/point_inside_a_rectangle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/racionals_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/racionals_4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/rectangles_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/rectangles_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/rellotge.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/sumar_i_restar_un_segon.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Tuples/vectors_normalitzats.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/com_la_suma_dels_demes_ii.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/comptant_frequencies.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/concatenacio_de_vectors.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/elements_comuns.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/es_un_palindrom.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/f002_a_infixos.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/f004_b_productes_estables.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/igual_a_l_ultim.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/inversio_de_sequencies.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/invertint_paraules_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/longitud_mitjana_i_lletra_mes_frequent.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/parells_d_una_sequencia_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/producte_escalar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/rampes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/regla_de_horner.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/Vectors/vector_muntanyos.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parentesis.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,106 +375,6 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/divisors_en_ordre.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Jutge/PRO1_2025_PRIMAVERA/SEQUENCIES_1/parentesis.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -170,6 +397,7 @@
     "C/C++ File.capicues.cpp.executor": "Run",
     "C/C++ File.classificacio_de_caracters.cpp.executor": "Run",
     "C/C++ File.codi_cesar.cpp.executor": "Run",
+    "C/C++ File.comparant_resultats_d_operacions.cpp.executor": "Run",
     "C/C++ File.control_c101_a.cpp.executor": "Run",
     "C/C++ File.control_c201_a.cpp.executor": "Run",
     "C/C++ File.control_c201_c.cpp.executor": "Run",
@@ -184,6 +412,7 @@
     "C/C++ File.distancia_entre_dos_punts.cpp.executor": "Run",
     "C/C++ File.divisors_en_ordre.cpp (1).executor": "Run",
     "C/C++ File.divisors_en_ordre.cpp.executor": "Run",
+    "C/C++ File.equacions_sobre_digits.cpp.executor": "Run",
     "C/C++ File.escriviu_una_creu.cpp.executor": "Run",
     "C/C++ File.estudiants.cpp.executor": "Run",
     "C/C++ File.f008b._suma_de_fraccions.cpp.executor": "Run",
@@ -191,6 +420,7 @@
     "C/C++ File.felicitat_i_tristesa_1.cpp.executor": "Debug",
     "C/C++ File.funcio_per_engreixar_nombres.cpp.executor": "Run",
     "C/C++ File.garbell_d_eratostenes.cpp.executor": "Run",
+    "C/C++ File.generant_trenes.cpp.executor": "Run",
     "C/C++ File.i_esim_1.cpp.executor": "Run",
     "C/C++ File.i_esim_3.cpp.executor": "Run",
     "C/C++ File.intervals_1.cpp.executor": "Debug",
@@ -251,7 +481,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs.jest.jest_package": "",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -259,6 +489,44 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.generant_trenes.cpp">
+    <configuration name="comparant_resultats_d_operacions.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="comparant_resultats_d_operacions.cpp" CONFIG_NAME="comparant_resultats_d_operacions.cpp">
+      <option name="sourceFile" value="EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL\ALTERNATIVES\comparant_resultats_d_operacions.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="equacions_sobre_digits.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="equacions_sobre_digits.cpp" CONFIG_NAME="equacions_sobre_digits.cpp">
+      <option name="sourceFile" value="EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL\ITERACIONS\equacions_sobre_digits.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generant_trenes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="generant_trenes.cpp" CONFIG_NAME="generant_trenes.cpp">
+      <option name="sourceFile" value="EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL\ITERACIONS\generant_trenes.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxim_comu_divisor_recursiu.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="maxim_comu_divisor_recursiu.cpp (1)" CONFIG_NAME="maxim_comu_divisor_recursiu.cpp (1)">
+      <option name="sourceFile" value="EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL\ALTERNATIVES\maxim_comu_divisor_recursiu.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxim_comu_divisor_recursiu.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="maxim_comu_divisor_recursiu.cpp" CONFIG_NAME="maxim_comu_divisor_recursiu.cpp">
+      <option name="sourceFile" value="Jutge\EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL\ALTERNATIVES\maxim_comu_divisor_recursiu.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.equacions_sobre_digits.cpp" />
+        <item itemvalue="C/C++ File.comparant_resultats_d_operacions.cpp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -313,6 +581,9 @@
       <workItem from="1741996506054" duration="18000" />
       <workItem from="1742158191589" duration="394000" />
       <workItem from="1742158594991" duration="313000" />
+      <workItem from="1742169061388" duration="66000" />
+      <workItem from="1742212958361" duration="230000" />
+      <workItem from="1742213199772" duration="6993000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -522,7 +793,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742158872034</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1742169072006</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1742169072006</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

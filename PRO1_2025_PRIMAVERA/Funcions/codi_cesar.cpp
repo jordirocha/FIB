@@ -1,57 +1,34 @@
-
 #include <iostream>
-
 using namespace std;
 
-char toUpperCase(char c)
-{
-    char upper = 'A' + (c - 'a');
-    return upper;
-}
+char toUpperCase(char c) { return 'A' + (c - 'a'); }
 
 char codificat(char c, int k)
 {
-    int letras = 25;
-    int saltos = k % letras;
-    // cout << "saltos: " << saltos << endl;
-    // char nextChar = c + (k % letras);
-    char n;
-    if ((c + saltos) > 'z')
+  int s = k % 26;
+  char n;
+  if((c + s) > 'z')
     {
-
-        saltos = saltos - ('z' - c);
-        n = ('a') + saltos;
-        // cout << "saltos se pasa de una fila de abc.." << endl;
-        // cout << "letras: " << c << " pasa a: " << n << endl;
+      s = s - ('z' - c);
+      n = 'a' + (s - 1);
     }
-    else
-    {
-        // cout << "puedo completarlo en un desplazamiendo sin repetir " << endl;
-        n = c + saltos;
-        // cout << "letras: " << c << " pasa a: " << n << endl;
-    }
-
-    return toUpperCase(n);
-    // return nextChar;
+  else
+    n = c + s;
+  return toUpperCase(n);
 }
 
 int main()
 {
-    int k;
-    char b;
-
-    while (cin >> k)
+  int k;
+  while(cin >> k)
     {
-        char centinel = '.';
-        cin >> b;
-        while (b != centinel)
+      char b;
+      while(cin >> b and b != '.')
         {
-            if (b != '_')
-                cout << codificat(b, k);
-            else
-                cout << ' ';
-            cin >> b;
+          if(b >= 'a' and b <= 'z') { cout << codificat(b, k); }
+          else if(b == '_') { cout << ' '; }
+          else { cout << b; }
         }
-        cout << endl;
+      cout << endl;
     }
 }

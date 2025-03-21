@@ -47,6 +47,7 @@ UseTab: Never
 
 # Formateo de las líneas
 BreakBeforeBraces: Allman
+AllowShortBlocksOnASingleLine: Always
 AllowShortIfStatementsOnASingleLine: true
 AllowShortLoopsOnASingleLine: true
 #BreakBeforeCondition: false

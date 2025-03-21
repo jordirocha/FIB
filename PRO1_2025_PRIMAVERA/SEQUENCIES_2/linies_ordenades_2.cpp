@@ -2,31 +2,32 @@
 using namespace std;
 int main()
 {
-  int n, line = 1, lastLine = 1;
-  bool match = false;
-  while(cin >> n)
+    int n, line = 1, lastLine = 0;
+    while (cin >> n)
     {
-      bool desc = true;
-      int i = 1;
-      string str1, str2;
-      if(n != 0) cin >> str1;
-      while(i < n)
+        bool desc = true;
+        int i     = 1;
+        string str1;
+        if (n != 0) cin >> str1;
+        while (desc and i < n)
         {
-          cin >> str2;
-          if(desc and str1 > str2) desc = false;
-          str1 = str2;
-          i++;
+            string str2;
+            cin >> str2;
+            if (str1 > str2) desc = false;
+            str1 = str2;
+            i++;
         }
-      if(desc)
+        for (int j = i; j < n; j++)
         {
-          lastLine = line;
-          if(not match) match = true;
+            string temp;
+            cin >> temp;
         }
-      line++;
+        if (desc) lastLine = line;
+        line++;
     }
-  if(not match)
-    cout << "No hi ha cap linia ordenada creixentment." << endl;
-  else
-    cout << "L'ultima linia ordenada creixentment es la " << lastLine << "."
-         << endl;
+    if (lastLine == 0)
+        cout << "No hi ha cap linia ordenada creixentment." << endl;
+    else
+        cout << "L'ultima linia ordenada creixentment es la " << lastLine << "."
+             << endl;
 }

@@ -1,7 +1,7 @@
 //
-// Programa que lee una secuencia de caracteres terminada en punto y que diga si tiene alguna 'a' minúscula o no.
-// Input: consiste en una secuencia de caracteres terminada en ‘.’.
-// Output: una línea con “si” o “no”
+// Programa que lee una secuencia de caracteres terminada en punto y que diga si
+// tiene alguna 'a' minúscula o no. Input: consiste en una secuencia de
+// caracteres terminada en ‘.’. Output: una línea con “si” o “no”
 //
 #include <iostream>
 

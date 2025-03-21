@@ -51,7 +51,7 @@ AllowShortBlocksOnASingleLine: Always
 AllowShortIfStatementsOnASingleLine: true
 AllowShortLoopsOnASingleLine: true
 #BreakBeforeCondition: false
-AllowShortCaseLabelsOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: true
 AlwaysBreakAfterDefinitionReturnType: None
 
 # Espaciado y alineación

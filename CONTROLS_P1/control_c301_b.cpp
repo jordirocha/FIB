@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int valencia(int n)
 {
     int even = 0, odd = 0, i = 1;
@@ -13,7 +14,7 @@ int valencia(int n)
     }
     int r = odd - even;
     if (r < 0) { return -(r); }
-    else { return r; }
+    return r;
 }
 
 int main()

@@ -2,19 +2,17 @@
 using namespace std;
 int main()
 {
-  char ch;
-  int open = 0;
-  bool isCorrect = true;
-  while(isCorrect and cin >> ch)
+    char ch;
+    int parentesis = 0;
+    while (parentesis >= 0 and cin >> ch)
     {
-      if(ch == '(')
-        open++;
-      else
-        open--;
-      isCorrect = (open >= 0);
+        if (ch == '(')
+            parentesis++;
+        else
+            parentesis--;
     }
-  if(open == 0)
-    cout << "si" << endl;
-  else
-    cout << "no" << endl;
+    if (parentesis == 0)
+        cout << "si" << endl;
+    else
+        cout << "no" << endl;
 }

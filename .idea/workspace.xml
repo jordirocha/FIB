@@ -7,7 +7,7 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="19" type="long" />
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="8" type="long" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
   </component>
   <component name="CMakeProjectFlavorService">
@@ -20,25 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/CONTROLS_P1/control_c101_b.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CONTROLS_P1/control_c101_c.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CONTROLS_P1/control_c102_b.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CONTROLS_P1/control_c102_c.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CONTROLS_P1/control_c102_d.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CONTROLS_P1/control_c102_e.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CONTROLS_P1/control_c102_f.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CONTROLS_P1/control_c103_a.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/RECURSIVITAT/la_sequencia_perduda.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/ITERACIONS/generant_ziga_zaga.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/ITERACIONS/icones_ascii.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.clang-format" beforeDir="false" afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/Alternatives/comparant_resultats_d_operacions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/ALTERNATIVES/comparant_resultats_d_operacions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/Alternatives/multiples_de_tres.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/ALTERNATIVES/multiples_de_tres.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/Alternatives/primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/ALTERNATIVES/primer_digits_senars_1_3_5_7_9_despres_digits_parells_positius_2_4_6_8.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/Alternatives/sembles_mes_jove.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL/ALTERNATIVES/sembles_mes_jove.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c101_b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c101_c.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c102_b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c102_c.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c102_d.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c102_e.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c102_f.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c103_a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c103_c.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c202_a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c202_c.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c203_a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c203_b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c203_c.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c301_a.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTROLS_P1/control_c301_b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Funcions/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_1/parentesis.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_1/parentesis.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_1/segona_paraula_maxima.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_1/segona_paraula_maxima.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/out" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,62 +99,6 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -164,6 +111,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.Control C302D.cpp.executor": "Run",
     "C/C++ File.algun_nombre_capicua.cpp.executor": "Run",
     "C/C++ File.anys_de_traspas.cpp.executor": "Run",
     "C/C++ File.assignacio_2.cpp.executor": "Run",
@@ -190,6 +138,11 @@
     "C/C++ File.control_c202_d.cpp.executor": "Run",
     "C/C++ File.control_c202_e.cpp.executor": "Run",
     "C/C++ File.control_c202_f.cpp.executor": "Run",
+    "C/C++ File.control_c301_c.cpp.executor": "Run",
+    "C/C++ File.control_c302_a.cpp.executor": "Debug",
+    "C/C++ File.control_c302_c.cpp.executor": "Run",
+    "C/C++ File.control_c302_e.cpp.executor": "Debug",
+    "C/C++ File.control_c302_f.cpp.executor": "Debug",
     "C/C++ File.dates_valides.cpp.executor": "Run",
     "C/C++ File.descomposicio_horaria_1.cpp.executor": "Run",
     "C/C++ File.digits_centrals.cpp (1).executor": "Run",
@@ -210,6 +163,7 @@
     "C/C++ File.i_esim_1.cpp.executor": "Run",
     "C/C++ File.i_esim_3.cpp.executor": "Run",
     "C/C++ File.icones_ascii.cpp.executor": "Run",
+    "C/C++ File.intercalacio_de_nombres.cpp.executor": "Run",
     "C/C++ File.intervals_1.cpp.executor": "Debug",
     "C/C++ File.intervals_2.cpp.executor": "Debug",
     "C/C++ File.inversio_de_sequencies.cpp.executor": "Run",
@@ -270,7 +224,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs.jest.jest_package": "",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -279,7 +233,13 @@
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.control_c103_a.cpp">
+  <component name="RunManager" selected="C/C++ File.control_c302_f.cpp">
+    <configuration name="Control C302D.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="Control C302D.cpp" CONFIG_NAME="Control C302D.cpp">
+      <option name="sourceFile" value="CONTROLS_P1\Control C302D.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="control_c102_b.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c102_b.cpp" CONFIG_NAME="control_c102_b.cpp">
       <option name="sourceFile" value="CONTROLS_P1\control_c102_b.cpp" />
       <method v="2">
@@ -316,6 +276,42 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="control_c203_b.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c203_b.cpp" CONFIG_NAME="control_c203_b.cpp">
+      <option name="sourceFile" value="CONTROLS_P1\control_c203_b.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c301_c.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c301_c.cpp" CONFIG_NAME="control_c301_c.cpp">
+      <option name="sourceFile" value="CONTROLS_P1\control_c301_c.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c302_a.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c302_a.cpp" CONFIG_NAME="control_c302_a.cpp">
+      <option name="sourceFile" value="CONTROLS_P1\control_c302_a.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c302_c.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c302_c.cpp" CONFIG_NAME="control_c302_c.cpp">
+      <option name="sourceFile" value="CONTROLS_P1\control_c302_c.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c302_e.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c302_e.cpp" CONFIG_NAME="control_c302_e.cpp">
+      <option name="sourceFile" value="CONTROLS_P1\control_c302_e.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c302_f.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c302_f.cpp" CONFIG_NAME="control_c302_f.cpp">
+      <option name="sourceFile" value="CONTROLS_P1\control_c302_f.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="generant_trenes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="generant_trenes.cpp" CONFIG_NAME="generant_trenes.cpp">
       <option name="sourceFile" value="EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL\ITERACIONS\generant_trenes.cpp" />
       <method v="2">
@@ -324,6 +320,12 @@
     </configuration>
     <configuration name="icones_ascii.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="icones_ascii.cpp" CONFIG_NAME="icones_ascii.cpp">
       <option name="sourceFile" value="EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL\ITERACIONS\icones_ascii.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intercalacio_de_nombres.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="intercalacio_de_nombres.cpp" CONFIG_NAME="intercalacio_de_nombres.cpp">
+      <option name="sourceFile" value="CONTROLS_P1\intercalacio_de_nombres.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -416,7 +418,10 @@
       <workItem from="1742382707269" duration="173000" />
       <workItem from="1742382888199" duration="4993000" />
       <workItem from="1742404710596" duration="3099000" />
-      <workItem from="1742494795081" duration="5713000" />
+      <workItem from="1742494795081" duration="5855000" />
+      <workItem from="1742566939915" duration="451000" />
+      <workItem from="1742651722941" duration="2964000" />
+      <workItem from="1742654708632" duration="11893000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -650,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742220417197</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1742516584769</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1742516584769</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

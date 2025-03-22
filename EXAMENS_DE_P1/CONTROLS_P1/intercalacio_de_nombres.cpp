@@ -1,30 +1,35 @@
 //
 // Created by jordy on 22/03/2025.
 //
+#include <cmath>
 #include <iostream>
 using namespace std;
-int intercalacio(int x, int y)
+double distancia(double x1, double y1, double x2, double y2)
 {
-    int num = 0, i = 1;
-    while (x > 0 and y > 0)
-    {
-        num = (y % 10) * i + num;
-        i *= 10;
-        num = (x % 10) * i + num;
-        i *= 10;
-        x = x / 10;
-        y = y / 10;
-    }
-    return num;
+    double x = x1 - x2;
+    double y = y1 - y2;
+    return sqrt(x * x + y * y);
 }
 
 int main()
 {
-    int x, y;
-    while (cin >> x >> y)
+    string city;
+    while (cin >> city)
     {
-        if (y == 0) { cout << x * 10 << endl; }
-        else if (x == 0) { cout << y << endl; }
-        else { cout << intercalacio(x, y) << endl; }
+        double ix, iy, cx2, cy2;
+        double d    = .0;
+        bool travel = true;
+        cin >> ix >> iy;
+        double cx1 = ix, cy1 = iy;
+        while (travel and cin >> cx2 >> cy2)
+        {
+            if (cx2 == ix and cy2 == iy) travel = false;
+            d += distancia(cx1, cy1, cx2, cy2);
+            cx1 = cx2;
+            cy1 = cy2;
+        }
+        cout.setf(ios::fixed);
+        cout.precision(4);
+        cout << "Trajecte " << city << ": " << d << endl;
     }
 }

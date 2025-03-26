@@ -1,6 +1,3 @@
-//
-// Created by jordy on 22/03/2025.
-//
 #include <iostream>
 #include <vector>
 
@@ -19,6 +16,7 @@ void insertionSort(vector<string> &v, const int size)
         v[j + 1] = key;
     }
 }
+
 int main()
 {
     int x;
@@ -30,6 +28,6 @@ int main()
         insertionSort(words, x);
         cout << words[0];
         for (int i = 1; i < x; i++) cout << ',' << words[i];
-        cout << endl;
     }
+    cout << endl;
 }

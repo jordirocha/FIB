@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 struct Racional
@@ -6,60 +7,33 @@ struct Racional
     int num, den;
 };
 
-struct Fraccio
-{
-    int num, den; // sempre estrictament positius
-};
-
 int gcd(int a, int b)
 {
-    while (b != 0)
-    {
-        int r = a % b;
-        a = b;
-        b = r;
-    }
-    return a;
+    if (b == 0) return a;
+    return gcd(b, a % b);
 }
 
-Fraccio suma(const Fraccio &x, const Fraccio &y)
+void simplify(Racional &r)
 {
-    Fraccio sum;
-    return sum;
-}
-
-int gcd(int a, int b)
-{
-    while (b != 0)
-    {
-        int r = a % b;
-        a = b;
-        b = r;
-    }
-    return a;
-}
-
-Racional racional(int n, int d)
-{
-    int divisor = gcd(n, d);
-    Racional racional;
-    racional.num = n / divisor;
-    racional.den = d / divisor;
-    if (racional.den < 0)
-    {
-        racional.num = -1 * (n / divisor);
-        racional.den = -1 * d / divisor;
-    }
-    return racional;
+    int div = gcd(r.num, r.den);
+    r.num /= div;
+    r.den /= div;
 }
 
 int main()
 {
-    int num, den;
-    while (cin >> num >> den)
+    Racional a, b;
+    char del = '/', op;
+    cin >> a.num >> del >> a.den >> op;
+    simplify(a);
+    while (op != '=')
     {
-        Fraccio f;
-        // cout << r.num << " " << r.den << endl;
+        cin >> b.num >> del >> b.den >> op;
+        Racional temp;
+        temp.num = a.num * b.den + a.den * b.num;
+        temp.den = a.den * b.den;
+        simplify(temp);
+        a = temp;
     }
-    return 0;
+    cout << a.num << '/' << a.den << endl;
 }

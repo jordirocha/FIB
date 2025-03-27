@@ -1,4 +1,4 @@
-#BasedOnStyle: GNU
+#BasedOnStyle: LLVM
 #AlignAfterOpenBracket: Align
 #AllowAllParametersOfDeclarationOnNextLine: false
 #AllowShortCaseLabelsOnASingleLine: true
@@ -12,20 +12,20 @@
 #AlwaysBreakAfterReturnType: None
 #BreakBeforeBraces: Custom
 #BraceWrapping:
-#    AfterClass: true
-#    AfterControlStatement: true
-#    AfterEnum: true
-#    AfterFunction: true
-#    AfterNamespace: true
-#    AfterStruct: true
-#    AfterUnion: true
-#    AfterExternBlock: true
-#    BeforeCatch: true
-#    BeforeElse: true
-#    IndentBraces: true
-#    SplitEmptyFunction: false
-#    SplitEmptyRecord: false
-#    SplitEmptyNamespace: false
+#  AfterClass: true
+#  AfterControlStatement: true
+#  AfterEnum: true
+#  AfterFunction: true
+#  AfterNamespace: true
+#  AfterStruct: true
+#  AfterUnion: true
+#  AfterExternBlock: true
+#  BeforeCatch: true
+#  BeforeElse: true
+#  IndentBraces: true
+#  SplitEmptyFunction: false
+#  SplitEmptyRecord: false
+#  SplitEmptyNamespace: false
 #ContinuationIndentWidth: 2
 #Cpp11BracedListStyle: true
 #KeepEmptyLinesAtTheStartOfBlocks: false
@@ -39,6 +39,8 @@
 #SpaceBeforeParens: Never
 #SpacesInContainerLiterals: false
 #Standard: Latest
+
+
 # Configuración básica
 BasedOnStyle: LLVM
 IndentWidth: 4
@@ -75,3 +77,4 @@ IndentCaseLabels: true
 AllowShortFunctionsOnASingleLine: All
 ReflowComments: true
 CommentPragmas: "^PRAGMA_.*"
+Standard: Latest

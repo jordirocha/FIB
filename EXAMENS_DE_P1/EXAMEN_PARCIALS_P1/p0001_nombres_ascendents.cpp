@@ -1,6 +1,3 @@
-//
-// Created by jordy on 22/03/2025.
-//
 #include <iostream>
 using namespace std;
 bool es_ascendent(int n)
@@ -24,9 +21,9 @@ bool es_ascendent(int n)
 
 int main()
 {
-    // int x, counter = 0;
-    // while (counter < 2 and cin >> x)
-    //     if (es_ascendent(x)) counter++;
-    // if (counter >= 2) { cout << "SI" << endl; }
-    // else { cout << "NO" << endl; }
+    int x, counter = 0;
+    while (counter < 2 and cin >> x)
+        if (es_ascendent(x)) ++counter;
+    if (counter >= 2) { cout << "SI" << endl; }
+    else { cout << "NO" << endl; }
 }

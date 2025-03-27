@@ -34,7 +34,6 @@ bool es_interior(const Punt &p, const Cercle &c)
     return distancia(p, c.centre) < c.radi;
 }
 
-
 int main()
 {
 
@@ -43,8 +42,8 @@ int main()
 
     string s;
     double x1, y1, radi, esc, x2, y2, x3, y3;
-    while (cin >> s >> x1 >> y1 >> radi >> s >> s >> esc
-           >> s >> x2 >> y2 >> s >> x3 >> y3)
+    while (cin >> s >> x1 >> y1 >> radi >> s >> s >> esc >> s >> x2 >> y2 >> s
+           >> x3 >> y3)
     {
         Cercle c;
         c.centre.x = x1;

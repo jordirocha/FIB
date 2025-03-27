@@ -14,10 +14,8 @@ double distancia(const Punt &a, const Punt &b)
 
 int main()
 {
-
     cout.setf(ios::fixed);
     cout.precision(6);
-
     double x1, y1, x2, y2;
     while (cin >> x1 >> y1 >> x2 >> y2)
     {

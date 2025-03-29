@@ -21,7 +21,7 @@ int main()
         bool prime = false;
         for (int i = 0; i < n and not prime; i++)
             for (int j = 0; j < n and not prime; j++)
-                if (i != j) { prime = es_primo(integers[i] + integers[j]); }
+                if (i != j) prime = es_primo(integers[i] + integers[j]);
         if (prime) { cout << "si" << endl; }
         else { cout << "no" << endl; }
     }

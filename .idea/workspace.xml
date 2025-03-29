@@ -7,6 +7,7 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
     <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="14" type="long" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
   </component>
@@ -20,28 +21,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change beforePath="$PROJECT_DIR$/.clang-format" beforeDir="false" afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/Control C502F.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c303_a.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c303_c.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c402_f.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c501_a.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c502_e.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p5_una_paraula_mal_posada.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans_2.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/cercles_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/cercles_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/distancia_entre_dos_punts.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/distancia_entre_dos_punts.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/f008b._suma_de_fraccions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/f008b._suma_de_fraccions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/racionals_4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/racionals_4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/rectangles_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/rectangles_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/vectors_normalitzats.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/vectors_normalitzats.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0001_nombres_ascendents.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0001_nombres_ascendents.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Vectors/parells_d_una_sequencia_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Vectors/parells_d_una_sequencia_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c103_b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c202_c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c302_d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c402_a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c402_d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c402_e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c403_a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c403_b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control_c403_c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p0001_nombres_ascendents" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p0013_paraules_entre_guions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parvulari" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,28 +75,6 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/vectors_normalitzats.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -122,6 +92,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.Control C302D.cpp.executor": "Run",
+    "C/C++ File.Control C502F.cpp.executor": "Run",
     "C/C++ File.algun_nombre_capicua.cpp.executor": "Run",
     "C/C++ File.anys_de_traspas.cpp.executor": "Run",
     "C/C++ File.assignacio_2.cpp.executor": "Run",
@@ -157,14 +128,19 @@
     "C/C++ File.control_c302_d.cpp.executor": "Run",
     "C/C++ File.control_c302_e.cpp.executor": "Debug",
     "C/C++ File.control_c302_f.cpp.executor": "Debug",
+    "C/C++ File.control_c303_a.cpp.executor": "Run",
+    "C/C++ File.control_c303_c.cpp.executor": "Run",
     "C/C++ File.control_c401_a.cpp.executor": "Run",
     "C/C++ File.control_c402_a.cpp.executor": "Run",
     "C/C++ File.control_c402_d.cpp.executor": "Run",
     "C/C++ File.control_c402_e.cpp.executor": "Run",
+    "C/C++ File.control_c402_f.cpp.executor": "Run",
     "C/C++ File.control_c403_a.cpp.executor": "Run",
     "C/C++ File.control_c403_b.cpp.executor": "Run",
     "C/C++ File.control_c403_c.cpp.executor": "Run",
+    "C/C++ File.control_c501_a.cpp.executor": "Run",
     "C/C++ File.control_c501_c.cpp.executor": "Run",
+    "C/C++ File.control_c502_e.cpp.executor": "Run",
     "C/C++ File.dates_valides.cpp.executor": "Run",
     "C/C++ File.descomposicio_horaria_1.cpp.executor": "Run",
     "C/C++ File.digits_centrals.cpp (1).executor": "Run",
@@ -206,6 +182,7 @@
     "C/C++ File.p0001_nombres_ascendents.cpp (1).executor": "Run",
     "C/C++ File.p0001_nombres_ascendents.cpp.executor": "Run",
     "C/C++ File.p0013_paraules_entre_guions.cpp.executor": "Run",
+    "C/C++ File.p5_una_paraula_mal_posada.cpp.executor": "Run",
     "C/C++ File.paraules_consecutives_repetides.cpp.executor": "Run",
     "C/C++ File.paraules_entre_altres_dues.cpp.executor": "Profiler",
     "C/C++ File.parells_d_una_sequencia_1.cpp.executor": "Run",
@@ -232,6 +209,7 @@
     "C/C++ File.tauler_d_escacs_2.cpp.executor": "Run",
     "C/C++ File.temperatures.cpp.executor": "Run",
     "C/C++ File.tobogans.cpp.executor": "Run",
+    "C/C++ File.tobogans_2.cpp.executor": "Run",
     "C/C++ File.triangle.cpp.executor": "Run",
     "C/C++ File.trigonometria.cpp.executor": "Run",
     "C/C++ File.vectors_normalitzats.cpp.executor": "Run",
@@ -264,7 +242,7 @@
       <recent name="C:\Users\jordy\CLionProjects\FIB\Jutge\PRO1 2024-2025 Q1\P1 - Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.parells_d_una_sequencia_1.cpp">
+  <component name="RunManager" selected="C/C++ File.tobogans_2.cpp">
     <configuration name="Control C302D.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="Control C302D.cpp" CONFIG_NAME="Control C302D.cpp">
       <option name="sourceFile" value="CONTROLS_P1\Control C302D.cpp" />
       <method v="2">
@@ -273,6 +251,12 @@
     </configuration>
     <configuration name="Control C302D.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="Control C302D.cpp" CONFIG_NAME="Control C302D.cpp">
       <option name="sourceFile" value="CONTROLS_P1\Control C302D.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Control C502F.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="Control C502F.cpp" CONFIG_NAME="Control C502F.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1\CONTROLS_P1\Control C502F.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -415,6 +399,18 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="control_c303_a.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c303_a.cpp" CONFIG_NAME="control_c303_a.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1\CONTROLS_P1\control_c303_a.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c303_c.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c303_c.cpp" CONFIG_NAME="control_c303_c.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1\CONTROLS_P1\control_c303_c.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="control_c401_a.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c401_a.cpp" CONFIG_NAME="control_c401_a.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1\CONTROLS_P1\control_c401_a.cpp" />
       <method v="2">
@@ -459,6 +455,12 @@
     </configuration>
     <configuration name="control_c402_e.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c402_e.cpp" CONFIG_NAME="control_c402_e.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1/CONTROLS_P1/control_c402_e.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c402_f.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c402_f.cpp" CONFIG_NAME="control_c402_f.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1\CONTROLS_P1\control_c402_f.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -493,6 +495,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="control_c501_a.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c501_a.cpp" CONFIG_NAME="control_c501_a.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1\CONTROLS_P1\control_c501_a.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="control_c501_c.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c501_c.cpp" CONFIG_NAME="control_c501_c.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1\EXAMEN_PARCIALS_P1\control_c501_c.cpp" />
       <method v="2">
@@ -501,6 +509,12 @@
     </configuration>
     <configuration name="control_c501_c.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c501_c.cpp" CONFIG_NAME="control_c501_c.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1\EXAMEN_PARCIALS_P1\control_c501_c.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c502_e.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c502_e.cpp" CONFIG_NAME="control_c502_e.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1\CONTROLS_P1\control_c502_e.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -631,6 +645,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p5_una_paraula_mal_posada.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p5_una_paraula_mal_posada.cpp" CONFIG_NAME="p5_una_paraula_mal_posada.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1\EXAMEN_PARCIALS_P1\p5_una_paraula_mal_posada.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="parells_d_una_sequencia_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="parells_d_una_sequencia_1.cpp" CONFIG_NAME="parells_d_una_sequencia_1.cpp">
       <option name="sourceFile" value="PRO1_2025_PRIMAVERA\Vectors\parells_d_una_sequencia_1.cpp" />
       <method v="2">
@@ -651,6 +671,12 @@
     </configuration>
     <configuration name="rectangles_1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="rectangles_1.cpp" CONFIG_NAME="rectangles_1.cpp">
       <option name="sourceFile" value="PRO1_2025_PRIMAVERA\Tuples\rectangles_1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tobogans_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="tobogans_2.cpp" CONFIG_NAME="tobogans_2.cpp">
+      <option name="sourceFile" value="PRO1_2025_PRIMAVERA\SEQUENCIES_3\tobogans_2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -744,7 +770,11 @@
       <workItem from="1742901425375" duration="25000" />
       <workItem from="1742901491815" duration="8643000" />
       <workItem from="1743031058622" duration="2440000" />
-      <workItem from="1743033522035" duration="1144000" />
+      <workItem from="1743033522035" duration="1358000" />
+      <workItem from="1743071718562" duration="3536000" />
+      <workItem from="1743167578941" duration="14743000" />
+      <workItem from="1743192204689" duration="1000" />
+      <workItem from="1743258648562" duration="11270000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
@@ -1002,7 +1032,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742732577785</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1743034799115</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1743034799115</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1022,42 +1060,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New files added" />
     <option name="LAST_COMMIT_MESSAGE" value="New files added" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp</url>
-          <line>20</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp</url>
-          <line>32</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp</url>
-          <line>44</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp</url>
-          <line>45</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/PRO1_2025_PRIMAVERA/SEQUENCIES_3/tobogans.cpp</url>
-          <line>23</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

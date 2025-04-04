@@ -1,34 +1,24 @@
-//
-// Created by jordy on 22/03/2025.
-//.
 #include <iostream>
 using namespace std;
+
+void data(int c, int &c1, int &c2, int &c3)
+{
+    (c > 0 and c < 5 ? c1++ : c >= 5 and c <= 9 ? c2++ : (c > 9) ? c3++ : 0);
+}
 
 int main()
 {
     char ch;
-    int counter    = 0;
-    bool character = false;
-    cin >> ch;
-    while (ch != '.')
+    int c1 = 0, c2 = 0, c3 = 0, c = 0;
+    while (cin >> ch and ch != '.')
     {
-        if (ch == '-')
+        if (ch != '-') { c++; }
+        else
         {
-            if (counter > 0 and counter < 5)
-                cout << counter << endl;
-            else if (counter >= 5 and counter <= 9)
-                cout << counter << endl;
-            else if (counter > 9)
-                cout << counter << endl;
-            character = false;
-            counter   = 0;
+            data(c, c1, c2, c3);
+            c = 0;
         }
-        else if (not character and ch != '-')
-        {
-            character = true;
-            counter   = 1;
-        }
-        else if (character) { counter++; }
-        cin >> ch;
     }
+    data(c, c1, c2, c3);
+    cout << c1 << ',' << c2 << ',' << c3 << endl;
 }

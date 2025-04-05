@@ -48,6 +48,7 @@ TabWidth: 4
 UseTab: Never
 
 # Formateo de las líneas
+AlignAfterOpenBracket: Align
 BreakBeforeBraces: Allman
 AllowShortBlocksOnASingleLine: Always
 AllowShortIfStatementsOnASingleLine: true

@@ -1,28 +1,22 @@
 #include <iostream>
 using namespace std;
-
 bool es_estrobogramatic(int n)
 {
-    bool cumple;
     int num = 0, m = n;
-    bool abort = false;
-    while (not abort and n > 0)
+    bool end = false;
+    while (not end and n > 0)
     {
         int d = n % 10;
-        if (n == 2 or n == 3 or n == 4 or n == 5 or n == 7) { abort = true; }
+        if (d == 2 or d == 3 or d == 4 or d == 5 or d == 7) { end = true; }
         else
         {
-            if (d == 6) { d = 9; }
-            else if (d == 9) { d = 6; }
+            d   = d == 6 ? 9 : d == 9 ? 6 : d;
             num = num * 10 + d;
             n /= 10;
         }
     }
-    if (abort) { cumple = false; }
-    else { cumple = (num == m); }
-    return cumple;
+    return (end ? false : num == m);
 }
-
 int main()
 {
     int a, odds = 0;

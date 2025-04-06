@@ -6,13 +6,9 @@ int main()
     int parentesis = 0;
     while (parentesis >= 0 and cin >> ch)
     {
-        if (ch == '(')
-            parentesis++;
-        else
-            parentesis--;
+        if (ch == '(') { parentesis++; }
+        else { parentesis--; }
     }
-    if (parentesis == 0)
-        cout << "si" << endl;
-    else
-        cout << "no" << endl;
+    if (parentesis == 0) { cout << "si" << endl; }
+    else { cout << "no" << endl; }
 }

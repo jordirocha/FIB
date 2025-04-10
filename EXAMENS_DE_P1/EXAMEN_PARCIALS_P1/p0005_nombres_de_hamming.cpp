@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 bool es_de_hamming(int x)
 {
     while (x % 2 == 0) x /= 2;
@@ -8,30 +7,21 @@ bool es_de_hamming(int x)
     while (x % 5 == 0) x /= 5;
     return x == 1;
 }
-
 int main()
 {
     int n;
     while (cin >> n)
     {
-        int number = 1;
-        if (n > 0)
+        int i = 1, num = 2;
+        if (n != 0) cout << 1;
+        while (i < n)
         {
-            if (es_de_hamming(number))
+            if (es_de_hamming(num))
             {
-                cout << number;
-                --n;
+                cout << ',' << num;
+                i++;
             }
-        }
-        ++number;
-        while (n > 0)
-        {
-            if (es_de_hamming(number))
-            {
-                cout << ',' << number;
-                --n;
-            }
-            ++number;
+            num++;
         }
         cout << endl;
     }

@@ -57,6 +57,7 @@ AllowShortLoopsOnASingleLine: true
 AllowShortCaseLabelsOnASingleLine: true
 AlwaysBreakAfterDefinitionReturnType: None
 
+
 # Espaciado y alineación
 SpacesInParentheses: false
 SpacesInSquareBrackets: false
@@ -65,7 +66,7 @@ SpaceBeforeParens: ControlStatements
 SpaceAfterCStyleCast: false
 
 # Líneas largas
-ColumnLimit: 80
+ColumnLimit: 90
 BreakBeforeBinaryOperators: NonAssignment
 AlignConsecutiveAssignments: true
 AlignOperands: true

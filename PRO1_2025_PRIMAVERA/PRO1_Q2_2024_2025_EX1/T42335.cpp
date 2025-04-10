@@ -1,5 +1,5 @@
-#include <iostream>
 #include <cmath>
+#include <iostream>
 using namespace std;
 
 int diferencia(int x, int y)
@@ -7,19 +7,12 @@ int diferencia(int x, int y)
     int res;
     if (x >= 10 or y >= 10)
     {
-        res = diferencia(x / 10, y / 10);
+        res   = diferencia(x / 10, y / 10);
         int a = x % 10;
         int b = y % 10;
-        // cout << "caso recursivo" << endl;
-        // cout << a << " " << b << endl;
         return abs(a - b) + res;
     }
-    else
-    {
-        // cout << "caso base" << endl;
-        // cout << x << " " << y << endl;
-        res = abs(x - y);
-    }
+    else { res = abs(x - y); }
 
     return res;
 }
@@ -27,34 +20,16 @@ int diferencia(int x, int y)
 int main()
 {
     bool desc = true;
-    int a, b;
-    int diff = 0;
-    // cin >> a >> b;
+    int a, b, diff = 0;
     cin >> a;
-
     while (desc and cin >> b)
     {
-        // cout << a
-        //      << " "
-        //      << b << endl;
-
-        if (diff > diferencia(a, b))
-        {
-            desc = false;
-        }
-        else
-        {
-            diff = diferencia(a, b);
-        }
+        int temp = diferencia(a, b);
+        if (diff > temp) { desc = false; }
+        else { diff = temp; }
         a = b;
     }
 
-    if (desc)
-    {
-        cout << "SI" << endl;
-    }
-    else
-    {
-        cout << "NO" << endl;
-    }
+    if (desc) { cout << "SI" << endl; }
+    else { cout << "NO" << endl; }
 }

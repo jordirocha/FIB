@@ -11,17 +11,12 @@ int main()
 {
     char ch;
     cin >> ch;
-
     bool flag = false;
-
     while (ch != '.' and not flag)
     {
         flag = (ch == 'a');
         cin >> ch;
     }
-
-    if (flag)
-        cout << "si" << endl;
-    else
-        cout << "no" << endl;
+    if (flag) { cout << "si" << endl; }
+    else { cout << "no" << endl; }
 }

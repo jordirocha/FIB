@@ -22,7 +22,7 @@ SpaceBeforeParens: ControlStatements
 SpaceAfterCStyleCast: false
 
 # Líneas largas
-ColumnLimit: 90
+ColumnLimit: 100
 BreakBeforeBinaryOperators: NonAssignment
 AlignConsecutiveAssignments: true
 AlignOperands: true

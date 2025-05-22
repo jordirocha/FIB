@@ -30,18 +30,18 @@ vector<int> llegeix_vector(int tamany)
 void ordena(vector<int> &v, int pos)
 {
     vector<int> sorted(v.size());
-    int j = 0;
-    for (int i = pos; i < v.size(); i++)
-    {
-        sorted[j] = v[i];
-        j++;
-    }
     for (int i = 0; i < pos; i++)
     {
-        sorted[j] = v[i];
-        j++;
+        int a     = v[pos - 1 - i];
+        int index = pos - i;
+        while (index < v.size() and a > v[index])
+        {
+            v[index - 1] = v[index];
+            index++;
+        }
+        index--;
+        v[index] = a;
     }
-    v = sorted;
 }
 
 int main()

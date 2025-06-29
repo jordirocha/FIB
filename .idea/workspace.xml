@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BackendCodeEditorMiscSettings">
-    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="4" type="long" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
@@ -20,29 +21,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_REAVALUACIO/actualitza_inventari.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_REAVALUACIO/descomposicio_factorial.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_REAVALUACIO/ordena_cremallera.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_REAVALUACIO/vector_e.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_2/decodificacio.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_2/lliga_de_basquet.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_2/ordena_un_vector_v.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_2/plega_la_matriu.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_2/vector_v.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0018_numeros_d_azathoth.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0019_rotacions_cap_a_la_dreta.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/VECTORS/fusio_de_taules.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/VECTORS/moda.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2024_2025_Q1_C2_T1_A5_S113/ofuscacio.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_1/ofuscacio.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2024_2025_Q1_C2_T1_A5_S113/ordena_un_vector_r.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_1/ordena_un_vector_r.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2024_2025_Q1_C2_T1_A5_S113/sum_frame_of_a_matrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_1/sum_frame_of_a_matrix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO1_2024_2025_Q1_C2_T1_A5_S113/vector_r.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_1/vector_r.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ClangdSettings">
-    <option name="formatViaClangd" value="false" />
   </component>
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="true" />
@@ -59,112 +48,13 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jordirocha/FIB.git&quot;,
-    &quot;accountId&quot;: &quot;2f43da02-13a4-436f-9beb-81b43e6c1371&quot;
+    &quot;accountId&quot;: &quot;851a00cb-18ff-452a-ab97-76325b27ffa4&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0009_economies_solvents.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PRO1_2025_PRIMAVERA/FINAL_2024_2025_Q1_TORN_1/lliga_de_futbol.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PRO1_2025_PRIMAVERA/Tuples/vectors_normalitzats.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -255,6 +145,7 @@
     "C/C++ File.factor_mes_frequent.cpp.executor": "Run",
     "C/C++ File.felicitat_i_tristesa_1.cpp.executor": "Debug",
     "C/C++ File.funcio_per_engreixar_nombres.cpp.executor": "Run",
+    "C/C++ File.fusio_de_taules.cpp.executor": "Run",
     "C/C++ File.garbell_d_eratostenes.cpp.executor": "Run",
     "C/C++ File.generant_trenes.cpp.executor": "Run",
     "C/C++ File.generant_ziga_zaga.cpp.executor": "Run",
@@ -275,6 +166,7 @@
     "C/C++ File.lliga_de_futbol.cpp.executor": "Run",
     "C/C++ File.majuscules_i_minuscules.cpp.executor": "Run",
     "C/C++ File.matriu_transposta.cpp.executor": "Run",
+    "C/C++ File.moda.cpp.executor": "Run",
     "C/C++ File.moviments_en_el_pla.cpp.executor": "Run",
     "C/C++ File.nombres_harmonics_1.cpp.executor": "Run",
     "C/C++ File.nombres_harmonics_2.cpp.executor": "Run",
@@ -302,6 +194,8 @@
     "C/C++ File.p0012_nombres_diabolics.cpp.executor": "Run",
     "C/C++ File.p0013_paraules_entre_guions.cpp (1).executor": "Run",
     "C/C++ File.p0013_paraules_entre_guions.cpp.executor": "Run",
+    "C/C++ File.p0018_numeros_d_azathoth.cpp.executor": "Run",
+    "C/C++ File.p0019_rotacions_cap_a_la_dreta.cpp.executor": "Run",
     "C/C++ File.p5_una_paraula_mal_posada.cpp.executor": "Debug",
     "C/C++ File.paraules_consecutives_repetides.cpp.executor": "Run",
     "C/C++ File.paraules_entre_altres_dues.cpp.executor": "Profiler",
@@ -362,7 +256,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs.jest.jest_package": "",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -376,7 +270,7 @@
       <recent name="C:\Users\jordi\CLionProjects\FIB\PRO1_2025_PRIMAVERA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.actualitza_inventari.cpp">
+  <component name="RunManager" selected="C/C++ File.p0019_rotacions_cap_a_la_dreta.cpp">
     <configuration name="Control C302D.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="Control C302D.cpp" CONFIG_NAME="Control C302D.cpp">
       <option name="sourceFile" value="CONTROLS_P1\Control C302D.cpp" />
       <method v="2">
@@ -737,6 +631,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="fusio_de_taules.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="fusio_de_taules.cpp" CONFIG_NAME="fusio_de_taules.cpp">
+      <option name="sourceFile" value="EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/VECTORS/fusio_de_taules.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="generant_trenes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="generant_trenes.cpp" CONFIG_NAME="generant_trenes.cpp">
       <option name="sourceFile" value="EXERCICIS_DE_CONSOLIDACIO_PER_AL_PARCIAL\ITERACIONS\generant_trenes.cpp" />
       <method v="2">
@@ -835,6 +735,12 @@
     </configuration>
     <configuration name="maxim_comu_divisor_recursiu.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="maxim_comu_divisor_recursiu.cpp" CONFIG_NAME="maxim_comu_divisor_recursiu.cpp">
       <option name="sourceFile" value="Jutge\EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL\ALTERNATIVES\maxim_comu_divisor_recursiu.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="moda.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="moda.cpp" CONFIG_NAME="moda.cpp">
+      <option name="sourceFile" value="EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/VECTORS/moda.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -967,6 +873,18 @@
     </configuration>
     <configuration name="p0013_paraules_entre_guions.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p0013_paraules_entre_guions.cpp" CONFIG_NAME="p0013_paraules_entre_guions.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0013_paraules_entre_guions.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p0018_numeros_d_azathoth.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p0018_numeros_d_azathoth.cpp" CONFIG_NAME="p0018_numeros_d_azathoth.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0018_numeros_d_azathoth.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p0019_rotacions_cap_a_la_dreta.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p0019_rotacions_cap_a_la_dreta.cpp" CONFIG_NAME="p0019_rotacions_cap_a_la_dreta.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0019_rotacions_cap_a_la_dreta.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -1193,6 +1111,11 @@
       <workItem from="1749496173248" duration="7262000" />
       <workItem from="1749549849827" duration="8487000" />
       <workItem from="1749566411216" duration="16668000" />
+      <workItem from="1751102218066" duration="54000" />
+      <workItem from="1751102278870" duration="62000" />
+      <workItem from="1751103842535" duration="1952000" />
+      <workItem from="1751131007028" duration="7286000" />
+      <workItem from="1751201923537" duration="6566000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />

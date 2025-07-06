@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BackendCodeEditorMiscSettings">
-    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="4" type="long" />
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue" value="true" type="bool" />
@@ -21,12 +21,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="110fc555-6939-447c-8ff6-3b61cb5b3f95" name="Changes" comment="New files added">
-      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0018_numeros_d_azathoth.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0019_rotacions_cap_a_la_dreta.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/VECTORS/fusio_de_taules.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCICIS_DE_CONSOLIDACIO_PER_AL_FINAL/VECTORS/moda.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c303_b.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c401_c.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c402_b.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c501_b.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0021_el_rusc_d_abelles.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0023_els_triangles_bufons.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.clang-format" beforeDir="false" afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c303_c.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c303_c.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c402_e.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/control_c402_e.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/ziga_zaga.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/CONTROLS_P1/ziga_zaga.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0008_sumes_i_restes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0008_sumes_i_restes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0020_el_rellotge_de_l_amalia.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0020_el_rellotge_de_l_amalia.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +56,16 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/jordirocha/FIB.git&quot;,
-    &quot;accountId&quot;: &quot;851a00cb-18ff-452a-ab97-76325b27ffa4&quot;
+    &quot;accountId&quot;: &quot;4e76a180-89bd-4ca3-92b7-d5a59f907aaa&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0009_economies_solvents.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -69,197 +83,206 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.Control C302D.cpp.executor": "Run",
-    "C/C++ File.Control C502F.cpp.executor": "Run",
-    "C/C++ File.actualitza_inventari.cpp.executor": "Run",
-    "C/C++ File.algun_nombre_capicua.cpp.executor": "Run",
-    "C/C++ File.anys_de_traspas.cpp.executor": "Run",
-    "C/C++ File.assignacio_2.cpp.executor": "Run",
-    "C/C++ File.barres_1.cpp.executor": "Run",
-    "C/C++ File.buscant_una_a.cpp.executor": "Run",
-    "C/C++ File.camps.cpp.executor": "Run",
-    "C/C++ File.canvis_de_base.cpp.executor": "Run",
-    "C/C++ File.cap_avall.cpp.executor": "Run",
-    "C/C++ File.capicues.cpp.executor": "Run",
-    "C/C++ File.cercles_1.cpp.executor": "Run",
-    "C/C++ File.classificacio_de_caracters.cpp.executor": "Run",
-    "C/C++ File.codi_cesar.cpp.executor": "Run",
-    "C/C++ File.comparant_resultats_d_operacions.cpp.executor": "Run",
-    "C/C++ File.concatenacio_de_vectors.cpp.executor": "Run",
-    "C/C++ File.control_c101_a.cpp.executor": "Run",
-    "C/C++ File.control_c101_b.cpp.executor": "Run",
-    "C/C++ File.control_c101_c.cpp.executor": "Run",
-    "C/C++ File.control_c102_b.cpp.executor": "Run",
-    "C/C++ File.control_c102_c.cpp.executor": "Run",
-    "C/C++ File.control_c102_d.cpp.executor": "Run",
-    "C/C++ File.control_c102_e.cpp.executor": "Run",
-    "C/C++ File.control_c102_f.cpp.executor": "Run",
-    "C/C++ File.control_c103_a.cpp.executor": "Run",
-    "C/C++ File.control_c103_b.cpp.executor": "Run",
-    "C/C++ File.control_c201_a.cpp.executor": "Run",
-    "C/C++ File.control_c201_c.cpp.executor": "Run",
-    "C/C++ File.control_c202_b.cpp.executor": "Run",
-    "C/C++ File.control_c202_c.cpp.executor": "Run",
-    "C/C++ File.control_c202_d.cpp.executor": "Run",
-    "C/C++ File.control_c202_e.cpp.executor": "Run",
-    "C/C++ File.control_c202_f.cpp.executor": "Run",
-    "C/C++ File.control_c301_c.cpp.executor": "Run",
-    "C/C++ File.control_c302_a.cpp.executor": "Debug",
-    "C/C++ File.control_c302_c.cpp.executor": "Run",
-    "C/C++ File.control_c302_d.cpp.executor": "Run",
-    "C/C++ File.control_c302_e.cpp.executor": "Debug",
-    "C/C++ File.control_c302_f.cpp.executor": "Debug",
-    "C/C++ File.control_c303_a.cpp.executor": "Run",
-    "C/C++ File.control_c303_c.cpp.executor": "Run",
-    "C/C++ File.control_c401_a.cpp.executor": "Run",
-    "C/C++ File.control_c402_a.cpp.executor": "Run",
-    "C/C++ File.control_c402_d.cpp.executor": "Run",
-    "C/C++ File.control_c402_e.cpp.executor": "Run",
-    "C/C++ File.control_c402_f.cpp.executor": "Run",
-    "C/C++ File.control_c403_a.cpp.executor": "Run",
-    "C/C++ File.control_c403_b.cpp.executor": "Run",
-    "C/C++ File.control_c403_c.cpp.executor": "Run",
-    "C/C++ File.control_c501_a.cpp.executor": "Run",
-    "C/C++ File.control_c501_c.cpp.executor": "Run",
-    "C/C++ File.control_c502_e.cpp.executor": "Run",
-    "C/C++ File.dates_valides.cpp.executor": "Run",
-    "C/C++ File.decodificacio.cpp.executor": "Run",
-    "C/C++ File.descomposicio_factorial.cpp.executor": "Run",
-    "C/C++ File.descomposicio_horaria_1.cpp.executor": "Run",
-    "C/C++ File.digits_centrals.cpp (1).executor": "Run",
-    "C/C++ File.digits_centrals.cpp.executor": "Run",
-    "C/C++ File.distancia_entre_dos_punts.cpp.executor": "Run",
-    "C/C++ File.divisors_en_ordre.cpp (1).executor": "Run",
-    "C/C++ File.divisors_en_ordre.cpp.executor": "Run",
-    "C/C++ File.enumera_nombres_bicolor.cpp.executor": "Run",
-    "C/C++ File.enumera_nombres_entrepa.cpp.executor": "Run",
-    "C/C++ File.equacions_sobre_digits.cpp.executor": "Run",
-    "C/C++ File.es_la_solucio_d_un_sudoku.cpp.executor": "Run",
-    "C/C++ File.escriviu_una_creu.cpp.executor": "Run",
-    "C/C++ File.estudiants.cpp.executor": "Run",
-    "C/C++ File.f001a._alumnes_de_la_fips.cpp.executor": "Run",
-    "C/C++ File.f004_b_productes_estables.cpp.executor": "Run",
-    "C/C++ File.f008b._suma_de_fraccions.cpp.executor": "Run",
-    "C/C++ File.factor_mes_frequent.cpp.executor": "Run",
-    "C/C++ File.felicitat_i_tristesa_1.cpp.executor": "Debug",
-    "C/C++ File.funcio_per_engreixar_nombres.cpp.executor": "Run",
-    "C/C++ File.fusio_de_taules.cpp.executor": "Run",
-    "C/C++ File.garbell_d_eratostenes.cpp.executor": "Run",
-    "C/C++ File.generant_trenes.cpp.executor": "Run",
-    "C/C++ File.generant_ziga_zaga.cpp.executor": "Run",
-    "C/C++ File.i_esim_1.cpp.executor": "Run",
-    "C/C++ File.i_esim_3.cpp.executor": "Run",
-    "C/C++ File.icones_ascii.cpp.executor": "Run",
-    "C/C++ File.intercalacio_de_nombres.cpp (1).executor": "Run",
-    "C/C++ File.intercalacio_de_nombres.cpp.executor": "Run",
-    "C/C++ File.intervals_1.cpp.executor": "Debug",
-    "C/C++ File.intervals_2.cpp.executor": "Debug",
-    "C/C++ File.inversio_de_sequencies.cpp.executor": "Run",
-    "C/C++ File.la_pica_d_estats.cpp.executor": "Run",
-    "C/C++ File.la_sequencia_de_collatz.cpp.executor": "Run",
-    "C/C++ File.la_sequencia_perduda.cpp.executor": "Run",
-    "C/C++ File.llegiu_un_nombre_racional_1.cpp (1).executor": "Run",
-    "C/C++ File.llegiu_un_nombre_racional_1.cpp.executor": "Run",
-    "C/C++ File.lliga_de_basquet.cpp.executor": "Debug",
-    "C/C++ File.lliga_de_futbol.cpp.executor": "Run",
-    "C/C++ File.majuscules_i_minuscules.cpp.executor": "Run",
-    "C/C++ File.matriu_transposta.cpp.executor": "Run",
-    "C/C++ File.moda.cpp.executor": "Run",
-    "C/C++ File.moviments_en_el_pla.cpp.executor": "Run",
-    "C/C++ File.nombres_harmonics_1.cpp.executor": "Run",
-    "C/C++ File.nombres_harmonics_2.cpp.executor": "Run",
-    "C/C++ File.nombres_perfectes.cpp.executor": "Run",
-    "C/C++ File.numero_de_cifras.cpp.executor": "Run",
-    "C/C++ File.numero_del_reves.cpp.executor": "Run",
-    "C/C++ File.octagons_facilets.cpp (1).executor": "Run",
-    "C/C++ File.ofuscacio.cpp.executor": "Run",
-    "C/C++ File.ordena_cremallera.cpp.executor": "Run",
-    "C/C++ File.ordena_un_vector_r.cpp (1).executor": "Run",
-    "C/C++ File.ordena_un_vector_r.cpp.executor": "Run",
-    "C/C++ File.ordena_un_vector_v.cpp.executor": "Run",
-    "C/C++ File.p0001_nombres_ascendents.cpp (1).executor": "Run",
-    "C/C++ File.p0001_nombres_ascendents.cpp.executor": "Run",
-    "C/C++ File.p0003_nombres_amics.cpp.executor": "Run",
-    "C/C++ File.p0004_nombres_estrobogramatics.cpp.executor": "Run",
-    "C/C++ File.p0005_nombres_de_hamming.cpp.executor": "Run",
-    "C/C++ File.p0006_nombres_fantastics.cpp.executor": "Run",
-    "C/C++ File.p0007_nombres_egipcis.cpp.executor": "Run",
-    "C/C++ File.p0008_sumes_i_restes.cpp.executor": "Run",
-    "C/C++ File.p0008_sumes_i_restes2.cpp.executor": "Run",
-    "C/C++ File.p0009_economies_solvents.cpp.executor": "Run",
-    "C/C++ File.p0010_paraules_en_posicions_senars.cpp.executor": "Run",
-    "C/C++ File.p0011_distancia_de_hamming.cpp.executor": "Run",
-    "C/C++ File.p0012_nombres_diabolics.cpp.executor": "Run",
-    "C/C++ File.p0013_paraules_entre_guions.cpp (1).executor": "Run",
-    "C/C++ File.p0013_paraules_entre_guions.cpp.executor": "Run",
-    "C/C++ File.p0018_numeros_d_azathoth.cpp.executor": "Run",
-    "C/C++ File.p0019_rotacions_cap_a_la_dreta.cpp.executor": "Run",
-    "C/C++ File.p5_una_paraula_mal_posada.cpp.executor": "Debug",
-    "C/C++ File.paraules_consecutives_repetides.cpp.executor": "Run",
-    "C/C++ File.paraules_entre_altres_dues.cpp.executor": "Profiler",
-    "C/C++ File.paraules_repetides.cpp.executor": "Run",
-    "C/C++ File.parells_d_una_sequencia_1.cpp.executor": "Run",
-    "C/C++ File.parentesis.cpp.executor": "Debug",
-    "C/C++ File.parvulari.cpp.executor": "Run",
-    "C/C++ File.posicio_del_maxim.cpp.executor": "Run",
-    "C/C++ File.posicions_d_un_maxim_a_dues_sequencies.cpp.executor": "Run",
-    "C/C++ File.primalitat.cpp.executor": "Run",
-    "C/C++ File.primera_posicio.cpp.executor": "Run",
-    "C/C++ File.productes_de_matrius_quadrades.cpp.executor": "Debug",
-    "C/C++ File.productes_de_matrius_qualssevol.cpp.executor": "Run",
-    "C/C++ File.quantes_xifres.cpp.executor": "Run",
-    "C/C++ File.quants_segons_son.cpp.executor": "Run",
-    "C/C++ File.racionals_1.cpp.executor": "Run",
-    "C/C++ File.racionals_4.cpp.executor": "Run",
-    "C/C++ File.rampes.cpp.executor": "Run",
-    "C/C++ File.rectangles_1.cpp.executor": "Run",
-    "C/C++ File.rectangles_2.cpp.executor": "Run",
-    "C/C++ File.rellotge.cpp.executor": "Run",
-    "C/C++ File.segona_paraula_maxima.cpp (1).executor": "Run",
-    "C/C++ File.segona_paraula_maxima.cpp.executor": "Run",
-    "C/C++ File.seguent_primer.cpp.executor": "Run",
-    "C/C++ File.sequencies_similars_2.cpp.executor": "Run",
-    "C/C++ File.sum_frame_of_a_matrix.cpp.executor": "Run",
-    "C/C++ File.suma_d_un_segon.cpp.executor": "Run",
-    "C/C++ File.suma_de_digits.cpp.executor": "Run",
-    "C/C++ File.suma_de_digits_2.cpp.executor": "Run",
-    "C/C++ File.sumar_i_restar_un_segon.cpp.executor": "Run",
-    "C/C++ File.tauler_d_escacs_2.cpp.executor": "Run",
-    "C/C++ File.temperatures.cpp.executor": "Run",
-    "C/C++ File.tobogans.cpp.executor": "Run",
-    "C/C++ File.tobogans_2.cpp.executor": "Run",
-    "C/C++ File.triangle.cpp.executor": "Run",
-    "C/C++ File.trigonometria.cpp.executor": "Run",
-    "C/C++ File.vector_e.cpp.executor": "Run",
-    "C/C++ File.vector_r.cpp.executor": "Run",
-    "C/C++ File.vector_v.cpp.executor": "Run",
-    "C/C++ File.vectors_normalitzats.cpp.executor": "Run",
-    "C/C++ File.words_between_two_words.cpp.executor": "Profiler",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.advertisement.text.has.clang-format": "true",
-    "cf.advertisement.text.overridden": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/home/jordi/CLionProjects/FIB/PRO1_2024_2025_Q1_C2_T1_A5_S113",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs.jest.jest_package": "",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.Control C302D.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Control C502F.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.actualitza_inventari.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.algun_nombre_capicua.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.anys_de_traspas.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.assignacio_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.barres_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.buscant_una_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.camps.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.canvis_de_base.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.cap_avall.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.capicues.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.cercles_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.classificacio_de_caracters.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.codi_cesar.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.comparant_resultats_d_operacions.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.concatenacio_de_vectors.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c101_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c101_b.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c101_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c102_b.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c102_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c102_d.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c102_e.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c102_f.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c103_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c103_b.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c201_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c201_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c202_b.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c202_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c202_d.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c202_e.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c202_f.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c301_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c302_a.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.control_c302_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c302_d.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c302_e.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.control_c302_f.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.control_c303_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c303_b.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c303_c.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c303_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c401_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c401_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c402_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c402_b.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c402_d.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c402_e.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c402_f.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c403_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c403_b.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c403_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c501_a.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c501_b.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c501_c.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.control_c502_e.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.dates_valides.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.decodificacio.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.descomposicio_factorial.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.descomposicio_horaria_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.digits_centrals.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.digits_centrals.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.distancia_entre_dos_punts.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.divisors_en_ordre.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.divisors_en_ordre.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.enumera_nombres_bicolor.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.enumera_nombres_entrepa.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.equacions_sobre_digits.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.es_la_solucio_d_un_sudoku.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.escriviu_una_creu.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.estudiants.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.f001a._alumnes_de_la_fips.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.f004_b_productes_estables.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.f008b._suma_de_fraccions.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.factor_mes_frequent.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.felicitat_i_tristesa_1.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.funcio_per_engreixar_nombres.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.fusio_de_taules.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.garbell_d_eratostenes.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.generant_trenes.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.generant_ziga_zaga.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.i_esim_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.i_esim_3.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.icones_ascii.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.intercalacio_de_nombres.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.intercalacio_de_nombres.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.intervals_1.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.intervals_2.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.inversio_de_sequencies.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.la_pica_d_estats.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.la_sequencia_de_collatz.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.la_sequencia_perduda.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.llegiu_un_nombre_racional_1.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.llegiu_un_nombre_racional_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.lliga_de_basquet.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.lliga_de_futbol.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.majuscules_i_minuscules.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.matriu_transposta.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.moda.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.moviments_en_el_pla.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nombres_harmonics_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nombres_harmonics_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.nombres_perfectes.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.numero_de_cifras.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.numero_del_reves.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.octagons_facilets.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ofuscacio.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ordena_cremallera.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ordena_un_vector_r.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ordena_un_vector_r.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.ordena_un_vector_v.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0001_nombres_ascendents.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0001_nombres_ascendents.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0003_nombres_amics.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0004_nombres_estrobogramatics.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0005_nombres_de_hamming.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0006_nombres_fantastics.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0007_nombres_egipcis.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0008_sumes_i_restes.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0008_sumes_i_restes2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0009_economies_solvents.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0010_paraules_en_posicions_senars.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0011_distancia_de_hamming.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0012_nombres_diabolics.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0013_paraules_entre_guions.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0013_paraules_entre_guions.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0018_numeros_d_azathoth.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0019_rotacions_cap_a_la_dreta.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0020_el_rellotge_de_l_amalia.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0021_el_rusc_d_abelles.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p0023_els_triangles_bufons.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.p5_una_paraula_mal_posada.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.paraules_consecutives_repetides.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.paraules_entre_altres_dues.cpp.executor&quot;: &quot;Profiler&quot;,
+    &quot;C/C++ File.paraules_repetides.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.parells_d_una_sequencia_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.parentesis.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.parvulari.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.posicio_del_maxim.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.posicions_d_un_maxim_a_dues_sequencies.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.primalitat.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.primera_posicio.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.productes_de_matrius_quadrades.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.productes_de_matrius_qualssevol.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.quantes_xifres.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.quants_segons_son.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.racionals_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.racionals_4.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.rampes.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.rectangles_1.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.rectangles_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.rellotge.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.segona_paraula_maxima.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.segona_paraula_maxima.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.seguent_primer.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sequencies_similars_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sum_frame_of_a_matrix.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.suma_d_un_segon.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.suma_de_digits.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.suma_de_digits_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.sumar_i_restar_un_segon.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.tauler_d_escacs_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.temperatures.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.tobogans.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.tobogans_2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.triangle.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.trigonometria.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.vector_e.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.vector_r.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.vector_v.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.vectors_normalitzats.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.words_between_two_words.cpp.executor&quot;: &quot;Profiler&quot;,
+    &quot;C/C++ File.ziga_zaga.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jordi/CLionProjects/FIB/PRO1_2024_2025_Q1_C2_T1_A5_S113&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/PRO1_2024_2025_Q1_C2_T1_A5_S113" />
@@ -270,7 +293,7 @@
       <recent name="C:\Users\jordi\CLionProjects\FIB\PRO1_2025_PRIMAVERA" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.p0019_rotacions_cap_a_la_dreta.cpp">
+  <component name="RunManager" selected="C/C++ File.ziga_zaga.cpp">
     <configuration name="Control C302D.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="Control C302D.cpp" CONFIG_NAME="Control C302D.cpp">
       <option name="sourceFile" value="CONTROLS_P1\Control C302D.cpp" />
       <method v="2">
@@ -333,18 +356,6 @@
     </configuration>
     <configuration name="concatenacio_de_vectors.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="concatenacio_de_vectors.cpp" CONFIG_NAME="concatenacio_de_vectors.cpp">
       <option name="sourceFile" value="PRO1_2025_PRIMAVERA/Vectors/concatenacio_de_vectors.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="control_c102_e.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c102_e.cpp" CONFIG_NAME="control_c102_e.cpp">
-      <option name="sourceFile" value="CONTROLS_P1\control_c102_e.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="control_c102_f.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c102_f.cpp" CONFIG_NAME="control_c102_f.cpp">
-      <option name="sourceFile" value="CONTROLS_P1\control_c102_f.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -463,6 +474,18 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="control_c303_b.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c303_b.cpp" CONFIG_NAME="control_c303_b.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/CONTROLS_P1/control_c303_b.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c303_c.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c303_c.cpp (1)" CONFIG_NAME="control_c303_c.cpp (1)">
+      <option name="sourceFile" value="EXAMENS_DE_P1/CONTROLS_P1/control_c303_c.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="control_c303_c.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c303_c.cpp" CONFIG_NAME="control_c303_c.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1\CONTROLS_P1\control_c303_c.cpp" />
       <method v="2">
@@ -481,6 +504,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="control_c401_c.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c401_c.cpp" CONFIG_NAME="control_c401_c.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/CONTROLS_P1/control_c401_c.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="control_c402_a.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c402_a.cpp" CONFIG_NAME="control_c402_a.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1/CONTROLS_P1/control_c402_a.cpp" />
       <method v="2">
@@ -489,6 +518,12 @@
     </configuration>
     <configuration name="control_c402_a.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c402_a.cpp" CONFIG_NAME="control_c402_a.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1/CONTROLS_P1/control_c402_a.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c402_b.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c402_b.cpp" CONFIG_NAME="control_c402_b.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/CONTROLS_P1/control_c402_b.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -555,6 +590,12 @@
     </configuration>
     <configuration name="control_c501_a.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c501_a.cpp" CONFIG_NAME="control_c501_a.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1\CONTROLS_P1\control_c501_a.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="control_c501_b.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="control_c501_b.cpp" CONFIG_NAME="control_c501_b.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/CONTROLS_P1/control_c501_b.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -829,6 +870,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0008_sumes_i_restes.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p0008_sumes_i_restes.cpp (1)" CONFIG_NAME="p0008_sumes_i_restes.cpp (1)">
+      <option name="sourceFile" value="EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0008_sumes_i_restes.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p0008_sumes_i_restes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p0008_sumes_i_restes.cpp" CONFIG_NAME="p0008_sumes_i_restes.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1\EXAMEN_PARCIALS_P1\p0008_sumes_i_restes.cpp" />
       <method v="2">
@@ -885,6 +932,24 @@
     </configuration>
     <configuration name="p0019_rotacions_cap_a_la_dreta.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p0019_rotacions_cap_a_la_dreta.cpp" CONFIG_NAME="p0019_rotacions_cap_a_la_dreta.cpp">
       <option name="sourceFile" value="EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0019_rotacions_cap_a_la_dreta.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p0020_el_rellotge_de_l_amalia.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p0020_el_rellotge_de_l_amalia.cpp" CONFIG_NAME="p0020_el_rellotge_de_l_amalia.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0020_el_rellotge_de_l_amalia.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p0021_el_rusc_d_abelles.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p0021_el_rusc_d_abelles.cpp" CONFIG_NAME="p0021_el_rusc_d_abelles.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0021_el_rusc_d_abelles.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p0023_els_triangles_bufons.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="p0023_els_triangles_bufons.cpp" CONFIG_NAME="p0023_els_triangles_bufons.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/EXAMEN_PARCIALS_P1/p0023_els_triangles_bufons.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -991,13 +1056,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ziga_zaga.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FIB" TARGET_NAME="ziga_zaga.cpp" CONFIG_NAME="ziga_zaga.cpp">
+      <option name="sourceFile" value="EXAMENS_DE_P1/CONTROLS_P1/ziga_zaga.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.control_c402_e.cpp" />
+        <item itemvalue="C/C++ File.p0020_el_rellotge_de_l_amalia.cpp" />
         <item itemvalue="C/C++ File.p0009_economies_solvents.cpp" />
         <item itemvalue="C/C++ File.control_c403_c.cpp" />
-        <item itemvalue="C/C++ File.control_c402_e.cpp" />
         <item itemvalue="C/C++ File.control_c103_b.cpp" />
-        <item itemvalue="C/C++ File.control_c102_f.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -1116,6 +1187,16 @@
       <workItem from="1751103842535" duration="1952000" />
       <workItem from="1751131007028" duration="7286000" />
       <workItem from="1751201923537" duration="6566000" />
+      <workItem from="1751268278803" duration="168000" />
+      <workItem from="1751269160981" duration="403000" />
+      <workItem from="1751269576492" duration="1865000" />
+      <workItem from="1751271557109" duration="8808000" />
+      <workItem from="1751314078311" duration="5092000" />
+      <workItem from="1751373341936" duration="6590000" />
+      <workItem from="1751461609315" duration="6042000" />
+      <workItem from="1751482498938" duration="11858000" />
+      <workItem from="1751541376668" duration="9390000" />
+      <workItem from="1751573960195" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="New files added">
       <option name="closed" value="true" />
